@@ -1,4 +1,7 @@
-# StockSense India
+# StockSense India - prepared by 
+-SHABBER 
+-VENKATA DHEERAJ
+-SURENDRA
 
 Terminal-based Indian stock dashboard: search a company (typos auto-corrected),
 see live NSE/BSE price, today's % change, 52-week high/low, week/month/year
