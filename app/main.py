@@ -1,23 +1,25 @@
 """
 main.py
-StockSense India - terminal stock dashboard.
-Run with:  python main.py
+StockSense India - entry point. Launches Flask web server by default, or runs a terminal dashboard with --cli.
 """
 
 import json
+import sys
 
-from api_client import search_companies, get_stock, get_historical
-from utils import resolve_company, extract_price_series, pct_change, fmt_money, fmt_pct
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
+from api_client import search_companies, get_stock
+from utils import resolve_company, fmt_money, fmt_pct
+from ai_client import get_ai_analysis
 
 LINE = "=" * 64
 
 
 def find_stock(user_query):
     """
-    Step 1: try the query directly against /stock (it already handles
-             full names, short names and common names decently well).
-    Step 2: if that fails, use /industry_search + fuzzy matching to
-             correct typos, then retry /stock with the corrected name.
+    Step 1: try the query directly against /stock
+    Step 2: if that fails, use spelling correction to find match.
     """
     data = get_stock(user_query)
     if data and data.get("companyName"):
@@ -35,10 +37,13 @@ def find_stock(user_query):
 
 
 def print_price_section(data):
+    profile = data.get("companyProfile") or {}
     ticker = (
         data.get("tickerId")
         or data.get("symbol")
         or data.get("nseSymbol")
+        or profile.get("exchangeCodeNse")
+        or profile.get("exchangeCodeBse")
         or data.get("exchangeCodeNsi")
         or "N/A"
     )
@@ -57,42 +62,10 @@ def print_price_section(data):
     print(f"   High: {fmt_money(data.get('yearHigh'))}   Low: {fmt_money(data.get('yearLow'))}")
 
 
-def print_performance_section(stock_name):
-    print("\n PERFORMANCE (from historical data)")
-
-    # Past week -> derive from the 1-month series, last ~5 trading days
-    month_hist = get_historical(stock_name, period="1m")
-    month_series = extract_price_series(month_hist)
-
-    week_result = pct_change(month_series, last_n=5)
-    if week_result:
-        price, change, pct = week_result
-        print(f"   Past week : {fmt_money(price)}  ({fmt_pct(pct)})")
-    else:
-        print("   Past week : N/A")
-
-    if month_series:
-        price, change, pct = pct_change(month_series)
-        print(f"   Past month: {fmt_money(price)}  ({fmt_pct(pct)})")
-    else:
-        print("   Past month: N/A")
-
-    # Past year
-    year_hist = get_historical(stock_name, period="1yr")
-    year_series = extract_price_series(year_hist)
-    if year_series:
-        price, change, pct = pct_change(year_series)
-        print(f"   Past year : {fmt_money(price)}  ({fmt_pct(pct)})")
-    else:
-        print("   Past year : N/A")
-
-
 def print_corporate_actions(data):
     print("\n CORPORATE ANNOUNCEMENTS")
     actions = data.get("stockCorporateActionData")
 
-    # This field can come back as a list or a dict depending on the stock;
-    # handle both so the app doesn't crash.
     items = []
     if isinstance(actions, list):
         items = actions
@@ -106,9 +79,23 @@ def print_corporate_actions(data):
         return
 
     for action in items[:6]:
-        purpose = action.get("purpose") or action.get("subject") or "Action"
-        date = action.get("exDate") or action.get("date") or "N/A"
-        print(f"   - {purpose}  (Ex-date: {date})")
+        purpose = (
+            action.get("remarks")
+            or action.get("purpose")
+            or action.get("subject")
+            or "Action"
+        )
+        if isinstance(purpose, str) and not purpose.strip():
+            purpose = "Action/Meeting"
+        date = (
+            action.get("xdDate")
+            or action.get("agmDate")
+            or action.get("boardMeetDate")
+            or action.get("exDate")
+            or action.get("date")
+            or "N/A"
+        )
+        print(f"   - {purpose}  (Date: {date})")
 
 
 def print_news(data):
@@ -136,18 +123,43 @@ def show_dashboard(user_query):
         return
 
     print_price_section(data)
-    print_performance_section(data.get("companyName") or user_query)
     print_corporate_actions(data)
     print_news(data)
+
+    # Gather data for AI analysis
+    company_name = data.get("companyName") or user_query
+    current_price = data.get("currentPrice") or {}
+
+    raw_actions = []
+    actions = data.get("stockCorporateActionData")
+    if isinstance(actions, list):
+        raw_actions = actions[:3]
+    elif isinstance(actions, dict):
+        for v in actions.values():
+            if isinstance(v, list):
+                raw_actions.extend(v[:2])
+
+    news_titles = [str(item.get("title") or item.get("headline") or "Untitled") for item in (data.get("recentNews") or [])[:3]]
+
+    ai_input_data = (
+        f"NSE Current Price: {fmt_money(current_price.get('NSE'))}\n"
+        f"BSE Current Price: {fmt_money(current_price.get('BSE'))}\n"
+        f"Today's Change: {fmt_pct(data.get('percentChange'))}\n"
+        f"52-Week High: {fmt_money(data.get('yearHigh'))}\n"
+        f"52-Week Low: {fmt_money(data.get('yearLow'))}\n"
+        f"Corporate Announcements: {json.dumps(raw_actions)}\n"
+        f"News Headlines: {', '.join(news_titles)}"
+    )
+
+    print("\n AI ANALYSIS & OUTLOOK (Gemini via Vertex AI)")
+    print("   Generating AI insights...")
+    ai_outlook = get_ai_analysis(company_name, ai_input_data)
+    print(f"\n{ai_outlook}")
+
     print(f"\n{LINE}\n")
 
 
 def debug_dump(company):
-    """
-    Fetches the raw /stock response and saves it to debug_output.json
-    so the exact field names this API returns can be inspected.
-    Usage in the app: type 'debug tcs'
-    """
     data = get_stock(company)
     if not data:
         print("No data returned - nothing to dump.")
@@ -178,4 +190,15 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1 and sys.argv[1] == "--cli":
+        main()
+    else:
+        try:
+            from server import run_server
+            run_server()
+        except ImportError:
+            # Fallback in case of import path anomalies
+            import os
+            sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+            from server import run_server
+            run_server()

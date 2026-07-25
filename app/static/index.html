@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StockSense India - Financial Analytics Dashboard</title>
+    <!-- Google Fonts for premium typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- LOADING SCREEN OVERLAY -->
+    <div id="loading-overlay" class="overlay">
+        <div class="spinner-container">
+            <div class="spinner-outer"></div>
+            <div class="spinner-inner"></div>
+        </div>
+        <p id="loading-msg">Querying stock data...</p>
+    </div>
+
+    <!-- MAIN APP WRAPPER -->
+    <div class="app-container">
+        
+        <!-- HEADER HEADER -->
+        <header class="app-header">
+            <div class="brand">
+                <span class="brand-logo">📈</span>
+                <h1>StockSense India ✨</h1>
+            </div>
+            
+            <!-- Search Widget -->
+            <div class="search-wrapper">
+                <div class="search-container-wrapper">
+                    <div class="search-box">
+                        <span class="search-icon">🔍</span>
+                        <input type="text" id="search-input" placeholder="Search company (e.g. TCS, Reliance, Infosys)..." autocomplete="off">
+                    </div>
+                    <div id="search-dropdown" class="search-dropdown hidden"></div>
+                </div>
+                <button id="search-btn">Search</button>
+            </div>
+            
+            <!-- Suggestion Label -->
+            <div id="suggestion-container" class="hidden">
+                <span id="suggestion-text">Did you mean: <a href="#" id="suggestion-link">Company</a>?</span>
+            </div>
+
+            <!-- API Badges -->
+            <div class="badge-container">
+                <div class="badge" id="badge-gemini">Gemini: --</div>
+            </div>
+        </header>
+
+        <!-- MAIN DASHBOARD CONTENT -->
+        <main class="dashboard-grid">
+            
+            <!-- LEFT PANEL: Stock details, Tickers, Chart -->
+            <section class="left-panel">
+                
+                <!-- Stock Summary Card -->
+                <div class="card summary-card">
+                    <div class="stock-identity">
+                        <h2 id="stock-name">Search a Company</h2>
+                        <div id="stock-meta" class="stock-meta">TICKER: -- | Industry: --</div>
+                    </div>
+                    
+                    <hr class="divider">
+                    
+                    <!-- Digital Sub-Cards Grid -->
+                    <div class="price-cards-grid">
+                        <!-- NSE sub-card -->
+                        <div class="sub-card nse-card">
+                            <div class="accent-bar accent-blue"></div>
+                            <div class="sub-card-content">
+                                <span class="sub-label">NSE Live</span>
+                                <span id="price-nse" class="sub-value">--</span>
+                            </div>
+                        </div>
+                        
+                        <!-- BSE sub-card -->
+                        <div class="sub-card bse-card">
+                            <div class="accent-bar accent-blue"></div>
+                            <div class="sub-card-content">
+                                <span class="sub-label">BSE Live</span>
+                                <span id="price-bse" class="sub-value">--</span>
+                            </div>
+                        </div>
+                        
+                        <!-- Change sub-card -->
+                        <div id="change-card-container" class="sub-card change-card">
+                            <div class="sub-card-content">
+                                <span class="sub-label">Today's Change</span>
+                                <span id="price-change" class="sub-value">--</span>
+                            </div>
+                            <span id="change-arrow-element" class="change-arrow"></span>
+                        </div>
+                    </div>
+                    
+                    <hr class="divider">
+                    
+                    <!-- 52-Week Range -->
+                    <div class="range-wrapper">
+                        <div class="range-labels">
+                            <span class="range-title">52-WEEK RANGE</span>
+                            <div class="range-limits">
+                                <span id="range-low">Low: --</span>
+                                <span id="range-high">High: --</span>
+                            </div>
+                        </div>
+                        <div class="range-bar-container">
+                            <div class="range-bar-track">
+                                <div id="range-bar-fill" class="range-bar-fill"></div>
+                                <div id="range-bar-indicator" class="range-bar-indicator">
+                                    <div class="indicator-glow"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- AI Analysis Card -->
+                <div class="card ai-card">
+                    <div class="ai-card-header">
+                        <h3>AI Financial Analysis</h3>
+                        <div id="sentiment-badge" class="sentiment-badge neutral">
+                            <span id="sentiment-text">No Stock Selected</span>
+                        </div>
+                    </div>
+                    <div class="ai-text-container">
+                        <ul id="ai-bullet-list">
+                            <li>Enter a company name or ticker to generate AI insights.</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- RIGHT PANEL: News, Corporate Actions, AI Insights -->
+            <section class="right-panel">
+                <div class="card tabs-card">
+                    <!-- Tab Buttons Headers -->
+                    <nav class="tabs-header">
+                        <button class="tab-btn active" data-tab="news">Recent News</button>
+                        <button class="tab-btn" data-tab="actions">Announcements</button>
+                    </nav>
+                    
+                    <!-- Tab Panel Content -->
+                    <div class="tabs-content">
+                        
+                        <!-- TAB 1: News List -->
+                        <div class="tab-pane active scrollable" id="tab-news">
+                            <div id="news-container" class="scroll-list">
+                                <div class="empty-state-msg">Search for a company to view recent news.</div>
+                            </div>
+                        </div>
+                        
+                        <!-- TAB 2: Corporate Actions List -->
+                        <div class="tab-pane scrollable" id="tab-actions">
+                            <div id="actions-container" class="scroll-list">
+                                <div class="empty-state-msg">Search for a company to view announcements.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="app.js?v=115"></script>
+</body>
+</html>
