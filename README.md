@@ -34,6 +34,41 @@ The project features a **Python Flask backend** integrated with a keyless **Yaho
 
 ---
 
+## 🏗️ System Architecture
+
+StockSense India is architected as an asynchronous, single-page application (SPA) backed by a Python Flask microservice. The diagram below illustrates the data flow when a user searches for or selects a company:
+
+```mermaid
+graph TD
+    User([User Search Input]) -->|1. Type / Select| JS[app.js Frontend Orchestrator]
+    JS -->|2. HTTP GET /api/stock?query=ticker| Flask[Flask Server server.py]
+    
+    subgraph Backend Services
+        Flask -->|3. Clean & Resolve Ticker| Utils[utils.py & nse_companies.json]
+        Utils -->|4. Check Cache| Cache[(data/api_cache.json)]
+        
+        Cache -->|Hit < 2 mins| ReturnCache[Return cached response]
+        Cache -->|Miss / Stale| FetchYahoo[api_client.py Live Quote Resolver]
+        
+        FetchYahoo -->|5a. Query Host 1| YF1[query2.finance.yahoo.com]
+        FetchYahoo -->|5b. Query Host 2 Fallback| YF2[query1.finance.yahoo.com]
+        
+        FetchYahoo -->|6. Price Data| Gemini[ai_client.py Gemini Analysis]
+        Gemini -->|7a. Generate Insights| GeminiAPI[Google Gemini Flash API]
+        Gemini -->|7b. Offline Fallback| LocalRules[Local Threshold Recommendation Engine]
+    end
+    
+    ReturnCache --> JS
+    GeminiAPI -->|8. Compile & Save| Cache
+    LocalRules -->|8. Compile & Save| Cache
+    Cache -->|9. JSON Response| JS
+    
+    JS -->|10. Render UI| UI[Glassmorphic Dashboard]
+    UI -->|Recommendation Badge| Badges[BUY / SELL / HOLD]
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
