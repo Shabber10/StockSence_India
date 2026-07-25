@@ -1,52 +1,53 @@
-# StockSense India 📈✨
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=StockSense%20India&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Financial%20Analytics%20Dashboard%20%7C%20AI%20Recommendations%20%7C%20Live%20Quotes&descAlignY=56&descAlign=50"/>
 
-**Prepared by:**
-* SHABBER
-* VENKATA DHEERAJ
-* SURENDRA
+  [![Live Demo – Render](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://stocksence-india.onrender.com/)
+</div>
 
-StockSense India is a modern, responsive **Glassmorphic Financial Web Dashboard** that provides real-time stock analytics, news headlines, corporate announcements, and AI-powered recommendations (BUY/SELL/HOLD) for all listed companies on the National Stock Exchange (NSE) of India.
+# 📈 StockSense India
+
+**StockSense India** is a modern, responsive financial web dashboard designed to deliver real-time stock analytics, news headlines, corporate announcements, and AI-powered recommendations (BUY/SELL/HOLD) for all 2,360+ listed companies on the National Stock Exchange (NSE) of India.
 
 The project features a **Python Flask backend** integrated with a keyless **Yahoo Finance resolver** and the **Gemini API** for automated financial analysis, paired with a stunning frontend styled using curated vanilla CSS glassmorphism.
 
 ---
 
-## 🌟 Key Features
+## 🌐 Live Demo
 
-1. **Complete NSE Database Search (2,360+ Stocks)**:
-   - Search autocomplete dropdown containing every single equity listed on the NSE, downloaded directly from the official exchange archives.
-   - Typo tolerance and fuzzy matching support (e.g. typing `"relicance"` will match `"Reliance Industries Ltd"`).
+| Platform | Link |
+|----------|------|
+| 🟢 **Render** | [stocksence-india.onrender.com](https://stocksence-india.onrender.com/) |
 
-2. **Real-time Live Stock Data (Keyless & Sub-second)**:
-   - Fetches authentic market quotes, daily price shifts, and 52-week High/Low metrics directly from Yahoo Finance query API.
-   - Dual-host query retry fallback (`query2` / `query1`) to bypass rate throttles or gateway latencies.
-   - Live-updating 52-week range slider.
+---
 
-3. **AI Financial Outlook Bullets**:
-   - Generates professional 4-bullet point outlook summaries combining price action, corporate announcements, and market sentiment.
-   - Falls back to a local rule-based analysis generator if offline or out of API quota.
+## ✨ Features
 
-4. **Aligned Recommendation Badges**:
-   - Displays color-coded glassmorphic badges (**🟢 BUY**, **🔴 SELL**, **🟡 HOLD**) strictly aligned with price trends:
-     - **SELL**: Daily drop greater than **-1.0%**.
-     - **BUY**: Daily gain greater than **+1.0%**.
-     - **HOLD**: Flat trading day (between **-1.0%** and **+1.0%**).
-
-5. **Keyboard Navigation & Fully Responsive**:
-   - Full keyboard navigation support (Up/Down arrow keys to highlight, Enter to search, Escape to dismiss the dropdown list).
-   - Fully optimized layout adapting from wide desktop monitors to mobile phones.
+- **🔍 Complete Autocomplete Search** — Search all 2,360+ listed companies with auto-correct spelling tolerance (e.g. typing `"relicance"` will match `"Reliance Industries Ltd"`).
+- **⚡ Sub-Second Live Market Data** — Fetches live price quotes, percentage updates, and 52-week ranges directly from Yahoo Finance API.
+- **🛡️ Resilient Dual-Host Backend** — Dual-host connection retry fallback (`query2` / `query1`) to bypass rate throttles or gateway latencies.
+- **🤖 Aligned AI Recommendation Badges** — Displays glassmorphic badges (**🟢 BUY**, **🔴 SELL**, **🟡 HOLD**) aligned strictly with price actions:
+  - **SELL**: Daily drop greater than **-1.0%**.
+  - **BUY**: Daily gain greater than **+1.0%**.
+  - **HOLD**: Flat trading day (between **-1.0%** and **+1.0%**).
+- **📰 Integrated Financial News & Events** — Displays recent news headlines and upcoming corporate board meetings for the active stock.
+- **🎹 Keyboard Navigation & Accessibility** — Arrow keys to scroll selection list, Enter to search, and Escape to hide the suggestion panel.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Backend**: Python 3.11+, Flask, `requests`, `python-dotenv`
-- **Frontend**: Vanilla HTML5, CSS3 (Custom Glassmorphism properties), JavaScript (ES6)
-- **APIs**: Yahoo Finance (Market Data), Google Gemini API (Financial Analysis)
+
+| Layer | Technology |
+|-------|-----------|
+| **Frontend** | HTML5, Vanilla JavaScript (ES6+), Custom CSS (Variables, Glassmorphism, Micro-animations) |
+| **Icons & Fonts** | Google Fonts – [Outfit](https://fonts.google.com/specimen/Outfit) |
+| **Backend** | [Python 3.11+](https://www.python.org/) & [Flask](https://flask.palletsprojects.com/) |
+| **APIs** | Yahoo Finance (Market Data), Google Gemini API (Financial Analysis) |
 
 ---
 
-## 🚀 Local Setup
+## 🚀 Getting Started
 
+### 🛠️ Local Setup
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Shabber10/StockSence_India.git
@@ -59,25 +60,22 @@ The project features a **Python Flask backend** integrated with a keyless **Yaho
    ```
 
 3. **Configure Environment Variables**:
-   Create a `.env` file in the root folder (next to this `README.md` file) and add your Gemini API key:
+   Create a `.env` file in the root folder and add your Gemini API key:
    ```env
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
-4. **Launch the Dashboard**:
+4. **Launch the Server**:
    ```bash
    python app/main.py
    ```
-   *This will launch the local Flask server on `http://127.0.0.1:5000` and automatically open it in your default web browser.*
+   *This launches the server on `http://127.0.0.1:5000` and automatically opens it in your default web browser.*
 
 ---
 
-## 🌐 Deployment Guide
+## 🌐 Cloud Deployment
 
-### Option 1: Render / Railway (Recommended - 2 Minutes)
-Since the project relies on a Python backend to resolve search queries and talk to the Yahoo Finance/Gemini APIs, the simplest way is to deploy it as a single Python Web Service.
-
-#### Render Deployment Steps:
+### Render Deployment Steps:
 1. Sign in to [Render](https://render.com) and click **New > Web Service**.
 2. Connect your GitHub repository.
 3. Configure the following service settings:
@@ -88,10 +86,11 @@ Since the project relies on a Python backend to resolve search queries and talk 
    - `GEMINI_API_KEY` = `(your key)`
 5. Click **Deploy Web Service** and your dashboard will be live!
 
+---
 
 ## 📂 Project Structure
 
-```
+```text
 StockSence_India/
 ├── app/
 │   ├── static/             # Frontend assets
@@ -112,3 +111,13 @@ StockSence_India/
 ├── requirements.txt
 └── README.md
 ```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  Made with 💙 by <strong>Shabber Hussain</strong>
+</div>
