@@ -4,74 +4,60 @@ Spelling-correction (fuzzy match) and helper functions for formatting
 and calculating price changes from historical data.
 """
 
-from thefuzz import process
+from thefuzz import process, fuzz
 
 
 def resolve_company(query, candidates):
     """
-    Given what the user typed and a list of candidate dicts from
-    /industry_search, return the best-matching candidate (handles
-    typos like 'tsc' -> 'TCS', 'relaince' -> 'Reliance').
+    Given what the user typed and a list of candidate dicts, return the best-matching
+    candidate. Cleans stop-words (like 'bank', 'limited') to prevent wrong matches.
     """
     if not candidates:
         return None
 
-    names = [c.get("commonName", "") for c in candidates if c.get("commonName")]
-    if not names:
-        return None
-
-    best_name, score = process.extractOne(query, names)
-    if score < 45:  # too dissimilar, don't guess wildly
-        return None
-
+    query_clean = query.strip().lower()
+    
+    # 1. Direct exact or substring match on ticker
     for c in candidates:
-        if c.get("commonName") == best_name:
+        ticker = c.get("exchangeCodeNsi", "").strip().lower()
+        if ticker and (query_clean == ticker or ticker in query_clean):
             return c
+
+    # 2. Match after cleaning common stop words
+    stop_words = ["limited", "ltd", "industries", "services", "consultancy", "bank", "co", "corp", "corporation"]
+    
+    def clean_name(n):
+        words = n.lower().split()
+        filtered = [w for w in words if w not in stop_words]
+        return " ".join(filtered) if filtered else n.lower()
+
+    query_words = clean_name(query_clean)
+    
+    best_candidate = None
+    best_score = 0
+    
+    for c in candidates:
+        c_name = c.get("commonName", "")
+        if not c_name:
+            continue
+        
+        c_name_clean = clean_name(c_name)
+        
+        # Check if the query is a substring of the cleaned name or vice versa
+        if query_words and (query_words in c_name_clean or c_name_clean in query_words):
+            return c
+            
+        # Calculate ratio of remaining keywords
+        score = fuzz.ratio(query_words, c_name_clean)
+        if score > best_score:
+            best_score = score
+            best_candidate = c
+            
+    if best_score >= 60:
+        return best_candidate
+        
     return None
 
-
-def extract_price_series(historical_json):
-    """
-    Pulls the plain 'Price' series out of the /historical_data response.
-    Returns a list of (date_str, float_price) tuples, oldest first.
-    """
-    if not historical_json or "datasets" not in historical_json:
-        return []
-
-    for dataset in historical_json["datasets"]:
-        if dataset.get("metric") == "Price":
-            series = []
-            for point in dataset.get("values", []):
-                try:
-                    date_str, price = point[0], float(point[1])
-                    series.append((date_str, price))
-                except (IndexError, ValueError, TypeError):
-                    continue
-            return series
-    return []
-
-
-def pct_change(series, last_n=None):
-    """
-    Given a price series [(date, price), ...], compute the % change
-    from the first to the last point. If last_n is given, only look
-    at the last N points (e.g. last 5 trading days ~= 1 week).
-    """
-    if not series or len(series) < 2:
-        return None
-
-    window = series[-last_n:] if last_n else series
-    if len(window) < 2:
-        return None
-
-    start_price = window[0][1]
-    end_price = window[-1][1]
-    if start_price == 0:
-        return None
-
-    change = end_price - start_price
-    pct = (change / start_price) * 100
-    return end_price, change, pct
 
 
 def safe_float(value):

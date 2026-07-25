@@ -1,6 +1,6 @@
 """
 Basic smoke tests. Run with: python -m pytest tests/
-(Requires a valid RAPIDAPI_KEY in .env)
+(Requires a valid GEMINI_API_KEY in .env)
 """
 
 import sys
