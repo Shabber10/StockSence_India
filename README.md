@@ -88,19 +88,6 @@ Since the project relies on a Python backend to resolve search queries and talk 
    - `GEMINI_API_KEY` = `(your key)`
 5. Click **Deploy Web Service** and your dashboard will be live!
 
----
-
-### Option 2: Netlify (Frontend) + Render (Backend API)
-Netlify is a static asset hosting platform and cannot run the Python Flask server directly. If you want to host the frontend on Netlify, you can split the deployment:
-
-1. **Deploy the Python Backend on Render** (following Option 1 above).
-2. **Update the API Endpoint in `app.js`**:
-   - Change the fetch requests in `app.js` to point to your live Render backend URL (e.g. `https://your-backend.onrender.com/api/stock`).
-3. **Deploy the Static Frontend on Netlify**:
-   - Drag and drop the `app/static` directory directly onto Netlify.
-   - All static files (`index.html`, `style.css`, `app.js`, `nse_companies.json`) will be served globally!
-
----
 
 ## 📂 Project Structure
 
