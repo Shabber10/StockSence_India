@@ -1,0 +1,9446 @@
+[
+  {
+    "name": "20 Microns Ltd",
+    "ticker": "20MICRONS"
+  },
+  {
+    "name": "21St Century Management Services Ltd",
+    "ticker": "21STCENMGM"
+  },
+  {
+    "name": "360 One Wam Ltd",
+    "ticker": "360ONE"
+  },
+  {
+    "name": "3B Blackbio Dx Ltd",
+    "ticker": "3BBLACKBIO"
+  },
+  {
+    "name": "3I Infotech Ltd",
+    "ticker": "3IINFOLTD"
+  },
+  {
+    "name": "3M India Ltd",
+    "ticker": "3MINDIA"
+  },
+  {
+    "name": "3P Land Holdings Ltd",
+    "ticker": "3PLAND"
+  },
+  {
+    "name": "5Paisa Capital Ltd",
+    "ticker": "5PAISA"
+  },
+  {
+    "name": "63 Moons Technologies Ltd",
+    "ticker": "63MOONS"
+  },
+  {
+    "name": "A2Z Infra Engineering Ltd",
+    "ticker": "A2ZINFRA"
+  },
+  {
+    "name": "Aaa Technologies Ltd",
+    "ticker": "AAATECH"
+  },
+  {
+    "name": "Aadhar Housing Finance Ltd",
+    "ticker": "AADHARHFC"
+  },
+  {
+    "name": "Aakash Exploration Services Ltd",
+    "ticker": "AAKASH"
+  },
+  {
+    "name": "Aarey Drugs & Pharmaceuticals Ltd",
+    "ticker": "AAREYDRUGS"
+  },
+  {
+    "name": "Aarnav Fashions Ltd",
+    "ticker": "AARNAV"
+  },
+  {
+    "name": "Aaron Industries Ltd",
+    "ticker": "AARON"
+  },
+  {
+    "name": "Aartech Solonics Ltd",
+    "ticker": "AARTECH"
+  },
+  {
+    "name": "Aarti Drugs Ltd",
+    "ticker": "AARTIDRUGS"
+  },
+  {
+    "name": "Aarti Industries Ltd",
+    "ticker": "AARTIIND"
+  },
+  {
+    "name": "Aarti Pharmalabs Ltd",
+    "ticker": "AARTIPHARM"
+  },
+  {
+    "name": "Aarti Surfactants Ltd",
+    "ticker": "AARTISURF"
+  },
+  {
+    "name": "Aarvi Encon Ltd",
+    "ticker": "AARVI"
+  },
+  {
+    "name": "Aastha Spintex Ltd",
+    "ticker": "AASTHA"
+  },
+  {
+    "name": "Aavas Financiers Ltd",
+    "ticker": "AAVAS"
+  },
+  {
+    "name": "Aban Offshore Ltd",
+    "ticker": "ABAN"
+  },
+  {
+    "name": "Abans Enterprises Ltd",
+    "ticker": "ABANSENT"
+  },
+  {
+    "name": "Abb India Ltd",
+    "ticker": "ABB"
+  },
+  {
+    "name": "Abbott India Ltd",
+    "ticker": "ABBOTINDIA"
+  },
+  {
+    "name": "Aditya Birla Capital Ltd",
+    "ticker": "ABCAPITAL"
+  },
+  {
+    "name": "A B Cotspin India Ltd",
+    "ticker": "ABCOTS"
+  },
+  {
+    "name": "Allied Blenders And Distillers Ltd",
+    "ticker": "ABDL"
+  },
+  {
+    "name": "Aditya Birla Fashion And Retail Ltd",
+    "ticker": "ABFRL"
+  },
+  {
+    "name": "A B Infrabuild Ltd",
+    "ticker": "ABINFRA"
+  },
+  {
+    "name": "Aditya Birla Lifestyle Brands Ltd",
+    "ticker": "ABLBL"
+  },
+  {
+    "name": "Abm International Ltd",
+    "ticker": "ABMINTLLTD"
+  },
+  {
+    "name": "Abm Knowledgeware Ltd",
+    "ticker": "ABMKNO"
+  },
+  {
+    "name": "Aditya Birla Real Estate Ltd",
+    "ticker": "ABREL"
+  },
+  {
+    "name": "Aditya Birla Sun Life Amc Ltd",
+    "ticker": "ABSLAMC"
+  },
+  {
+    "name": "Acc Ltd",
+    "ticker": "ACC"
+  },
+  {
+    "name": "Accelya Solutions India Ltd",
+    "ticker": "ACCELYA"
+  },
+  {
+    "name": "Accuracy Shipping Ltd",
+    "ticker": "ACCURACY"
+  },
+  {
+    "name": "Action Construction Equipment Ltd",
+    "ticker": "ACE"
+  },
+  {
+    "name": "Ace Integrated Solutions Ltd",
+    "ticker": "ACEINTEG"
+  },
+  {
+    "name": "Archean Chemical Industries Ltd",
+    "ticker": "ACI"
+  },
+  {
+    "name": "Andhra Cements Ltd",
+    "ticker": "ACL"
+  },
+  {
+    "name": "Acme Solar Holdings Ltd",
+    "ticker": "ACMESOLAR"
+  },
+  {
+    "name": "Acs Technologies Ltd",
+    "ticker": "ACSTECH"
+  },
+  {
+    "name": "Acutaas Chemicals Ltd",
+    "ticker": "ACUTAAS"
+  },
+  {
+    "name": "Adani Energy Solutions Ltd",
+    "ticker": "ADANIENSOL"
+  },
+  {
+    "name": "Adani Enterprises Ltd",
+    "ticker": "ADANIENT"
+  },
+  {
+    "name": "Adani Green Energy Ltd",
+    "ticker": "ADANIGREEN"
+  },
+  {
+    "name": "Adani Ports And Special Economic Zone Ltd",
+    "ticker": "ADANIPORTS"
+  },
+  {
+    "name": "Adani Power Ltd",
+    "ticker": "ADANIPOWER"
+  },
+  {
+    "name": "Adf Foods Ltd",
+    "ticker": "ADFFOODS"
+  },
+  {
+    "name": "Archidply Decor Ltd",
+    "ticker": "ADL"
+  },
+  {
+    "name": "Ador Welding Ltd",
+    "ticker": "ADOR"
+  },
+  {
+    "name": "Adroit Infotech Ltd",
+    "ticker": "ADROITINFO"
+  },
+  {
+    "name": "Allied Digital Services Ltd",
+    "ticker": "ADSL"
+  },
+  {
+    "name": "Advait Energy Transitions Ltd",
+    "ticker": "ADVAIT"
+  },
+  {
+    "name": "Advance Agrolife Ltd",
+    "ticker": "ADVANCE"
+  },
+  {
+    "name": "Advani Hotels & Resorts (India) Ltd",
+    "ticker": "ADVANIHOTR"
+  },
+  {
+    "name": "Advent Hotels International Ltd",
+    "ticker": "ADVENTHTL"
+  },
+  {
+    "name": "Advanced Enzyme Technologies Ltd",
+    "ticker": "ADVENZYMES"
+  },
+  {
+    "name": "Aegis Logistics Ltd",
+    "ticker": "AEGISLOG"
+  },
+  {
+    "name": "Aegis Vopak Terminals Ltd",
+    "ticker": "AEGISVOPAK"
+  },
+  {
+    "name": "Artemis Electricals And Projects Ltd",
+    "ticker": "AEPL"
+  },
+  {
+    "name": "Aequs Ltd",
+    "ticker": "AEQUS"
+  },
+  {
+    "name": "Aeroflex Enterprises Ltd",
+    "ticker": "AEROENTER"
+  },
+  {
+    "name": "Aeroflex Industries Ltd",
+    "ticker": "AEROFLEX"
+  },
+  {
+    "name": "Aeroflex Neu Ltd",
+    "ticker": "AERONEU"
+  },
+  {
+    "name": "Amir Chand Jagdish Kumar (Exports) Ltd",
+    "ticker": "AEROPLANE"
+  },
+  {
+    "name": "Aether Industries Ltd",
+    "ticker": "AETHER"
+  },
+  {
+    "name": "Afcons Infrastructure Ltd",
+    "ticker": "AFCONS"
+  },
+  {
+    "name": "Affle 3I Ltd",
+    "ticker": "AFFLE"
+  },
+  {
+    "name": "Affordable Robotic & Automation Ltd",
+    "ticker": "AFFORDABLE"
+  },
+  {
+    "name": "Akme Fintrade (India) Ltd",
+    "ticker": "AFIL"
+  },
+  {
+    "name": "Abans Financial Services Ltd",
+    "ticker": "AFSL"
+  },
+  {
+    "name": "Agarwal Industrial Corporation Ltd",
+    "ticker": "AGARIND"
+  },
+  {
+    "name": "Dr. Agarwal'S Health Care Ltd",
+    "ticker": "AGARWALEYE"
+  },
+  {
+    "name": "Agi Greenpac Ltd",
+    "ticker": "AGI"
+  },
+  {
+    "name": "Agi Infra Ltd",
+    "ticker": "AGIIL"
+  },
+  {
+    "name": "Allcargo Global Ltd",
+    "ticker": "AGL"
+  },
+  {
+    "name": "Agri-Tech (India) Ltd",
+    "ticker": "AGRITECH"
+  },
+  {
+    "name": "Agro Phos India Ltd",
+    "ticker": "AGROPHOS"
+  },
+  {
+    "name": "Anlon Healthcare Ltd",
+    "ticker": "AHCL"
+  },
+  {
+    "name": "Ahlada Engineers Ltd",
+    "ticker": "AHLADA"
+  },
+  {
+    "name": "Asian Hotels (East) Ltd",
+    "ticker": "AHLEAST"
+  },
+  {
+    "name": "Ahluwalia Contracts (India) Ltd",
+    "ticker": "AHLUCONT"
+  },
+  {
+    "name": "Asian Hotels (West) Ltd",
+    "ticker": "AHLWEST"
+  },
+  {
+    "name": "Aia Engineering Ltd",
+    "ticker": "AIAENG"
+  },
+  {
+    "name": "Authum Investment & Infrastructure Ltd",
+    "ticker": "AIIL"
+  },
+  {
+    "name": "Airan Ltd",
+    "ticker": "AIRAN"
+  },
+  {
+    "name": "Airo Lam Ltd",
+    "ticker": "AIROLAM"
+  },
+  {
+    "name": "Ajanta Pharma Ltd",
+    "ticker": "AJANTPHARM"
+  },
+  {
+    "name": "Ajax Engineering Ltd",
+    "ticker": "AJAXENGG"
+  },
+  {
+    "name": "Ajmera Realty & Infra India Ltd",
+    "ticker": "AJMERA"
+  },
+  {
+    "name": "Ajooni Biotech Ltd",
+    "ticker": "AJOONI"
+  },
+  {
+    "name": "Akash Infra-Projects Ltd",
+    "ticker": "AKASH"
+  },
+  {
+    "name": "Ak Capital Services Ltd",
+    "ticker": "AKCAPIT"
+  },
+  {
+    "name": "Akg Exim Ltd",
+    "ticker": "AKG"
+  },
+  {
+    "name": "Aki India Ltd",
+    "ticker": "AKI"
+  },
+  {
+    "name": "Akshar Spintex Ltd",
+    "ticker": "AKSHAR"
+  },
+  {
+    "name": "Aksharchem India Ltd",
+    "ticker": "AKSHARCHEM"
+  },
+  {
+    "name": "Aksh Optifibre Ltd",
+    "ticker": "AKSHOPTFBR"
+  },
+  {
+    "name": "Akums Drugs And Pharmaceuticals Ltd",
+    "ticker": "AKUMS"
+  },
+  {
+    "name": "Alankit Ltd",
+    "ticker": "ALANKIT"
+  },
+  {
+    "name": "Albert David Ltd",
+    "ticker": "ALBERTDAVD"
+  },
+  {
+    "name": "Alembic Ltd",
+    "ticker": "ALEMBICLTD"
+  },
+  {
+    "name": "Algoquant Fintech Ltd",
+    "ticker": "ALGOQUANT"
+  },
+  {
+    "name": "Alicon Castalloy Ltd",
+    "ticker": "ALICON"
+  },
+  {
+    "name": "Alivus Life Sciences Ltd",
+    "ticker": "ALIVUS"
+  },
+  {
+    "name": "Alkali Metals Ltd",
+    "ticker": "ALKALI"
+  },
+  {
+    "name": "Alkem Laboratories Ltd",
+    "ticker": "ALKEM"
+  },
+  {
+    "name": "Alkyl Amines Chemicals Ltd",
+    "ticker": "ALKYLAMINE"
+  },
+  {
+    "name": "Allcargo Logistics Ltd",
+    "ticker": "ALLCARGO"
+  },
+  {
+    "name": "Alldigi Tech Ltd",
+    "ticker": "ALLDIGI"
+  },
+  {
+    "name": "All Time Plastics Ltd",
+    "ticker": "ALLTIME"
+  },
+  {
+    "name": "Almondz Global Securities Ltd",
+    "ticker": "ALMONDZ"
+  },
+  {
+    "name": "Alok Industries Ltd",
+    "ticker": "ALOKINDS"
+  },
+  {
+    "name": "Alpa Laboratories Ltd",
+    "ticker": "ALPA"
+  },
+  {
+    "name": "Alphageo (India) Ltd",
+    "ticker": "ALPHAGEO"
+  },
+  {
+    "name": "Alpine Texworld Ltd",
+    "ticker": "ALPINETEX"
+  },
+  {
+    "name": "Amagi Media Labs Ltd",
+    "ticker": "AMAGI"
+  },
+  {
+    "name": "Amanta Healthcare Ltd",
+    "ticker": "AMANTA"
+  },
+  {
+    "name": "Ambalal Sarabhai Enterprises Ltd",
+    "ticker": "AMBALALSA"
+  },
+  {
+    "name": "Amber Enterprises India Ltd",
+    "ticker": "AMBER"
+  },
+  {
+    "name": "Ambica Agarbathies & Aroma Industries Ltd",
+    "ticker": "AMBICAAGAR"
+  },
+  {
+    "name": "Ambika Cotton Mills Ltd",
+    "ticker": "AMBIKCO"
+  },
+  {
+    "name": "Ambuja Cements Ltd",
+    "ticker": "AMBUJACEM"
+  },
+  {
+    "name": "Amd Industries Ltd",
+    "ticker": "AMDIND"
+  },
+  {
+    "name": "Amj Land Holdings Ltd",
+    "ticker": "AMJLAND"
+  },
+  {
+    "name": "Amines & Plasticizers Ltd",
+    "ticker": "AMNPLST"
+  },
+  {
+    "name": "Amrutanjan Health Care Ltd",
+    "ticker": "AMRUTANJAN"
+  },
+  {
+    "name": "Anand Rathi Wealth Ltd",
+    "ticker": "ANANDRATHI"
+  },
+  {
+    "name": "Anant Raj Ltd",
+    "ticker": "ANANTRAJ"
+  },
+  {
+    "name": "Andhra Paper Ltd",
+    "ticker": "ANDHRAPAP"
+  },
+  {
+    "name": "The Andhra Sugars Ltd",
+    "ticker": "ANDHRSUGAR"
+  },
+  {
+    "name": "Angel One Ltd",
+    "ticker": "ANGELONE"
+  },
+  {
+    "name": "Anik Industries Ltd",
+    "ticker": "ANIKINDS"
+  },
+  {
+    "name": "Anmol India Ltd",
+    "ticker": "ANMOL"
+  },
+  {
+    "name": "Antelopus Selan Energy Ltd",
+    "ticker": "ANTELOPUS"
+  },
+  {
+    "name": "Antarctica Ltd",
+    "ticker": "ANTGRAPHIC"
+  },
+  {
+    "name": "Anthem Biosciences Ltd",
+    "ticker": "ANTHEM"
+  },
+  {
+    "name": "Anuh Pharma Ltd",
+    "ticker": "ANUHPHR"
+  },
+  {
+    "name": "The Anup Engineering Ltd",
+    "ticker": "ANUP"
+  },
+  {
+    "name": "Anupam Rasayan India Ltd",
+    "ticker": "ANURAS"
+  },
+  {
+    "name": "Apar Industries Ltd",
+    "ticker": "APARINDS"
+  },
+  {
+    "name": "Anjani Portland Cement Ltd",
+    "ticker": "APCL"
+  },
+  {
+    "name": "Apcotex Industries Ltd",
+    "ticker": "APCOTEXIND"
+  },
+  {
+    "name": "Apex Frozen Foods Ltd",
+    "ticker": "APEX"
+  },
+  {
+    "name": "Apl Apollo Tubes Ltd",
+    "ticker": "APLAPOLLO"
+  },
+  {
+    "name": "Alembic Pharmaceuticals Ltd",
+    "ticker": "APLLTD"
+  },
+  {
+    "name": "Apollo Micro Systems Ltd",
+    "ticker": "APOLLO"
+  },
+  {
+    "name": "Apollo Hospitals Enterprise Ltd",
+    "ticker": "APOLLOHOSP"
+  },
+  {
+    "name": "Apollo Pipes Ltd",
+    "ticker": "APOLLOPIPE"
+  },
+  {
+    "name": "Apollo Tyres Ltd",
+    "ticker": "APOLLOTYRE"
+  },
+  {
+    "name": "Apollo Sindoori Hotels Ltd",
+    "ticker": "APOLSINHOT"
+  },
+  {
+    "name": "Aptech Ltd",
+    "ticker": "APTECHT"
+  },
+  {
+    "name": "Aptus Value Housing Finance India Ltd",
+    "ticker": "APTUS"
+  },
+  {
+    "name": "Aqylon Nexus Ltd",
+    "ticker": "AQYLON"
+  },
+  {
+    "name": "Archidply Industries Ltd",
+    "ticker": "ARCHIDPLY"
+  },
+  {
+    "name": "Archies Ltd",
+    "ticker": "ARCHIES"
+  },
+  {
+    "name": "Amara Raja Energy & Mobility Ltd",
+    "ticker": "ARE&M"
+  },
+  {
+    "name": "Rajdarshan Industries Ltd",
+    "ticker": "ARENTERP"
+  },
+  {
+    "name": "Arfin India Ltd",
+    "ticker": "ARFIN"
+  },
+  {
+    "name": "Aries Agro Ltd",
+    "ticker": "ARIES"
+  },
+  {
+    "name": "Arihant Foundations & Housing Ltd",
+    "ticker": "ARIHANT"
+  },
+  {
+    "name": "Arihant Capital Markets Ltd",
+    "ticker": "ARIHANTCAP"
+  },
+  {
+    "name": "Arihant Superstructures Ltd",
+    "ticker": "ARIHANTSUP"
+  },
+  {
+    "name": "Arisinfra Solutions Ltd",
+    "ticker": "ARIS"
+  },
+  {
+    "name": "Arkade Developers Ltd",
+    "ticker": "ARKADE"
+  },
+  {
+    "name": "Arman Financial Services Ltd",
+    "ticker": "ARMANFIN"
+  },
+  {
+    "name": "Aro Granite Industries Ltd",
+    "ticker": "AROGRANITE"
+  },
+  {
+    "name": "Arrow Greentech Ltd",
+    "ticker": "ARROWGREEN"
+  },
+  {
+    "name": "Anand Rathi Share And Stock Brokers Ltd",
+    "ticker": "ARSSBL"
+  },
+  {
+    "name": "Artemis Medicare Services Ltd",
+    "ticker": "ARTEMISMED"
+  },
+  {
+    "name": "Art Nirman Ltd",
+    "ticker": "ARTNIRMAN"
+  },
+  {
+    "name": "Arvee Laboratories (India) Ltd",
+    "ticker": "ARVEE"
+  },
+  {
+    "name": "Arvind Ltd",
+    "ticker": "ARVIND"
+  },
+  {
+    "name": "Arvind Fashions Ltd",
+    "ticker": "ARVINDFASN"
+  },
+  {
+    "name": "Arvind Smartspaces Ltd",
+    "ticker": "ARVSMART"
+  },
+  {
+    "name": "Asahi India Glass Ltd",
+    "ticker": "ASAHIINDIA"
+  },
+  {
+    "name": "Asahi Songwon Colors Ltd",
+    "ticker": "ASAHISONG"
+  },
+  {
+    "name": "Automotive Stampings And Assemblies Ltd",
+    "ticker": "ASAL"
+  },
+  {
+    "name": "Associated Alcohols & Breweries Ltd",
+    "ticker": "ASALCBR"
+  },
+  {
+    "name": "Ashapura Minechem Ltd",
+    "ticker": "ASHAPURMIN"
+  },
+  {
+    "name": "Ashiana Housing Ltd",
+    "ticker": "ASHIANA"
+  },
+  {
+    "name": "Ashika Credit Capital Ltd",
+    "ticker": "ASHIKA"
+  },
+  {
+    "name": "Ashima Ltd",
+    "ticker": "ASHIMASYN"
+  },
+  {
+    "name": "Ashoka Buildcon Ltd",
+    "ticker": "ASHOKA"
+  },
+  {
+    "name": "Ashoka Metcast Ltd",
+    "ticker": "ASHOKAMET"
+  },
+  {
+    "name": "Ashok Leyland Ltd",
+    "ticker": "ASHOKLEY"
+  },
+  {
+    "name": "Asian Energy Services Ltd",
+    "ticker": "ASIANENE"
+  },
+  {
+    "name": "Asian Hotels (North) Ltd",
+    "ticker": "ASIANHOTNR"
+  },
+  {
+    "name": "Asian Paints Ltd",
+    "ticker": "ASIANPAINT"
+  },
+  {
+    "name": "Asian Granito India Ltd",
+    "ticker": "ASIANTILES"
+  },
+  {
+    "name": "Ask Automotive Ltd",
+    "ticker": "ASKAUTOLTD"
+  },
+  {
+    "name": "Avio Smart Market Stack Ltd",
+    "ticker": "ASMS"
+  },
+  {
+    "name": "Aspinwall And Company Ltd",
+    "ticker": "ASPINWALL"
+  },
+  {
+    "name": "Asian Star Company Ltd",
+    "ticker": "ASTAR"
+  },
+  {
+    "name": "Astec Lifesciences Ltd",
+    "ticker": "ASTEC"
+  },
+  {
+    "name": "Aster Dm Healthcare Ltd",
+    "ticker": "ASTERDM"
+  },
+  {
+    "name": "Astral Ltd",
+    "ticker": "ASTRAL"
+  },
+  {
+    "name": "Astra Microwave Products Ltd",
+    "ticker": "ASTRAMICRO"
+  },
+  {
+    "name": "Astrazeneca Pharma India Ltd",
+    "ticker": "ASTRAZEN"
+  },
+  {
+    "name": "Astron Paper & Board Mill Ltd",
+    "ticker": "ASTRON"
+  },
+  {
+    "name": "Atal Realtech Ltd",
+    "ticker": "ATALREAL"
+  },
+  {
+    "name": "Atam Valves Ltd",
+    "ticker": "ATAM"
+  },
+  {
+    "name": "Adani Total Gas Ltd",
+    "ticker": "ATGL"
+  },
+  {
+    "name": "Ather Energy Ltd",
+    "ticker": "ATHERENERG"
+  },
+  {
+    "name": "Allcargo Terminals Ltd",
+    "ticker": "ATL"
+  },
+  {
+    "name": "Atlantaa Ltd",
+    "ticker": "ATLANTAA"
+  },
+  {
+    "name": "Atlanta Electricals Ltd",
+    "ticker": "ATLANTAELE"
+  },
+  {
+    "name": "Atlas Cycles (Haryana) Ltd",
+    "ticker": "ATLASCYCLE"
+  },
+  {
+    "name": "Atul Ltd",
+    "ticker": "ATUL"
+  },
+  {
+    "name": "Atul Auto Ltd",
+    "ticker": "ATULAUTO"
+  },
+  {
+    "name": "Au Small Finance Bank Ltd",
+    "ticker": "AUBANK"
+  },
+  {
+    "name": "Aurionpro Solutions Ltd",
+    "ticker": "AURIONPRO"
+  },
+  {
+    "name": "Aurobindo Pharma Ltd",
+    "ticker": "AUROPHARMA"
+  },
+  {
+    "name": "Aurum Proptech Ltd",
+    "ticker": "AURUM"
+  },
+  {
+    "name": "Aurus Gem Corporation Ltd",
+    "ticker": "AURUS"
+  },
+  {
+    "name": "Ausom Enterprise Ltd",
+    "ticker": "AUSOMENT"
+  },
+  {
+    "name": "Automotive Axles Ltd",
+    "ticker": "AUTOAXLES"
+  },
+  {
+    "name": "Autoline Industries Ltd",
+    "ticker": "AUTOIND"
+  },
+  {
+    "name": "Avadh Sugar & Energy Ltd",
+    "ticker": "AVADHSUGAR"
+  },
+  {
+    "name": "Avalon Technologies Ltd",
+    "ticker": "AVALON"
+  },
+  {
+    "name": "Avantel Ltd",
+    "ticker": "AVANTEL"
+  },
+  {
+    "name": "Avanti Feeds Ltd",
+    "ticker": "AVANTIFEED"
+  },
+  {
+    "name": "Avg Logistics Ltd",
+    "ticker": "AVG"
+  },
+  {
+    "name": "Aditya Vision Ltd",
+    "ticker": "AVL"
+  },
+  {
+    "name": "Avonmore Capital & Management Services Ltd",
+    "ticker": "AVONMORE"
+  },
+  {
+    "name": "Avro India Ltd",
+    "ticker": "AVROIND"
+  },
+  {
+    "name": "Avt Natural Products Ltd",
+    "ticker": "AVTNPL"
+  },
+  {
+    "name": "Awfis Space Solutions Ltd",
+    "ticker": "AWFIS"
+  },
+  {
+    "name": "Antony Waste Handling Cell Ltd",
+    "ticker": "AWHCL"
+  },
+  {
+    "name": "Awl Agri Business Ltd",
+    "ticker": "AWL"
+  },
+  {
+    "name": "Axis Bank Ltd",
+    "ticker": "AXISBANK"
+  },
+  {
+    "name": "Axiscades Technologies Ltd",
+    "ticker": "AXISCADES"
+  },
+  {
+    "name": "Axita Cotton Ltd",
+    "ticker": "AXITA"
+  },
+  {
+    "name": "Aye Finance Ltd",
+    "ticker": "AYE"
+  },
+  {
+    "name": "Aym Syntex Ltd",
+    "ticker": "AYMSYNTEX"
+  },
+  {
+    "name": "Azad Engineering Ltd",
+    "ticker": "AZAD"
+  },
+  {
+    "name": "Bafna Pharmaceuticals Ltd",
+    "ticker": "BAFNAPH"
+  },
+  {
+    "name": "B.A.G Films And Media Ltd",
+    "ticker": "BAGFILMS"
+  },
+  {
+    "name": "Baid Finserv Ltd",
+    "ticker": "BAIDFIN"
+  },
+  {
+    "name": "Bajaj Auto Ltd",
+    "ticker": "BAJAJ-AUTO"
+  },
+  {
+    "name": "Bajaj Consumer Care Ltd",
+    "ticker": "BAJAJCON"
+  },
+  {
+    "name": "Bajaj Electricals Ltd",
+    "ticker": "BAJAJELEC"
+  },
+  {
+    "name": "Bajaj Finserv Ltd",
+    "ticker": "BAJAJFINSV"
+  },
+  {
+    "name": "Bajaj Healthcare Ltd",
+    "ticker": "BAJAJHCARE"
+  },
+  {
+    "name": "Bajaj Housing Finance Ltd",
+    "ticker": "BAJAJHFL"
+  },
+  {
+    "name": "Bajaj Hindusthan Sugar Ltd",
+    "ticker": "BAJAJHIND"
+  },
+  {
+    "name": "Bajaj Holdings & Investment Ltd",
+    "ticker": "BAJAJHLDNG"
+  },
+  {
+    "name": "Indef Manufacturing Ltd",
+    "ticker": "BAJAJINDEF"
+  },
+  {
+    "name": "Bajaj Steel Industries Ltd",
+    "ticker": "BAJAJST"
+  },
+  {
+    "name": "Bajel Projects Ltd",
+    "ticker": "BAJEL"
+  },
+  {
+    "name": "Bajaj Finance Ltd",
+    "ticker": "BAJFINANCE"
+  },
+  {
+    "name": "Shree Tirupati Balajee Agro Trading Company Ltd",
+    "ticker": "BALAJEE"
+  },
+  {
+    "name": "Balaji Telefilms Ltd",
+    "ticker": "BALAJITELE"
+  },
+  {
+    "name": "Balaji Amines Ltd",
+    "ticker": "BALAMINES"
+  },
+  {
+    "name": "Balaxi Pharmaceuticals Ltd",
+    "ticker": "BALAXI"
+  },
+  {
+    "name": "Balkrishna Paper Mills Ltd",
+    "ticker": "BALKRISHNA"
+  },
+  {
+    "name": "Balkrishna Industries Ltd",
+    "ticker": "BALKRISIND"
+  },
+  {
+    "name": "Balmer Lawrie & Company Ltd",
+    "ticker": "BALMLAWRIE"
+  },
+  {
+    "name": "Bal Pharma Ltd",
+    "ticker": "BALPHARMA"
+  },
+  {
+    "name": "Balrampur Chini Mills Ltd",
+    "ticker": "BALRAMCHIN"
+  },
+  {
+    "name": "Balu Forge Industries Ltd",
+    "ticker": "BALUFORGE"
+  },
+  {
+    "name": "Banaras Beads Ltd",
+    "ticker": "BANARBEADS"
+  },
+  {
+    "name": "Bannari Amman Sugars Ltd",
+    "ticker": "BANARISUG"
+  },
+  {
+    "name": "Banco Products (I) Ltd",
+    "ticker": "BANCOINDIA"
+  },
+  {
+    "name": "Bandhan Bank Ltd",
+    "ticker": "BANDHANBNK"
+  },
+  {
+    "name": "Bang Overseas Ltd",
+    "ticker": "BANG"
+  },
+  {
+    "name": "Banka Bioloo Ltd",
+    "ticker": "BANKA"
+  },
+  {
+    "name": "Bank Of Baroda",
+    "ticker": "BANKBARODA"
+  },
+  {
+    "name": "Bank Of India",
+    "ticker": "BANKINDIA"
+  },
+  {
+    "name": "Bansal Wire Industries Ltd",
+    "ticker": "BANSALWIRE"
+  },
+  {
+    "name": "Banswara Syntex Ltd",
+    "ticker": "BANSWRAS"
+  },
+  {
+    "name": "Basf India Ltd",
+    "ticker": "BASF"
+  },
+  {
+    "name": "Bannari Amman Spinning Mills Ltd",
+    "ticker": "BASML"
+  },
+  {
+    "name": "Bata India Ltd",
+    "ticker": "BATAINDIA"
+  },
+  {
+    "name": "Batliboi Ltd",
+    "ticker": "BATLIBOI"
+  },
+  {
+    "name": "Bayer Cropscience Ltd",
+    "ticker": "BAYERCROP"
+  },
+  {
+    "name": "Bharat Bijlee Ltd",
+    "ticker": "BBL"
+  },
+  {
+    "name": "Black Box Ltd",
+    "ticker": "BBOX"
+  },
+  {
+    "name": "The Bombay Burmah Trading Corporation Ltd",
+    "ticker": "BBTC"
+  },
+  {
+    "name": "B&B Triplewall Containers Ltd",
+    "ticker": "BBTCL"
+  },
+  {
+    "name": "Brightcom Group Ltd",
+    "ticker": "BCG"
+  },
+  {
+    "name": "Bcl Industries Ltd",
+    "ticker": "BCLIND"
+  },
+  {
+    "name": "Brand Concepts Ltd",
+    "ticker": "BCONCEPTS"
+  },
+  {
+    "name": "Bcpl Railway Infrastructure Ltd",
+    "ticker": "BCPL"
+  },
+  {
+    "name": "Bharat Dynamics Ltd",
+    "ticker": "BDL"
+  },
+  {
+    "name": "Beardsell Ltd",
+    "ticker": "BEARDSELL"
+  },
+  {
+    "name": "Mrs. Bectors Food Specialities Ltd",
+    "ticker": "BECTORFOOD"
+  },
+  {
+    "name": "Bedmutha Industries Ltd",
+    "ticker": "BEDMUTHA"
+  },
+  {
+    "name": "Beekay Steel Industries Ltd",
+    "ticker": "BEEKAY"
+  },
+  {
+    "name": "Bharat Electronics Ltd",
+    "ticker": "BEL"
+  },
+  {
+    "name": "Bella Casa Fashion & Retail Ltd",
+    "ticker": "BELLACASA"
+  },
+  {
+    "name": "Belrise Industries Ltd",
+    "ticker": "BELRISE"
+  },
+  {
+    "name": "Beml Ltd",
+    "ticker": "BEML"
+  },
+  {
+    "name": "Bengal & Assam Company Ltd",
+    "ticker": "BENGALASM"
+  },
+  {
+    "name": "Bhansali Engineering Polymers Ltd",
+    "ticker": "BEPL"
+  },
+  {
+    "name": "Berger Paints (I) Ltd",
+    "ticker": "BERGEPAINT"
+  },
+  {
+    "name": "Best Agrolife Ltd",
+    "ticker": "BESTAGRO"
+  },
+  {
+    "name": "Beta Drugs Ltd",
+    "ticker": "BETA"
+  },
+  {
+    "name": "Bf Investment Ltd",
+    "ticker": "BFINVEST"
+  },
+  {
+    "name": "Bf Utilities Ltd",
+    "ticker": "BFUTILITIE"
+  },
+  {
+    "name": "Bgr Energy Systems Ltd",
+    "ticker": "BGRENERGY"
+  },
+  {
+    "name": "Bhagiradha Chemicals & Industries Ltd",
+    "ticker": "BHAGCHEM"
+  },
+  {
+    "name": "Bhageria Industries Ltd",
+    "ticker": "BHAGERIA"
+  },
+  {
+    "name": "Bhagyanagar India Ltd",
+    "ticker": "BHAGYANGR"
+  },
+  {
+    "name": "Bhandari Hosiery Exports Ltd",
+    "ticker": "BHANDARI"
+  },
+  {
+    "name": "Bharat Coking Coal Ltd",
+    "ticker": "BHARATCOAL"
+  },
+  {
+    "name": "Bharat Forge Ltd",
+    "ticker": "BHARATFORG"
+  },
+  {
+    "name": "Bharat Gears Ltd",
+    "ticker": "BHARATGEAR"
+  },
+  {
+    "name": "Bharat Rasayan Ltd",
+    "ticker": "BHARATRAS"
+  },
+  {
+    "name": "Bharat Seats Ltd",
+    "ticker": "BHARATSE"
+  },
+  {
+    "name": "Bharat Wire Ropes Ltd",
+    "ticker": "BHARATWIRE"
+  },
+  {
+    "name": "Bharti Airtel Ltd",
+    "ticker": "BHARTIARTL"
+  },
+  {
+    "name": "Bharti Hexacom Ltd",
+    "ticker": "BHARTIHEXA"
+  },
+  {
+    "name": "Bharat Heavy Electricals Ltd",
+    "ticker": "BHEL"
+  },
+  {
+    "name": "Bilcare Ltd",
+    "ticker": "BI"
+  },
+  {
+    "name": "Bigbloc Construction Ltd",
+    "ticker": "BIGBLOC"
+  },
+  {
+    "name": "Bikaji Foods International Ltd",
+    "ticker": "BIKAJI"
+  },
+  {
+    "name": "Bhartiya International Ltd",
+    "ticker": "BIL"
+  },
+  {
+    "name": "Bil Vyapar Ltd",
+    "ticker": "BILVYAPAR"
+  },
+  {
+    "name": "Bimetal Bearings Ltd",
+    "ticker": "BIMETAL"
+  },
+  {
+    "name": "Biocon Ltd",
+    "ticker": "BIOCON"
+  },
+  {
+    "name": "Biofil Chemicals & Pharmaceuticals Ltd",
+    "ticker": "BIOFILCHEM"
+  },
+  {
+    "name": "Birla Cable Ltd",
+    "ticker": "BIRLACABLE"
+  },
+  {
+    "name": "Birla Corporation Ltd",
+    "ticker": "BIRLACORPN"
+  },
+  {
+    "name": "Aditya Birla Money Ltd",
+    "ticker": "BIRLAMONEY"
+  },
+  {
+    "name": "Birlanu Ltd",
+    "ticker": "BIRLANU"
+  },
+  {
+    "name": "Birla Precision Technologies Ltd",
+    "ticker": "BIRLAPREC"
+  },
+  {
+    "name": "Blackbuck Ltd",
+    "ticker": "BLACKBUCK"
+  },
+  {
+    "name": "Black Rose Inds. Ltd",
+    "ticker": "BLACKROSE"
+  },
+  {
+    "name": "Beml Land Assets Ltd",
+    "ticker": "BLAL"
+  },
+  {
+    "name": "Blb Ltd",
+    "ticker": "BLBLIMITED"
+  },
+  {
+    "name": "Balmer Lawrie Investments Ltd",
+    "ticker": "BLIL"
+  },
+  {
+    "name": "Bliss Gvs Pharma Ltd",
+    "ticker": "BLISSGVS"
+  },
+  {
+    "name": "B. L. Kashyap And Sons Ltd",
+    "ticker": "BLKASHYAP"
+  },
+  {
+    "name": "Bls International Services Ltd",
+    "ticker": "BLS"
+  },
+  {
+    "name": "Bls E-Services Ltd",
+    "ticker": "BLSE"
+  },
+  {
+    "name": "Blue Chip India Ltd",
+    "ticker": "BLUECHIP"
+  },
+  {
+    "name": "Blue Coast Hotels Ltd",
+    "ticker": "BLUECOAST"
+  },
+  {
+    "name": "Blue Dart Express Ltd",
+    "ticker": "BLUEDART"
+  },
+  {
+    "name": "Blue Jet Healthcare Ltd",
+    "ticker": "BLUEJET"
+  },
+  {
+    "name": "Blue Star Ltd",
+    "ticker": "BLUESTARCO"
+  },
+  {
+    "name": "Bluestone Jewellery And Lifestyle Ltd",
+    "ticker": "BLUESTONE"
+  },
+  {
+    "name": "Bluspring Enterprises Ltd",
+    "ticker": "BLUSPRING"
+  },
+  {
+    "name": "Bmw Ventures Ltd",
+    "ticker": "BMWVENTLTD"
+  },
+  {
+    "name": "Bn Agrochem Ltd",
+    "ticker": "BNAGROCHEM"
+  },
+  {
+    "name": "B & A Ltd",
+    "ticker": "BNALTD"
+  },
+  {
+    "name": "Bodal Chemicals Ltd",
+    "ticker": "BODALCHEM"
+  },
+  {
+    "name": "Bohra Industries Ltd",
+    "ticker": "BOHRAIND"
+  },
+  {
+    "name": "Bombay Dyeing & Mfg Company Ltd",
+    "ticker": "BOMDYEING"
+  },
+  {
+    "name": "Bonlon Industries Ltd",
+    "ticker": "BONLON"
+  },
+  {
+    "name": "Borana Weaves Ltd",
+    "ticker": "BORANA"
+  },
+  {
+    "name": "Borosil Ltd",
+    "ticker": "BOROLTD"
+  },
+  {
+    "name": "Borosil Renewables Ltd",
+    "ticker": "BORORENEW"
+  },
+  {
+    "name": "Borosil Scientific Ltd",
+    "ticker": "BOROSCI"
+  },
+  {
+    "name": "Bosch Home Comfort India Ltd",
+    "ticker": "BOSCH-HCIL"
+  },
+  {
+    "name": "Bosch Ltd",
+    "ticker": "BOSCHLTD"
+  },
+  {
+    "name": "Bharat Petroleum Corporation Ltd",
+    "ticker": "BPCL"
+  },
+  {
+    "name": "Bpl Ltd",
+    "ticker": "BPL"
+  },
+  {
+    "name": "Brigade Enterprises Ltd",
+    "ticker": "BRIGADE"
+  },
+  {
+    "name": "Brigade Hotel Ventures Ltd",
+    "ticker": "BRIGHOTEL"
+  },
+  {
+    "name": "Britannia Industries Ltd",
+    "ticker": "BRITANNIA"
+  },
+  {
+    "name": "Bharat Road Network Ltd",
+    "ticker": "BRNL"
+  },
+  {
+    "name": "Brooks Laboratories Ltd",
+    "ticker": "BROOKS"
+  },
+  {
+    "name": "Bse Ltd",
+    "ticker": "BSE"
+  },
+  {
+    "name": "Bombay Super Hybrid Seeds Ltd",
+    "ticker": "BSHSL"
+  },
+  {
+    "name": "Bsl Ltd",
+    "ticker": "BSL"
+  },
+  {
+    "name": "Birlasoft Ltd",
+    "ticker": "BSOFT"
+  },
+  {
+    "name": "Bodhi Tree Multimedia Ltd",
+    "ticker": "BTML"
+  },
+  {
+    "name": "Bhilwara Technical Textiles Ltd",
+    "ticker": "BTTL"
+  },
+  {
+    "name": "Shankara Buildpro Ltd",
+    "ticker": "BUILDPRO"
+  },
+  {
+    "name": "Butterfly Gandhimathi Appliances Ltd",
+    "ticker": "BUTTERFLY"
+  },
+  {
+    "name": "Barak Valley Cements Ltd",
+    "ticker": "BVCL"
+  },
+  {
+    "name": "The Byke Hospitality Ltd",
+    "ticker": "BYKE"
+  },
+  {
+    "name": "California Software Company Ltd",
+    "ticker": "CALSOFT"
+  },
+  {
+    "name": "Camlin Fine Sciences Ltd",
+    "ticker": "CAMLINFINE"
+  },
+  {
+    "name": "Campus Activewear Ltd",
+    "ticker": "CAMPUS"
+  },
+  {
+    "name": "Computer Age Management Services Ltd",
+    "ticker": "CAMS"
+  },
+  {
+    "name": "Canara Bank",
+    "ticker": "CANBK"
+  },
+  {
+    "name": "Can Fin Homes Ltd",
+    "ticker": "CANFINHOME"
+  },
+  {
+    "name": "Canara Hsbc Life Insurance Company Ltd",
+    "ticker": "CANHLIFE"
+  },
+  {
+    "name": "Cantabil Retail India Ltd",
+    "ticker": "CANTABIL"
+  },
+  {
+    "name": "Capacit'E Infraprojects Ltd",
+    "ticker": "CAPACITE"
+  },
+  {
+    "name": "Capillary Technologies India Ltd",
+    "ticker": "CAPILLARY"
+  },
+  {
+    "name": "Capital Small Finance Bank Ltd",
+    "ticker": "CAPITALSFB"
+  },
+  {
+    "name": "Caplin Point Laboratories Ltd",
+    "ticker": "CAPLIPOINT"
+  },
+  {
+    "name": "Capital Trust Ltd",
+    "ticker": "CAPTRUST"
+  },
+  {
+    "name": "Carborundum Universal Ltd",
+    "ticker": "CARBORUNIV"
+  },
+  {
+    "name": "Care Ratings Ltd",
+    "ticker": "CARERATING"
+  },
+  {
+    "name": "Carraro India Ltd",
+    "ticker": "CARRARO"
+  },
+  {
+    "name": "Cartrade Tech Ltd",
+    "ticker": "CARTRADE"
+  },
+  {
+    "name": "Carysil Ltd",
+    "ticker": "CARYSIL"
+  },
+  {
+    "name": "Castrol India Ltd",
+    "ticker": "CASTROLIND"
+  },
+  {
+    "name": "Avenuesai Ltd",
+    "ticker": "CCAVENUE"
+  },
+  {
+    "name": "Consolidated Construction Consortium Ltd",
+    "ticker": "CCCL"
+  },
+  {
+    "name": "Country Club Hospitality & Holidays Ltd",
+    "ticker": "CCHHL"
+  },
+  {
+    "name": "Ccl Products (India) Ltd",
+    "ticker": "CCL"
+  },
+  {
+    "name": "Central Depository Services (India) Ltd",
+    "ticker": "CDSL"
+  },
+  {
+    "name": "Ceat Ltd",
+    "ticker": "CEATLTD"
+  },
+  {
+    "name": "Ceigall India Ltd",
+    "ticker": "CEIGALL"
+  },
+  {
+    "name": "Ceinsys Tech Ltd",
+    "ticker": "CEINSYS"
+  },
+  {
+    "name": "Celebrity Fashions Ltd",
+    "ticker": "CELEBRITY"
+  },
+  {
+    "name": "Cello World Ltd",
+    "ticker": "CELLO"
+  },
+  {
+    "name": "Cemindia Projects Ltd",
+    "ticker": "CEMPRO"
+  },
+  {
+    "name": "Century Enka Ltd",
+    "ticker": "CENTENKA"
+  },
+  {
+    "name": "Century Extrusions Ltd",
+    "ticker": "CENTEXT"
+  },
+  {
+    "name": "Central Bank Of India",
+    "ticker": "CENTRALBK"
+  },
+  {
+    "name": "Centrum Capital Ltd",
+    "ticker": "CENTRUM"
+  },
+  {
+    "name": "Centum Electronics Ltd",
+    "ticker": "CENTUM"
+  },
+  {
+    "name": "Century Plyboards (India) Ltd",
+    "ticker": "CENTURYPLY"
+  },
+  {
+    "name": "Cera Sanitaryware Ltd",
+    "ticker": "CERA"
+  },
+  {
+    "name": "Cesc Ltd",
+    "ticker": "CESC"
+  },
+  {
+    "name": "Concord Enviro Systems Ltd",
+    "ticker": "CEWATER"
+  },
+  {
+    "name": "Capri Global Capital Ltd",
+    "ticker": "CGCL"
+  },
+  {
+    "name": "Cg Power And Industrial Solutions Ltd",
+    "ticker": "CGPOWER"
+  },
+  {
+    "name": "Chalet Hotels Ltd",
+    "ticker": "CHALET"
+  },
+  {
+    "name": "Chambal Fertilizers & Chemicals Ltd",
+    "ticker": "CHAMBLFERT"
+  },
+  {
+    "name": "Chembond Material Technologies Ltd",
+    "ticker": "CHEMBOND"
+  },
+  {
+    "name": "Chembond Chemicals Ltd",
+    "ticker": "CHEMBONDCH"
+  },
+  {
+    "name": "Chemcon Speciality Chemicals Ltd",
+    "ticker": "CHEMCON"
+  },
+  {
+    "name": "Chemfab Alkalis Ltd",
+    "ticker": "CHEMFAB"
+  },
+  {
+    "name": "Chemplast Sanmar Ltd",
+    "ticker": "CHEMPLASTS"
+  },
+  {
+    "name": "Chennai Petroleum Corporation Ltd",
+    "ticker": "CHENNPETRO"
+  },
+  {
+    "name": "Cheviot Company Ltd",
+    "ticker": "CHEVIOT"
+  },
+  {
+    "name": "Choice International Ltd",
+    "ticker": "CHOICEIN"
+  },
+  {
+    "name": "Cholamandalam Investment And Finance Company Ltd",
+    "ticker": "CHOLAFIN"
+  },
+  {
+    "name": "Cholamandalam Financial Holdings Ltd",
+    "ticker": "CHOLAHLDNG"
+  },
+  {
+    "name": "Cie Automotive India Ltd",
+    "ticker": "CIEINDIA"
+  },
+  {
+    "name": "Capital India Finance Ltd",
+    "ticker": "CIFL"
+  },
+  {
+    "name": "Cineline India Ltd",
+    "ticker": "CINELINE"
+  },
+  {
+    "name": "Cinevista Ltd",
+    "ticker": "CINEVISTA"
+  },
+  {
+    "name": "Cipla Ltd",
+    "ticker": "CIPLA"
+  },
+  {
+    "name": "Clean Science And Technology Ltd",
+    "ticker": "CLEAN"
+  },
+  {
+    "name": "Clean Max Enviro Energy Solutions Ltd",
+    "ticker": "CLEANMAX"
+  },
+  {
+    "name": "Cl Educate Ltd",
+    "ticker": "CLEDUCATE"
+  },
+  {
+    "name": "Chaman Lal Setia Exports Ltd",
+    "ticker": "CLSEL"
+  },
+  {
+    "name": "Caliber Mining And Logistics Ltd",
+    "ticker": "CMLL"
+  },
+  {
+    "name": "Central Mine Planning & Design Institute Ltd",
+    "ticker": "CMPDI"
+  },
+  {
+    "name": "Cmr Green Technologies Ltd",
+    "ticker": "CMRGREEN"
+  },
+  {
+    "name": "Cms Info Systems Ltd",
+    "ticker": "CMSINFO"
+  },
+  {
+    "name": "Creative Newtech Ltd",
+    "ticker": "CNL"
+  },
+  {
+    "name": "Coal India Ltd",
+    "ticker": "COALINDIA"
+  },
+  {
+    "name": "Coastal Corporation Ltd",
+    "ticker": "COASTCORP"
+  },
+  {
+    "name": "Cochin Shipyard Ltd",
+    "ticker": "COCHINSHIP"
+  },
+  {
+    "name": "John Cockerill India Ltd",
+    "ticker": "COCKERILL"
+  },
+  {
+    "name": "Coffee Day Enterprises Ltd",
+    "ticker": "COFFEEDAY"
+  },
+  {
+    "name": "Coforge Ltd",
+    "ticker": "COFORGE"
+  },
+  {
+    "name": "Cohance Lifesciences Ltd",
+    "ticker": "COHANCE"
+  },
+  {
+    "name": "Colgate Palmolive (India) Ltd",
+    "ticker": "COLPAL"
+  },
+  {
+    "name": "Comfort Intech Ltd",
+    "ticker": "COMFINTE"
+  },
+  {
+    "name": "Compucom Software Ltd",
+    "ticker": "COMPUSOFT"
+  },
+  {
+    "name": "Commercial Syn Bags Ltd",
+    "ticker": "COMSYN"
+  },
+  {
+    "name": "Container Corporation Of India Ltd",
+    "ticker": "CONCOR"
+  },
+  {
+    "name": "Concord Biotech Ltd",
+    "ticker": "CONCORDBIO"
+  },
+  {
+    "name": "Confidence Petroleum India Ltd",
+    "ticker": "CONFIPET"
+  },
+  {
+    "name": "Consolidated Finvest & Holdings Ltd",
+    "ticker": "CONSOFINVT"
+  },
+  {
+    "name": "Control Print Ltd",
+    "ticker": "CONTROLPR"
+  },
+  {
+    "name": "Coral India Finance & Housing Ltd",
+    "ticker": "CORALFINAC"
+  },
+  {
+    "name": "Waterways Leisure Tourism Ltd",
+    "ticker": "CORDELIA"
+  },
+  {
+    "name": "Cords Cable Industries Ltd",
+    "ticker": "CORDSCABLE"
+  },
+  {
+    "name": "Coromandel International Ltd",
+    "ticker": "COROMANDEL"
+  },
+  {
+    "name": "Corona Remedies Ltd",
+    "ticker": "CORONA"
+  },
+  {
+    "name": "Cosmo First Ltd",
+    "ticker": "COSMOFIRST"
+  },
+  {
+    "name": "Country Condo'S Ltd",
+    "ticker": "COUNCODOS"
+  },
+  {
+    "name": "Cp Capital Ltd",
+    "ticker": "CPCAP"
+  },
+  {
+    "name": "Career Point Edutech Ltd",
+    "ticker": "CPEDU"
+  },
+  {
+    "name": "Captain Polyplast Ltd",
+    "ticker": "CPL"
+  },
+  {
+    "name": "Aditya Infotech Ltd",
+    "ticker": "CPPLUS"
+  },
+  {
+    "name": "Craftsman Automation Ltd",
+    "ticker": "CRAFTSMAN"
+  },
+  {
+    "name": "Canara Robeco Asset Management Company Ltd",
+    "ticker": "CRAMC"
+  },
+  {
+    "name": "Creative Eye Ltd",
+    "ticker": "CREATIVEYE"
+  },
+  {
+    "name": "Creditaccess Grameen Ltd",
+    "ticker": "CREDITACC"
+  },
+  {
+    "name": "Crest Ventures Ltd",
+    "ticker": "CREST"
+  },
+  {
+    "name": "Crisil Ltd",
+    "ticker": "CRISIL"
+  },
+  {
+    "name": "Crizac Ltd",
+    "ticker": "CRIZAC"
+  },
+  {
+    "name": "Crompton Greaves Consumer Electricals Ltd",
+    "ticker": "CROMPTON"
+  },
+  {
+    "name": "Crown Lifters Ltd",
+    "ticker": "CROWN"
+  },
+  {
+    "name": "Csb Bank Ltd",
+    "ticker": "CSBBANK"
+  },
+  {
+    "name": "Csl Finance Ltd",
+    "ticker": "CSLFINANCE"
+  },
+  {
+    "name": "Csm Technologies Ltd",
+    "ticker": "CSM"
+  },
+  {
+    "name": "Cambridge Technology Enterprises Ltd",
+    "ticker": "CTE"
+  },
+  {
+    "name": "City Union Bank Ltd",
+    "ticker": "CUB"
+  },
+  {
+    "name": "Cubex Tubings Ltd",
+    "ticker": "CUBEXTUB"
+  },
+  {
+    "name": "Cummins India Ltd",
+    "ticker": "CUMMINSIND"
+  },
+  {
+    "name": "Cupid Ltd",
+    "ticker": "CUPID"
+  },
+  {
+    "name": "Cura Technologies Ltd",
+    "ticker": "CURAA"
+  },
+  {
+    "name": "Cyber Media (India) Ltd",
+    "ticker": "CYBERMEDIA"
+  },
+  {
+    "name": "Cybertech Systems And Software Ltd",
+    "ticker": "CYBERTECH"
+  },
+  {
+    "name": "Cyient Ltd",
+    "ticker": "CYIENT"
+  },
+  {
+    "name": "Cyient Dlm Ltd",
+    "ticker": "CYIENTDLM"
+  },
+  {
+    "name": "Dabur India Ltd",
+    "ticker": "DABUR"
+  },
+  {
+    "name": "Dai-Ichi Karkaria Ltd",
+    "ticker": "DAICHI"
+  },
+  {
+    "name": "Dalmia Bharat Ltd",
+    "ticker": "DALBHARAT"
+  },
+  {
+    "name": "Dalmia Bharat Sugar And Industries Ltd",
+    "ticker": "DALMIASUG"
+  },
+  {
+    "name": "Dam Capital Advisors Ltd",
+    "ticker": "DAMCAPITAL"
+  },
+  {
+    "name": "Damodar Industries Ltd",
+    "ticker": "DAMODARIND"
+  },
+  {
+    "name": "Dangee Dums Ltd",
+    "ticker": "DANGEE"
+  },
+  {
+    "name": "Datamatics Global Services Ltd",
+    "ticker": "DATAMATICS"
+  },
+  {
+    "name": "Data Patterns (India) Ltd",
+    "ticker": "DATAPATTNS"
+  },
+  {
+    "name": "Davangere Sugar Company Ltd",
+    "ticker": "DAVANGERE"
+  },
+  {
+    "name": "D.B.Corp Ltd",
+    "ticker": "DBCORP"
+  },
+  {
+    "name": "Deepak Builders & Engineers India Ltd",
+    "ticker": "DBEIL"
+  },
+  {
+    "name": "Dilip Buildcon Ltd",
+    "ticker": "DBL"
+  },
+  {
+    "name": "Dhampur Bio Organics Ltd",
+    "ticker": "DBOL"
+  },
+  {
+    "name": "Valor Estate Ltd",
+    "ticker": "DBREALTY"
+  },
+  {
+    "name": "Db (International) Stock Brokers Ltd",
+    "ticker": "DBSTOCKBRO"
+  },
+  {
+    "name": "Dishman Carbogen Amcis Ltd",
+    "ticker": "DCAL"
+  },
+  {
+    "name": "Dcb Bank Ltd",
+    "ticker": "DCBBANK"
+  },
+  {
+    "name": "Dc Infotech And Communication Ltd",
+    "ticker": "DCI"
+  },
+  {
+    "name": "Dcm  Ltd",
+    "ticker": "DCM"
+  },
+  {
+    "name": "Dcm Financial Services Ltd",
+    "ticker": "DCMFINSERV"
+  },
+  {
+    "name": "Dcm Nouvelle Ltd",
+    "ticker": "DCMNVL"
+  },
+  {
+    "name": "Dcm Shriram Ltd",
+    "ticker": "DCMSHRIRAM"
+  },
+  {
+    "name": "Dcm Shriram International Ltd",
+    "ticker": "DCMSIL"
+  },
+  {
+    "name": "Dcm Shriram Industries Ltd",
+    "ticker": "DCMSRIND"
+  },
+  {
+    "name": "Dcw Ltd",
+    "ticker": "DCW"
+  },
+  {
+    "name": "Dcx Systems Ltd",
+    "ticker": "DCXINDIA"
+  },
+  {
+    "name": "Ddev Plastiks Industries Ltd",
+    "ticker": "DDEVPLSTIK"
+  },
+  {
+    "name": "Deccan Cements Ltd",
+    "ticker": "DECCANCE"
+  },
+  {
+    "name": "Deccan Gold Mines Ltd",
+    "ticker": "DECNGOLD"
+  },
+  {
+    "name": "Dee Development Engineers Ltd",
+    "ticker": "DEEDEV"
+  },
+  {
+    "name": "Deepak Fertilizers And Petrochemicals Corporation Ltd",
+    "ticker": "DEEPAKFERT"
+  },
+  {
+    "name": "Deepak Nitrite Ltd",
+    "ticker": "DEEPAKNTR"
+  },
+  {
+    "name": "Deep Industries Ltd",
+    "ticker": "DEEPINDS"
+  },
+  {
+    "name": "Delhivery Ltd",
+    "ticker": "DELHIVERY"
+  },
+  {
+    "name": "Delphi World Money Ltd",
+    "ticker": "DELPHIFX"
+  },
+  {
+    "name": "Delta Corp Ltd",
+    "ticker": "DELTACORP"
+  },
+  {
+    "name": "Delta Manufacturing Ltd",
+    "ticker": "DELTAMAGNT"
+  },
+  {
+    "name": "Den Networks Ltd",
+    "ticker": "DEN"
+  },
+  {
+    "name": "De Nora India Ltd",
+    "ticker": "DENORA"
+  },
+  {
+    "name": "Denta Water And Infra Solutions Ltd",
+    "ticker": "DENTA"
+  },
+  {
+    "name": "Dev Information Technology Ltd",
+    "ticker": "DEVIT"
+  },
+  {
+    "name": "Dev Accelerator Ltd",
+    "ticker": "DEVX"
+  },
+  {
+    "name": "Devyani International Ltd",
+    "ticker": "DEVYANI"
+  },
+  {
+    "name": "Digicontent Ltd",
+    "ticker": "DGCONTENT"
+  },
+  {
+    "name": "Dhampur Sugar Mills Ltd",
+    "ticker": "DHAMPURSUG"
+  },
+  {
+    "name": "Dhanlaxmi Bank Ltd",
+    "ticker": "DHANBANK"
+  },
+  {
+    "name": "Dhanuka Agritech Ltd",
+    "ticker": "DHANUKA"
+  },
+  {
+    "name": "Dharmaj Crop Guard Ltd",
+    "ticker": "DHARMAJ"
+  },
+  {
+    "name": "Dhruv Consultancy Services Ltd",
+    "ticker": "DHRUV"
+  },
+  {
+    "name": "Dhunseri Investments Ltd",
+    "ticker": "DHUNINV"
+  },
+  {
+    "name": "Diamond Power Infrastructure Ltd",
+    "ticker": "DIACABS"
+  },
+  {
+    "name": "Diamines & Chemicals Ltd",
+    "ticker": "DIAMINESQ"
+  },
+  {
+    "name": "Prataap Snacks Ltd",
+    "ticker": "DIAMONDYD"
+  },
+  {
+    "name": "Dic India Ltd",
+    "ticker": "DICIND"
+  },
+  {
+    "name": "Diffusion Engineers Ltd",
+    "ticker": "DIFFNKG"
+  },
+  {
+    "name": "Digidrive Distributors Ltd",
+    "ticker": "DIGIDRIVE"
+  },
+  {
+    "name": "Digispice Technologies Ltd",
+    "ticker": "DIGISPICE"
+  },
+  {
+    "name": "Digitide Solutions Ltd",
+    "ticker": "DIGITIDE"
+  },
+  {
+    "name": "Digjam Ltd",
+    "ticker": "DIGJAMLMTD"
+  },
+  {
+    "name": "Disa India Ltd",
+    "ticker": "DISAQ"
+  },
+  {
+    "name": "Dish Tv India Ltd",
+    "ticker": "DISHTV"
+  },
+  {
+    "name": "Divgi Torqtransfer Systems Ltd",
+    "ticker": "DIVGIITTS"
+  },
+  {
+    "name": "Divi'S Laboratories Ltd",
+    "ticker": "DIVISLAB"
+  },
+  {
+    "name": "Dixon Technologies (India) Ltd",
+    "ticker": "DIXON"
+  },
+  {
+    "name": "Dj Mediaprint & Logistics Ltd",
+    "ticker": "DJML"
+  },
+  {
+    "name": "Dlf Ltd",
+    "ticker": "DLF"
+  },
+  {
+    "name": "D-Link (India) Ltd",
+    "ticker": "DLINKINDIA"
+  },
+  {
+    "name": "Avenue Supermarts Ltd",
+    "ticker": "DMART"
+  },
+  {
+    "name": "Dmcc Speciality Chemicals Ltd",
+    "ticker": "DMCC"
+  },
+  {
+    "name": "Diligent Media Corporation Ltd",
+    "ticker": "DNAMEDIA"
+  },
+  {
+    "name": "Dodla Dairy Ltd",
+    "ticker": "DODLA"
+  },
+  {
+    "name": "Dolat Algotech Ltd",
+    "ticker": "DOLATALGO"
+  },
+  {
+    "name": "Dollar Industries Ltd",
+    "ticker": "DOLLAR"
+  },
+  {
+    "name": "Dolphin Offshore Enterprises (India) Ltd",
+    "ticker": "DOLPHIN"
+  },
+  {
+    "name": "Doms Industries Ltd",
+    "ticker": "DOMS"
+  },
+  {
+    "name": "Donear Industries Ltd",
+    "ticker": "DONEAR"
+  },
+  {
+    "name": "D. P. Abhushan Ltd",
+    "ticker": "DPABHUSHAN"
+  },
+  {
+    "name": "Dpsc Ltd",
+    "ticker": "DPSCLTD"
+  },
+  {
+    "name": "D P Wires Ltd",
+    "ticker": "DPWIRES"
+  },
+  {
+    "name": "Dr Agarwals Eye Hospital Ltd",
+    "ticker": "DRAGARWQ"
+  },
+  {
+    "name": "Drc Systems India Ltd",
+    "ticker": "DRCSYSTEMS"
+  },
+  {
+    "name": "Dreamfolks Services Ltd",
+    "ticker": "DREAMFOLKS"
+  },
+  {
+    "name": "Dredging Corporation Of India Ltd",
+    "ticker": "DREDGECORP"
+  },
+  {
+    "name": "Dr. Reddy'S Laboratories Ltd",
+    "ticker": "DRREDDY"
+  },
+  {
+    "name": "Dcm Shriram Fine Chemicals Ltd",
+    "ticker": "DSFCL"
+  },
+  {
+    "name": "Dynacons Systems & Solutions Ltd",
+    "ticker": "DSSL"
+  },
+  {
+    "name": "Dhunseri Tea & Industries Ltd",
+    "ticker": "DTIL"
+  },
+  {
+    "name": "Ducon Infratechnologies Ltd",
+    "ticker": "DUCON"
+  },
+  {
+    "name": "Dhunseri Ventures Ltd",
+    "ticker": "DVL"
+  },
+  {
+    "name": "Dwarikesh Sugar Industries Ltd",
+    "ticker": "DWARKESH"
+  },
+  {
+    "name": "Dynamic Cables Ltd",
+    "ticker": "DYCL"
+  },
+  {
+    "name": "Dynamatic Technologies Ltd",
+    "ticker": "DYNAMATECH"
+  },
+  {
+    "name": "Dynemic Products Ltd",
+    "ticker": "DYNPRO"
+  },
+  {
+    "name": "E2E Networks Ltd",
+    "ticker": "E2E"
+  },
+  {
+    "name": "Easy Trip Planners Ltd",
+    "ticker": "EASEMYTRIP"
+  },
+  {
+    "name": "Eastern Silk Industries Ltd",
+    "ticker": "EASTSILK"
+  },
+  {
+    "name": "Gng Electronics Ltd",
+    "ticker": "EBGNG"
+  },
+  {
+    "name": "Eclerx Services Ltd",
+    "ticker": "ECLERX"
+  },
+  {
+    "name": "Ecos (India) Mobility & Hospitality Ltd",
+    "ticker": "ECOSMOBLTY"
+  },
+  {
+    "name": "Edelweiss Financial Services Ltd",
+    "ticker": "EDELWEISS"
+  },
+  {
+    "name": "Efc (I) Ltd",
+    "ticker": "EFCIL"
+  },
+  {
+    "name": "Eicher Motors Ltd",
+    "ticker": "EICHERMOT"
+  },
+  {
+    "name": "Eid Parry India Ltd",
+    "ticker": "EIDPARRY"
+  },
+  {
+    "name": "Enviro Infra Engineers Ltd",
+    "ticker": "EIEL"
+  },
+  {
+    "name": "Euro India Fresh Foods Ltd",
+    "ticker": "EIFFL"
+  },
+  {
+    "name": "Eih Associated Hotels Ltd",
+    "ticker": "EIHAHOTELS"
+  },
+  {
+    "name": "Eih Ltd",
+    "ticker": "EIHOTEL"
+  },
+  {
+    "name": "Eimco Elecon (India) Ltd",
+    "ticker": "EIMCOELECO"
+  },
+  {
+    "name": "Everest Kanto Cylinder Ltd",
+    "ticker": "EKC"
+  },
+  {
+    "name": "Elantas Beck India Ltd",
+    "ticker": "ELANTAS"
+  },
+  {
+    "name": "El Cid Investments Ltd",
+    "ticker": "ELCIDIN"
+  },
+  {
+    "name": "Eldeco Housing And Industries Ltd",
+    "ticker": "ELDEHSG"
+  },
+  {
+    "name": "Elecon Engineering Company Ltd",
+    "ticker": "ELECON"
+  },
+  {
+    "name": "Electrosteel Castings Ltd",
+    "ticker": "ELECTCAST"
+  },
+  {
+    "name": "Electrotherm (India) Ltd",
+    "ticker": "ELECTHERM"
+  },
+  {
+    "name": "Elgi Equipments Ltd",
+    "ticker": "ELGIEQUIP"
+  },
+  {
+    "name": "Elgi Rubber Company Ltd",
+    "ticker": "ELGIRUBCO"
+  },
+  {
+    "name": "Elin Electronics Ltd",
+    "ticker": "ELIN"
+  },
+  {
+    "name": "Elitecon International Ltd",
+    "ticker": "ELITECON"
+  },
+  {
+    "name": "Ellenbarrie Industrial Gases Ltd",
+    "ticker": "ELLEN"
+  },
+  {
+    "name": "Elpro International Ltd",
+    "ticker": "ELPROINTL"
+  },
+  {
+    "name": "Emami Ltd",
+    "ticker": "EMAMILTD"
+  },
+  {
+    "name": "Emami Paper Mills Ltd",
+    "ticker": "EMAMIPAP"
+  },
+  {
+    "name": "Emami Realty Ltd",
+    "ticker": "EMAMIREAL"
+  },
+  {
+    "name": "Embassy Developments Ltd",
+    "ticker": "EMBDL"
+  },
+  {
+    "name": "Emcure Pharmaceuticals Ltd",
+    "ticker": "EMCURE"
+  },
+  {
+    "name": "Electronics Mart India Ltd",
+    "ticker": "EMIL"
+  },
+  {
+    "name": "Emkay Global Financial Services Ltd",
+    "ticker": "EMKAY"
+  },
+  {
+    "name": "Emmbi Industries Ltd",
+    "ticker": "EMMBI"
+  },
+  {
+    "name": "Emmvee Photovoltaic Power Ltd",
+    "ticker": "EMMVEE"
+  },
+  {
+    "name": "Empower India Ltd",
+    "ticker": "EMPOWER"
+  },
+  {
+    "name": "Ems Ltd",
+    "ticker": "EMSLIMITED"
+  },
+  {
+    "name": "Emudhra Ltd",
+    "ticker": "EMUDHRA"
+  },
+  {
+    "name": "Endurance Technologies Ltd",
+    "ticker": "ENDURANCE"
+  },
+  {
+    "name": "Energy Development Company Ltd",
+    "ticker": "ENERGYDEV"
+  },
+  {
+    "name": "Engineers India Ltd",
+    "ticker": "ENGINERSIN"
+  },
+  {
+    "name": "Entertainment Network (India) Ltd",
+    "ticker": "ENIL"
+  },
+  {
+    "name": "Siemens Energy India Ltd",
+    "ticker": "ENRIN"
+  },
+  {
+    "name": "Entero Healthcare Solutions Ltd",
+    "ticker": "ENTERO"
+  },
+  {
+    "name": "Epack Durable Ltd",
+    "ticker": "EPACK"
+  },
+  {
+    "name": "Epack Prefab Technologies Ltd",
+    "ticker": "EPACKPEB"
+  },
+  {
+    "name": "Epigral Ltd",
+    "ticker": "EPIGRAL"
+  },
+  {
+    "name": "Epl Ltd",
+    "ticker": "EPL"
+  },
+  {
+    "name": "Equippp Social Impact Technologies Ltd",
+    "ticker": "EQUIPPP"
+  },
+  {
+    "name": "Equitas Small Finance Bank Ltd",
+    "ticker": "EQUITASBNK"
+  },
+  {
+    "name": "Eris Lifesciences Ltd",
+    "ticker": "ERIS"
+  },
+  {
+    "name": "Esab India Ltd",
+    "ticker": "ESABINDIA"
+  },
+  {
+    "name": "Esaf Small Finance Bank Ltd",
+    "ticker": "ESAFSFB"
+  },
+  {
+    "name": "Escorts Kubota Ltd",
+    "ticker": "ESCORTS"
+  },
+  {
+    "name": "Essar Shipping Ltd",
+    "ticker": "ESSARSHPNG"
+  },
+  {
+    "name": "Integra Essentia Ltd",
+    "ticker": "ESSENTIA"
+  },
+  {
+    "name": "Ester Industries Ltd",
+    "ticker": "ESTER"
+  },
+  {
+    "name": "Eternal Ltd",
+    "ticker": "ETERNAL"
+  },
+  {
+    "name": "Ethos Ltd",
+    "ticker": "ETHOSLTD"
+  },
+  {
+    "name": "Eureka Forbes Ltd",
+    "ticker": "EUREKAFORB"
+  },
+  {
+    "name": "Euro Panel Products Ltd",
+    "ticker": "EUROBOND"
+  },
+  {
+    "name": "Euro Pratik Sales Ltd",
+    "ticker": "EUROPRATIK"
+  },
+  {
+    "name": "Eurotex Industries And Exports Ltd",
+    "ticker": "EUROTEXIND"
+  },
+  {
+    "name": "Eveready Industries India Ltd",
+    "ticker": "EVEREADY"
+  },
+  {
+    "name": "Everest Industries Ltd",
+    "ticker": "EVERESTIND"
+  },
+  {
+    "name": "Excel Industries Ltd",
+    "ticker": "EXCELINDUS"
+  },
+  {
+    "name": "Excelsoft Technologies Ltd",
+    "ticker": "EXCELSOFT"
+  },
+  {
+    "name": "Exicom Tele-Systems Ltd",
+    "ticker": "EXICOM"
+  },
+  {
+    "name": "Exide Industries Ltd",
+    "ticker": "EXIDEIND"
+  },
+  {
+    "name": "Expleo Solutions Ltd",
+    "ticker": "EXPLEOSOL"
+  },
+  {
+    "name": "Exxaro Tiles Ltd",
+    "ticker": "EXXARO"
+  },
+  {
+    "name": "Fabtech Technologies Ltd",
+    "ticker": "FABTECH"
+  },
+  {
+    "name": "Fertilizers And Chemicals Travancore Ltd",
+    "ticker": "FACT"
+  },
+  {
+    "name": "Fairchem Organics Ltd",
+    "ticker": "FAIRCHEMOR"
+  },
+  {
+    "name": "Faze Three Ltd",
+    "ticker": "FAZE3Q"
+  },
+  {
+    "name": "Fineotex Chemical Ltd",
+    "ticker": "FCL"
+  },
+  {
+    "name": "Fcs Software Solutions Ltd",
+    "ticker": "FCSSOFT"
+  },
+  {
+    "name": "Fdc Ltd",
+    "ticker": "FDC"
+  },
+  {
+    "name": "Fedders Holding Ltd",
+    "ticker": "FEDDERSHOL"
+  },
+  {
+    "name": "The Federal Bank  Ltd",
+    "ticker": "FEDERALBNK"
+  },
+  {
+    "name": "Fedbank Financial Services Ltd",
+    "ticker": "FEDFINA"
+  },
+  {
+    "name": "Fermenta Biotech Ltd",
+    "ticker": "FERMENTA"
+  },
+  {
+    "name": "Fiberweb (India) Ltd",
+    "ticker": "FIBERWEB"
+  },
+  {
+    "name": "Fiem Industries Ltd",
+    "ticker": "FIEMIND"
+  },
+  {
+    "name": "Filatex India Ltd",
+    "ticker": "FILATEX"
+  },
+  {
+    "name": "Filatex Fashions Ltd",
+    "ticker": "FILATFASH"
+  },
+  {
+    "name": "Finolex Cables Ltd",
+    "ticker": "FINCABLES"
+  },
+  {
+    "name": "Fine Organic Industries Ltd",
+    "ticker": "FINEORG"
+  },
+  {
+    "name": "Finkurve Financial Services Ltd",
+    "ticker": "FINKURVE"
+  },
+  {
+    "name": "Fino Payments Bank Ltd",
+    "ticker": "FINOPB"
+  },
+  {
+    "name": "Finolex Industries Ltd",
+    "ticker": "FINPIPE"
+  },
+  {
+    "name": "Brainbees Solutions Ltd",
+    "ticker": "FIRSTCRY"
+  },
+  {
+    "name": "Fischer Medical Ventures Ltd",
+    "ticker": "FISCHER"
+  },
+  {
+    "name": "Five-Star Business Finance Ltd",
+    "ticker": "FIVESTAR"
+  },
+  {
+    "name": "Flair Writing Industries Ltd",
+    "ticker": "FLAIR"
+  },
+  {
+    "name": "Flexituff Ventures International Ltd",
+    "ticker": "FLEXITUFF"
+  },
+  {
+    "name": "Gujarat Fluorochemicals Ltd",
+    "ticker": "FLUOROCHEM"
+  },
+  {
+    "name": "Federal-Mogul Goetze (India) Ltd",
+    "ticker": "FMGOETZE"
+  },
+  {
+    "name": "Future Market Networks Ltd",
+    "ticker": "FMNL"
+  },
+  {
+    "name": "Focus Lighting And Fixtures Ltd",
+    "ticker": "FOCUS"
+  },
+  {
+    "name": "Foods & Inns Ltd",
+    "ticker": "FOODSIN"
+  },
+  {
+    "name": "Force Motors Ltd",
+    "ticker": "FORCEMOT"
+  },
+  {
+    "name": "Fortis Healthcare Ltd",
+    "ticker": "FORTIS"
+  },
+  {
+    "name": "Foseco India Ltd",
+    "ticker": "FOSECOIND"
+  },
+  {
+    "name": "Fractal Analytics Ltd",
+    "ticker": "FRACTAL"
+  },
+  {
+    "name": "Frontier Springs Ltd",
+    "ticker": "FRONTSP"
+  },
+  {
+    "name": "Firstsource Solutions Ltd",
+    "ticker": "FSL"
+  },
+  {
+    "name": "Fusion Finance Ltd",
+    "ticker": "FUSION"
+  },
+  {
+    "name": "Gabriel India Ltd",
+    "ticker": "GABRIEL"
+  },
+  {
+    "name": "Gujarat Ambuja Exports Ltd",
+    "ticker": "GAEL"
+  },
+  {
+    "name": "Gail (India) Ltd",
+    "ticker": "GAIL"
+  },
+  {
+    "name": "Gala Precision Engineering Ltd",
+    "ticker": "GALAPREC"
+  },
+  {
+    "name": "Galaxy Surfactants Ltd",
+    "ticker": "GALAXYSURF"
+  },
+  {
+    "name": "Gallantt Ispat Ltd",
+    "ticker": "GALLANTT"
+  },
+  {
+    "name": "Gandhar Oil Refinery (India) Ltd",
+    "ticker": "GANDHAR"
+  },
+  {
+    "name": "Gandhi Special Tubes Ltd",
+    "ticker": "GANDHITUBE"
+  },
+  {
+    "name": "Ganesha Ecosphere Ltd",
+    "ticker": "GANECOS"
+  },
+  {
+    "name": "Ganesh Benzoplast Ltd",
+    "ticker": "GANESHBE"
+  },
+  {
+    "name": "Ganesh Consumer Products Ltd",
+    "ticker": "GANESHCP"
+  },
+  {
+    "name": "Ganesh Housing Ltd",
+    "ticker": "GANESHHOU"
+  },
+  {
+    "name": "Ganga Forging Ltd",
+    "ticker": "GANGAFORGE"
+  },
+  {
+    "name": "Ganges Securities Ltd",
+    "ticker": "GANGESSECU"
+  },
+  {
+    "name": "Garware Technical Fibres Ltd",
+    "ticker": "GARFIBRES"
+  },
+  {
+    "name": "Garuda Construction And Engineering Ltd",
+    "ticker": "GARUDA"
+  },
+  {
+    "name": "Gacm Technologies Ltd",
+    "ticker": "GATECH"
+  },
+  {
+    "name": "Gacm Technologies Ltd",
+    "ticker": "GATECHDVR"
+  },
+  {
+    "name": "Gateway Distriparks Ltd",
+    "ticker": "GATEWAY"
+  },
+  {
+    "name": "Gaudium Ivf And Women Health Ltd",
+    "ticker": "GAUDIUMIVF"
+  },
+  {
+    "name": "Gayatri Highways Ltd",
+    "ticker": "GAYAHWS"
+  },
+  {
+    "name": "Gayatri Projects Ltd",
+    "ticker": "GAYAPROJ"
+  },
+  {
+    "name": "Gretex Corporate Services Ltd",
+    "ticker": "GCSL"
+  },
+  {
+    "name": "Geecee Ventures Ltd",
+    "ticker": "GEECEE"
+  },
+  {
+    "name": "Geekay Wires Ltd",
+    "ticker": "GEEKAYWIRE"
+  },
+  {
+    "name": "Gem Aromatics Ltd",
+    "ticker": "GEMAROMA"
+  },
+  {
+    "name": "Generic Engineering Construction And Projects Ltd",
+    "ticker": "GENCON"
+  },
+  {
+    "name": "Genesys International Corporation Ltd",
+    "ticker": "GENESYS"
+  },
+  {
+    "name": "Genus Paper & Boards Ltd",
+    "ticker": "GENUSPAPER"
+  },
+  {
+    "name": "Genus Power Infrastructures Ltd",
+    "ticker": "GENUSPOWER"
+  },
+  {
+    "name": "Geojit Financial Services Ltd",
+    "ticker": "GEOJITFSL"
+  },
+  {
+    "name": "The Great Eastern Shipping Company Ltd",
+    "ticker": "GESHIP"
+  },
+  {
+    "name": "Gfl Ltd",
+    "ticker": "GFLLIMITED"
+  },
+  {
+    "name": "Ghcl Ltd",
+    "ticker": "GHCL"
+  },
+  {
+    "name": "Ghcl Textiles Ltd",
+    "ticker": "GHCLTEXTIL"
+  },
+  {
+    "name": "Gic Housing Finance Ltd",
+    "ticker": "GICHSGFIN"
+  },
+  {
+    "name": "Globe International Carriers Ltd",
+    "ticker": "GICL"
+  },
+  {
+    "name": "General Insurance Corporation Of India",
+    "ticker": "GICRE"
+  },
+  {
+    "name": "Gillanders Arbuthnot & Company Ltd",
+    "ticker": "GILLANDERS"
+  },
+  {
+    "name": "Gillette India Ltd",
+    "ticker": "GILLETTE"
+  },
+  {
+    "name": "Ginni Filaments Ltd",
+    "ticker": "GINNIFILA"
+  },
+  {
+    "name": "Gujarat Industries Power Company Ltd",
+    "ticker": "GIPCL"
+  },
+  {
+    "name": "Gk Energy Ltd",
+    "ticker": "GKENERGY"
+  },
+  {
+    "name": "Gujarat Kidney And Super Speciality Ltd",
+    "ticker": "GKSL"
+  },
+  {
+    "name": "Gkw Ltd",
+    "ticker": "GKWLIMITED"
+  },
+  {
+    "name": "Gland Pharma Ltd",
+    "ticker": "GLAND"
+  },
+  {
+    "name": "Glaxosmithkline Pharmaceuticals Ltd",
+    "ticker": "GLAXO"
+  },
+  {
+    "name": "Glenmark Pharmaceuticals Ltd",
+    "ticker": "GLENMARK"
+  },
+  {
+    "name": "Gujarat Lease Financing Ltd",
+    "ticker": "GLFL"
+  },
+  {
+    "name": "Global Education Ltd",
+    "ticker": "GLOBAL"
+  },
+  {
+    "name": "Globale Tessile Ltd",
+    "ticker": "GLOBALE"
+  },
+  {
+    "name": "Global Vectra Helicorp Ltd",
+    "ticker": "GLOBALVECT"
+  },
+  {
+    "name": "Globe Enterprises (India) Ltd",
+    "ticker": "GLOBE"
+  },
+  {
+    "name": "Globe Civil Projects Ltd",
+    "ticker": "GLOBECIVIL"
+  },
+  {
+    "name": "Globus Spirits Ltd",
+    "ticker": "GLOBUSSPR"
+  },
+  {
+    "name": "Gloster Ltd",
+    "ticker": "GLOSTERLTD"
+  },
+  {
+    "name": "Glottis Ltd",
+    "ticker": "GLOTTIS"
+  },
+  {
+    "name": "Gm Breweries Ltd",
+    "ticker": "GMBREW"
+  },
+  {
+    "name": "Gujarat Mineral Development Corporation Ltd",
+    "ticker": "GMDCLTD"
+  },
+  {
+    "name": "Gmm Pfaudler Ltd",
+    "ticker": "GMMPFAUDLR"
+  },
+  {
+    "name": "Gmr Airports Ltd",
+    "ticker": "GMRAIRPORT"
+  },
+  {
+    "name": "Gmr Power And Urban Infra Ltd",
+    "ticker": "GMRP&UI"
+  },
+  {
+    "name": "Gna Axles Ltd",
+    "ticker": "GNA"
+  },
+  {
+    "name": "Gujarat Narmada Valley Fertilizers And Chemicals Ltd",
+    "ticker": "GNFC"
+  },
+  {
+    "name": "Gujarat Natural Resources Ltd",
+    "ticker": "GNRL"
+  },
+  {
+    "name": "Goa Carbon Ltd",
+    "ticker": "GOACARBON"
+  },
+  {
+    "name": "Gocl Corporation Ltd",
+    "ticker": "GOCLCORP"
+  },
+  {
+    "name": "Go Fashion (India) Ltd",
+    "ticker": "GOCOLORS"
+  },
+  {
+    "name": "Godavari Biorefineries Ltd",
+    "ticker": "GODAVARIB"
+  },
+  {
+    "name": "Godfrey Phillips India Ltd",
+    "ticker": "GODFRYPHLP"
+  },
+  {
+    "name": "Go Digit General Insurance Ltd",
+    "ticker": "GODIGIT"
+  },
+  {
+    "name": "Godrej Agrovet Ltd",
+    "ticker": "GODREJAGRO"
+  },
+  {
+    "name": "Godrej Consumer Products Ltd",
+    "ticker": "GODREJCP"
+  },
+  {
+    "name": "Godrej Industries Ltd",
+    "ticker": "GODREJIND"
+  },
+  {
+    "name": "Godrej Properties Ltd",
+    "ticker": "GODREJPROP"
+  },
+  {
+    "name": "Gokaldas Exports Ltd",
+    "ticker": "GOKEX"
+  },
+  {
+    "name": "Gokul Refoils And Solvent Ltd",
+    "ticker": "GOKUL"
+  },
+  {
+    "name": "Gokul Agro Resources Ltd",
+    "ticker": "GOKULAGRO"
+  },
+  {
+    "name": "Goldiam International Ltd",
+    "ticker": "GOLDIAM"
+  },
+  {
+    "name": "Aion-Tech Solutions Ltd",
+    "ticker": "GOLDTECH"
+  },
+  {
+    "name": "Goodluck India Ltd",
+    "ticker": "GOODLUCK"
+  },
+  {
+    "name": "Goodyear India Ltd",
+    "ticker": "GOODYEAR"
+  },
+  {
+    "name": "Gopal Snacks Ltd",
+    "ticker": "GOPAL"
+  },
+  {
+    "name": "Goyal Aluminiums Ltd",
+    "ticker": "GOYALALUM"
+  },
+  {
+    "name": "Godawari Power And Ispat Ltd",
+    "ticker": "GPIL"
+  },
+  {
+    "name": "Gujarat Pipavav Port Ltd",
+    "ticker": "GPPL"
+  },
+  {
+    "name": "Gpt Healthcare Ltd",
+    "ticker": "GPTHEALTH"
+  },
+  {
+    "name": "Gpt Infraprojects Ltd",
+    "ticker": "GPTINFRA"
+  },
+  {
+    "name": "Gradiente Infotainment Ltd",
+    "ticker": "GRADIENTE"
+  },
+  {
+    "name": "Grand Oak Canyons Distillery Ltd",
+    "ticker": "GRANDOAK"
+  },
+  {
+    "name": "Granules India Ltd",
+    "ticker": "GRANULES"
+  },
+  {
+    "name": "Graphite India Ltd",
+    "ticker": "GRAPHITE"
+  },
+  {
+    "name": "Grasim Industries Ltd",
+    "ticker": "GRASIM"
+  },
+  {
+    "name": "Grauer & Weil India Ltd",
+    "ticker": "GRAUWEIL"
+  },
+  {
+    "name": "Graviss Hospitality Ltd",
+    "ticker": "GRAVISSHO"
+  },
+  {
+    "name": "Gravita India Ltd",
+    "ticker": "GRAVITA"
+  },
+  {
+    "name": "Greaves Cotton Ltd",
+    "ticker": "GREAVESCOT"
+  },
+  {
+    "name": "Greenlam Industries Ltd",
+    "ticker": "GREENLAM"
+  },
+  {
+    "name": "Greenpanel Industries Ltd",
+    "ticker": "GREENPANEL"
+  },
+  {
+    "name": "Greenply Industries Ltd",
+    "ticker": "GREENPLY"
+  },
+  {
+    "name": "Orient Green Power Company Ltd",
+    "ticker": "GREENPOWER"
+  },
+  {
+    "name": "Grindwell Norton Ltd",
+    "ticker": "GRINDWELL"
+  },
+  {
+    "name": "G R Infraprojects Ltd",
+    "ticker": "GRINFRA"
+  },
+  {
+    "name": "Grm Overseas Ltd",
+    "ticker": "GRMOVER"
+  },
+  {
+    "name": "The Grob Tea Company Ltd",
+    "ticker": "GROBTEA"
+  },
+  {
+    "name": "Billionbrains Garage Ventures Ltd",
+    "ticker": "GROWW"
+  },
+  {
+    "name": "Grp Ltd",
+    "ticker": "GRPLTD"
+  },
+  {
+    "name": "Garden Reach Shipbuilders & Engineers Ltd",
+    "ticker": "GRSE"
+  },
+  {
+    "name": "Garware Hi-Tech Films Ltd",
+    "ticker": "GRWRHITECH"
+  },
+  {
+    "name": "Gujarat State Fertilizers & Chemicals Ltd",
+    "ticker": "GSFC"
+  },
+  {
+    "name": "Global Surfaces Ltd",
+    "ticker": "GSLSU"
+  },
+  {
+    "name": "Gsp Crop Science Ltd",
+    "ticker": "GSPCROP"
+  },
+  {
+    "name": "Gss Infotech Ltd",
+    "ticker": "GSS"
+  },
+  {
+    "name": "G-Tec Jainx Education Ltd",
+    "ticker": "GTECJAINX"
+  },
+  {
+    "name": "Gtl Ltd",
+    "ticker": "GTL"
+  },
+  {
+    "name": "Gtl Infrastructure Ltd",
+    "ticker": "GTLINFRA"
+  },
+  {
+    "name": "Gtpl Hathway Ltd",
+    "ticker": "GTPL"
+  },
+  {
+    "name": "Gufic Biosciences Ltd",
+    "ticker": "GUFICBIO"
+  },
+  {
+    "name": "Gujarat Alkalies And Chemicals Ltd",
+    "ticker": "GUJALKALI"
+  },
+  {
+    "name": "Gujarat Apollo Industries Ltd",
+    "ticker": "GUJAPOLLO"
+  },
+  {
+    "name": "Gujarat Energy Ltd",
+    "ticker": "GUJENERGY"
+  },
+  {
+    "name": "Gujarat Raffia Industries Ltd",
+    "ticker": "GUJRAFFIA"
+  },
+  {
+    "name": "Gujarat Themis Biosyn Ltd",
+    "ticker": "GUJTHEM"
+  },
+  {
+    "name": "Gulf Oil Lubricants India Ltd",
+    "ticker": "GULFOILLUB"
+  },
+  {
+    "name": "Gp Petroleums Ltd",
+    "ticker": "GULFPETRO"
+  },
+  {
+    "name": "Gulshan Polyols Ltd",
+    "ticker": "GULPOLY"
+  },
+  {
+    "name": "Gvk Power & Infrastructure Ltd",
+    "ticker": "GVKPIL"
+  },
+  {
+    "name": "Ge Power India Ltd",
+    "ticker": "GVPIL"
+  },
+  {
+    "name": "Gvp Infotech Ltd",
+    "ticker": "GVPTECH"
+  },
+  {
+    "name": "Ge Vernova T&D India Ltd",
+    "ticker": "GVT&D"
+  },
+  {
+    "name": "Gyftr Ltd",
+    "ticker": "GYFTR"
+  },
+  {
+    "name": "Hindustan Aeronautics Ltd",
+    "ticker": "HAL"
+  },
+  {
+    "name": "Halder Venture Ltd",
+    "ticker": "HALDER"
+  },
+  {
+    "name": "Haldyn Glass Ltd",
+    "ticker": "HALDYNGL"
+  },
+  {
+    "name": "Haleos Labs Ltd",
+    "ticker": "HALEOSLABS"
+  },
+  {
+    "name": "Happiest Minds Technologies Ltd",
+    "ticker": "HAPPSTMNDS"
+  },
+  {
+    "name": "Happy Forgings Ltd",
+    "ticker": "HAPPYFORGE"
+  },
+  {
+    "name": "Hardwyn India Ltd",
+    "ticker": "HARDWYN"
+  },
+  {
+    "name": "Hariom Pipe Industries Ltd",
+    "ticker": "HARIOMPIPE"
+  },
+  {
+    "name": "Harrisons  Malayalam Ltd",
+    "ticker": "HARRMALAYA"
+  },
+  {
+    "name": "Harsha Engineers International Ltd",
+    "ticker": "HARSHA"
+  },
+  {
+    "name": "Hathway Cable & Datacom Ltd",
+    "ticker": "HATHWAY"
+  },
+  {
+    "name": "Hatsun Agro Product Ltd",
+    "ticker": "HATSUN"
+  },
+  {
+    "name": "Havells India Ltd",
+    "ticker": "HAVELLS"
+  },
+  {
+    "name": "Sri Havisha Hospitality And Infrastructure Ltd",
+    "ticker": "HAVISHA"
+  },
+  {
+    "name": "Hawkins Cookers Ltd",
+    "ticker": "HAWKINCOOK"
+  },
+  {
+    "name": "Hb Estate Developers Ltd",
+    "ticker": "HBESD"
+  },
+  {
+    "name": "Hbl Engineering Ltd",
+    "ticker": "HBLENGINE"
+  },
+  {
+    "name": "Hb Stockholdings Ltd",
+    "ticker": "HBSL"
+  },
+  {
+    "name": "Hindustan Construction Company Ltd",
+    "ticker": "HCC"
+  },
+  {
+    "name": "Healthcare Global Enterprises Ltd",
+    "ticker": "HCG"
+  },
+  {
+    "name": "Hcl Infosystems Ltd",
+    "ticker": "HCL-INSYS"
+  },
+  {
+    "name": "Hcl Technologies Ltd",
+    "ticker": "HCLTECH"
+  },
+  {
+    "name": "Hdb Financial Services Ltd",
+    "ticker": "HDBFS"
+  },
+  {
+    "name": "Hdfc Asset Management Company Ltd",
+    "ticker": "HDFCAMC"
+  },
+  {
+    "name": "Hdfc Bank Ltd",
+    "ticker": "HDFCBANK"
+  },
+  {
+    "name": "Hdfc Life Insurance Company Ltd",
+    "ticker": "HDFCLIFE"
+  },
+  {
+    "name": "Heads Up Ventures Ltd",
+    "ticker": "HEADSUP"
+  },
+  {
+    "name": "Health X Platform Ltd",
+    "ticker": "HEALTHX"
+  },
+  {
+    "name": "Hec Infra Projects Ltd",
+    "ticker": "HECPROJECT"
+  },
+  {
+    "name": "Heg Ltd",
+    "ticker": "HEG"
+  },
+  {
+    "name": "Heidelbergcement India Ltd",
+    "ticker": "HEIDELBERG"
+  },
+  {
+    "name": "Hemisphere Properties India Ltd",
+    "ticker": "HEMIPROP"
+  },
+  {
+    "name": "Heranba Industries Ltd",
+    "ticker": "HERANBA"
+  },
+  {
+    "name": "Heritage Foods Ltd",
+    "ticker": "HERITGFOOD"
+  },
+  {
+    "name": "Hero Motocorp Ltd",
+    "ticker": "HEROMOTOCO"
+  },
+  {
+    "name": "Hester Biosciences Ltd",
+    "ticker": "HESTERBIO"
+  },
+  {
+    "name": "Hexagon Nutrition Ltd",
+    "ticker": "HEXAGON"
+  },
+  {
+    "name": "Hexa Tradex Ltd",
+    "ticker": "HEXATRADEX"
+  },
+  {
+    "name": "Hexaware Technologies Ltd",
+    "ticker": "HEXT"
+  },
+  {
+    "name": "Hfcl Ltd",
+    "ticker": "HFCL"
+  },
+  {
+    "name": "H.G. Infra Engineering Ltd",
+    "ticker": "HGINFRA"
+  },
+  {
+    "name": "Handson Global Management (Hgm) Ltd",
+    "ticker": "HGM"
+  },
+  {
+    "name": "Hinduja Global Solutions Ltd",
+    "ticker": "HGS"
+  },
+  {
+    "name": "Hikal Ltd",
+    "ticker": "HIKAL"
+  },
+  {
+    "name": "Highway Infrastructure Ltd",
+    "ticker": "HILINFRA"
+  },
+  {
+    "name": "Hilton Metal Forging Ltd",
+    "ticker": "HILTON"
+  },
+  {
+    "name": "Himatsingka Seide Ltd",
+    "ticker": "HIMATSEIDE"
+  },
+  {
+    "name": "Hindalco Industries Ltd",
+    "ticker": "HINDALCO"
+  },
+  {
+    "name": "Hindustan Composites Ltd",
+    "ticker": "HINDCOMPOS"
+  },
+  {
+    "name": "Hindcon Chemicals Ltd",
+    "ticker": "HINDCON"
+  },
+  {
+    "name": "Hindustan Copper Ltd",
+    "ticker": "HINDCOPPER"
+  },
+  {
+    "name": "Hindustan Oil Exploration Company Ltd",
+    "ticker": "HINDOILEXP"
+  },
+  {
+    "name": "Hindustan Petroleum Corporation Ltd",
+    "ticker": "HINDPETRO"
+  },
+  {
+    "name": "Hindustan Unilever Ltd",
+    "ticker": "HINDUNILVR"
+  },
+  {
+    "name": "Hindware Home Innovation Ltd",
+    "ticker": "HINDWAREAP"
+  },
+  {
+    "name": "Hindustan Zinc Ltd",
+    "ticker": "HINDZINC"
+  },
+  {
+    "name": "Hind Rectifiers Ltd",
+    "ticker": "HIRECT"
+  },
+  {
+    "name": "Hisar Metal Industries Ltd",
+    "ticker": "HISARMETAL"
+  },
+  {
+    "name": "Hi-Tech Pipes Ltd",
+    "ticker": "HITECH"
+  },
+  {
+    "name": "Hitech Corporation Ltd",
+    "ticker": "HITECHCORP"
+  },
+  {
+    "name": "The Hi-Tech Gears Ltd",
+    "ticker": "HITECHGEAR"
+  },
+  {
+    "name": "Hle Glascoat Ltd",
+    "ticker": "HLEGLAS"
+  },
+  {
+    "name": "Hlv Ltd",
+    "ticker": "HLVLTD"
+  },
+  {
+    "name": "Hma Agro Industries Ltd",
+    "ticker": "HMAAGRO"
+  },
+  {
+    "name": "Hindustan Media Ventures Ltd",
+    "ticker": "HMVL"
+  },
+  {
+    "name": "Hindustan Foods Ltd",
+    "ticker": "HNDFDS"
+  },
+  {
+    "name": "Home First Finance Company India Ltd",
+    "ticker": "HOMEFIRST"
+  },
+  {
+    "name": "Honasa Consumer Ltd",
+    "ticker": "HONASA"
+  },
+  {
+    "name": "Honeywell Automation India Ltd",
+    "ticker": "HONAUT"
+  },
+  {
+    "name": "Honda India Power Products Ltd",
+    "ticker": "HONDAPOWER"
+  },
+  {
+    "name": "Hp Adhesives Ltd",
+    "ticker": "HPAL"
+  },
+  {
+    "name": "Hindprakash Industries Ltd",
+    "ticker": "HPIL"
+  },
+  {
+    "name": "Hpl Electric & Power Ltd",
+    "ticker": "HPL"
+  },
+  {
+    "name": "Himadri Speciality Chemical Ltd",
+    "ticker": "HSCL"
+  },
+  {
+    "name": "Ht Media Ltd",
+    "ticker": "HTMEDIA"
+  },
+  {
+    "name": "Hubtown Ltd",
+    "ticker": "HUBTOWN"
+  },
+  {
+    "name": "Housing & Urban Development Corporation Ltd",
+    "ticker": "HUDCO"
+  },
+  {
+    "name": "Huhtamaki India Ltd",
+    "ticker": "HUHTAMAKI"
+  },
+  {
+    "name": "Hybrid Financial Services Ltd",
+    "ticker": "HYBRIDFIN"
+  },
+  {
+    "name": "Hyundai Motor India Ltd",
+    "ticker": "HYUNDAI"
+  },
+  {
+    "name": "Indiabulls Ltd",
+    "ticker": "IBULLSLTD"
+  },
+  {
+    "name": "Icds Ltd",
+    "ticker": "ICDSLTD"
+  },
+  {
+    "name": "Ice Make Refrigeration Ltd",
+    "ticker": "ICEMAKE"
+  },
+  {
+    "name": "Icici Prudential Asset Management Company Ltd",
+    "ticker": "ICICIAMC"
+  },
+  {
+    "name": "Icici Bank Ltd",
+    "ticker": "ICICIBANK"
+  },
+  {
+    "name": "Icici Lombard General Insurance Company Ltd",
+    "ticker": "ICICIGI"
+  },
+  {
+    "name": "Icici Prudential Life Insurance Company Ltd",
+    "ticker": "ICICIPRULI"
+  },
+  {
+    "name": "Indo Count Industries Ltd",
+    "ticker": "ICIL"
+  },
+  {
+    "name": "Icra Ltd",
+    "ticker": "ICRA"
+  },
+  {
+    "name": "Idbi Bank Ltd",
+    "ticker": "IDBI"
+  },
+  {
+    "name": "Vodafone Idea Ltd",
+    "ticker": "IDEA"
+  },
+  {
+    "name": "Ideaforge Technology Ltd",
+    "ticker": "IDEAFORGE"
+  },
+  {
+    "name": "Idfc First Bank Ltd",
+    "ticker": "IDFCFIRSTB"
+  },
+  {
+    "name": "Indian Energy Exchange Ltd",
+    "ticker": "IEX"
+  },
+  {
+    "name": "Ifb Agro Industries Ltd",
+    "ticker": "IFBAGRO"
+  },
+  {
+    "name": "Ifb Industries Ltd",
+    "ticker": "IFBIND"
+  },
+  {
+    "name": "Ifci Ltd",
+    "ticker": "IFCI"
+  },
+  {
+    "name": "Ifgl Refractories Ltd",
+    "ticker": "IFGLEXPOR"
+  },
+  {
+    "name": "Igarashi Motors India Ltd",
+    "ticker": "IGARASHI"
+  },
+  {
+    "name": "Indogulf Cropsciences Ltd",
+    "ticker": "IGCL"
+  },
+  {
+    "name": "International Gemological Institute Ltd",
+    "ticker": "IGIL"
+  },
+  {
+    "name": "Indraprastha Gas Ltd",
+    "ticker": "IGL"
+  },
+  {
+    "name": "Ig Petrochemicals Ltd",
+    "ticker": "IGPL"
+  },
+  {
+    "name": "Iifl Finance Ltd",
+    "ticker": "IIFL"
+  },
+  {
+    "name": "Iifl Capital Services Ltd",
+    "ticker": "IIFLCAPS"
+  },
+  {
+    "name": "Industrial Investment Trust Ltd",
+    "ticker": "IITL"
+  },
+  {
+    "name": "Ikio Technologies Ltd",
+    "ticker": "IKIO"
+  },
+  {
+    "name": "Inventurus Knowledge Solutions Ltd",
+    "ticker": "IKS"
+  },
+  {
+    "name": "Imagicaaworld Entertainment Ltd",
+    "ticker": "IMAGICAA"
+  },
+  {
+    "name": "Indian Metals & Ferro Alloys Ltd",
+    "ticker": "IMFA"
+  },
+  {
+    "name": "India Motor Parts And Accessories Ltd",
+    "ticker": "IMPAL"
+  },
+  {
+    "name": "Insolation Energy Ltd",
+    "ticker": "INA"
+  },
+  {
+    "name": "Incredible Industries Ltd",
+    "ticker": "INCREDIBLE"
+  },
+  {
+    "name": "Indbank Merchant Banking Services Ltd",
+    "ticker": "INDBANK"
+  },
+  {
+    "name": "Indegene Ltd",
+    "ticker": "INDGN"
+  },
+  {
+    "name": "The Indian Hotels Company Ltd",
+    "ticker": "INDHOTEL"
+  },
+  {
+    "name": "The India Cements Ltd",
+    "ticker": "INDIACEM"
+  },
+  {
+    "name": "India Glycols Ltd",
+    "ticker": "INDIAGLYCO"
+  },
+  {
+    "name": "Indiamart Intermesh Ltd",
+    "ticker": "INDIAMART"
+  },
+  {
+    "name": "Indian Bank",
+    "ticker": "INDIANB"
+  },
+  {
+    "name": "Indian Card Clothing Company Ltd",
+    "ticker": "INDIANCARD"
+  },
+  {
+    "name": "Indian Hume Pipe Company Ltd",
+    "ticker": "INDIANHUME"
+  },
+  {
+    "name": "India Shelter Finance Corporation Ltd",
+    "ticker": "INDIASHLTR"
+  },
+  {
+    "name": "Interglobe Aviation Ltd",
+    "ticker": "INDIGO"
+  },
+  {
+    "name": "Indigo Paints Ltd",
+    "ticker": "INDIGOPNTS"
+  },
+  {
+    "name": "Indiqube Spaces Ltd",
+    "ticker": "INDIQUBE"
+  },
+  {
+    "name": "India Nippon Electricals Ltd",
+    "ticker": "INDNIPPON"
+  },
+  {
+    "name": "Indo Amines Ltd",
+    "ticker": "INDOAMIN"
+  },
+  {
+    "name": "Indo Borax & Chemicals Ltd",
+    "ticker": "INDOBORAX"
+  },
+  {
+    "name": "Indoco Remedies Ltd",
+    "ticker": "INDOCO"
+  },
+  {
+    "name": "Indo Farm Equipment Ltd",
+    "ticker": "INDOFARM"
+  },
+  {
+    "name": "Indo Rama Synthetics (India) Ltd",
+    "ticker": "INDORAMA"
+  },
+  {
+    "name": "Indostar Capital Finance Ltd",
+    "ticker": "INDOSTAR"
+  },
+  {
+    "name": "Indo Tech Transformers Ltd",
+    "ticker": "INDOTECH"
+  },
+  {
+    "name": "Indo Thai Securities Ltd",
+    "ticker": "INDOTHAI"
+  },
+  {
+    "name": "Indo Us Biotech Ltd",
+    "ticker": "INDOUS"
+  },
+  {
+    "name": "Indowind Energy Ltd",
+    "ticker": "INDOWIND"
+  },
+  {
+    "name": "Industrial & Prudential Investment Company Ltd",
+    "ticker": "INDPRUD"
+  },
+  {
+    "name": "Indraprastha Medical Corporation Ltd",
+    "ticker": "INDRAMEDCO"
+  },
+  {
+    "name": "Ind-Swift Laboratories Ltd",
+    "ticker": "INDSWFTLAB"
+  },
+  {
+    "name": "Indian Terrain Fashions Ltd",
+    "ticker": "INDTERRAIN"
+  },
+  {
+    "name": "Indusind Bank Ltd",
+    "ticker": "INDUSINDBK"
+  },
+  {
+    "name": "Indus Towers Ltd",
+    "ticker": "INDUSTOWER"
+  },
+  {
+    "name": "Infobeans Technologies Ltd",
+    "ticker": "INFOBEAN"
+  },
+  {
+    "name": "Infomedia Press Ltd",
+    "ticker": "INFOMEDIA"
+  },
+  {
+    "name": "Infosys Ltd",
+    "ticker": "INFY"
+  },
+  {
+    "name": "Ingersoll Rand (India) Ltd",
+    "ticker": "INGERRAND"
+  },
+  {
+    "name": "Innova Captab Ltd",
+    "ticker": "INNOVACAP"
+  },
+  {
+    "name": "Innovana Thinklabs Ltd",
+    "ticker": "INNOVANA"
+  },
+  {
+    "name": "Innovision Ltd",
+    "ticker": "INNOVISION"
+  },
+  {
+    "name": "Inox Green Energy Services Ltd",
+    "ticker": "INOXGREEN"
+  },
+  {
+    "name": "Inox India Ltd",
+    "ticker": "INOXINDIA"
+  },
+  {
+    "name": "Inox Wind Ltd",
+    "ticker": "INOXWIND"
+  },
+  {
+    "name": "Insecticides (India) Ltd",
+    "ticker": "INSECTICID"
+  },
+  {
+    "name": "Inspirisys Solutions Ltd",
+    "ticker": "INSPIRISYS"
+  },
+  {
+    "name": "Intellect Design Arena Ltd",
+    "ticker": "INTELLECT"
+  },
+  {
+    "name": "Intense Technologies Ltd",
+    "ticker": "INTENTECH"
+  },
+  {
+    "name": "Interarch Building Solutions Ltd",
+    "ticker": "INTERARCH"
+  },
+  {
+    "name": "International Conveyors Ltd",
+    "ticker": "INTLCONV"
+  },
+  {
+    "name": "Inventure Growth & Securities Ltd",
+    "ticker": "INVENTURE"
+  },
+  {
+    "name": "Investment & Precision Castings Ltd",
+    "ticker": "INVPRECQ"
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "ticker": "IOB"
+  },
+  {
+    "name": "Indian Oil Corporation Ltd",
+    "ticker": "IOC"
+  },
+  {
+    "name": "Iol Chemicals And Pharmaceuticals Ltd",
+    "ticker": "IOLCP"
+  },
+  {
+    "name": "Ion Exchange (India) Ltd",
+    "ticker": "IONEXCHANG"
+  },
+  {
+    "name": "Ipca Laboratories Ltd",
+    "ticker": "IPCALAB"
+  },
+  {
+    "name": "India Pesticides Ltd",
+    "ticker": "IPL"
+  },
+  {
+    "name": "Irb Infrastructure Developers Ltd",
+    "ticker": "IRB"
+  },
+  {
+    "name": "Ircon International Ltd",
+    "ticker": "IRCON"
+  },
+  {
+    "name": "Indian Railway Catering And Tourism Corporation Ltd",
+    "ticker": "IRCTC"
+  },
+  {
+    "name": "Indian Renewable Energy Development Agency Ltd",
+    "ticker": "IREDA"
+  },
+  {
+    "name": "Indian Railway Finance Corporation Ltd",
+    "ticker": "IRFC"
+  },
+  {
+    "name": "Iris Regtech Solutions Ltd",
+    "ticker": "IRIS"
+  },
+  {
+    "name": "Iris Clothings Ltd",
+    "ticker": "IRISDOREME"
+  },
+  {
+    "name": "Irm Energy Ltd",
+    "ticker": "IRMENERGY"
+  },
+  {
+    "name": "Intrasoft Technologies Ltd",
+    "ticker": "ISFT"
+  },
+  {
+    "name": "Isgec Heavy Engineering Ltd",
+    "ticker": "ISGEC"
+  },
+  {
+    "name": "Ishan Dyes And Chemicals Ltd",
+    "ticker": "ISHANCH"
+  },
+  {
+    "name": "Itc Ltd",
+    "ticker": "ITC"
+  },
+  {
+    "name": "Itc Hotels Ltd",
+    "ticker": "ITCHOTELS"
+  },
+  {
+    "name": "India Tourism Development Corporation Ltd",
+    "ticker": "ITDC"
+  },
+  {
+    "name": "Iti Ltd",
+    "ticker": "ITI"
+  },
+  {
+    "name": "Ivalue Infosolutions Ltd",
+    "ticker": "IVALUE"
+  },
+  {
+    "name": "Il&Fs Investment Managers Ltd",
+    "ticker": "IVC"
+  },
+  {
+    "name": "Ivp Ltd",
+    "ticker": "IVP"
+  },
+  {
+    "name": "The Indian Wood Products Company Ltd",
+    "ticker": "IWP"
+  },
+  {
+    "name": "Le Travenues Technology Ltd",
+    "ticker": "IXIGO"
+  },
+  {
+    "name": "Izmo Ltd",
+    "ticker": "IZMO"
+  },
+  {
+    "name": "The Jammu & Kashmir Bank Ltd",
+    "ticker": "J&KBANK"
+  },
+  {
+    "name": "Jagran Prakashan Ltd",
+    "ticker": "JAGRAN"
+  },
+  {
+    "name": "Jagsonpal Pharmaceuticals Ltd",
+    "ticker": "JAGSNPHARM"
+  },
+  {
+    "name": "Jai Balaji Industries Ltd",
+    "ticker": "JAIBALAJI"
+  },
+  {
+    "name": "Jai Corp Ltd",
+    "ticker": "JAICORPLTD"
+  },
+  {
+    "name": "Jain Resource Recycling Ltd",
+    "ticker": "JAINREC"
+  },
+  {
+    "name": "Nandani Creation Ltd",
+    "ticker": "JAIPURKURT"
+  },
+  {
+    "name": "Jamna Auto Industries Ltd",
+    "ticker": "JAMNAAUTO"
+  },
+  {
+    "name": "Jaro Institute Of Technology Management And Research Ltd",
+    "ticker": "JARO"
+  },
+  {
+    "name": "Jash Engineering Ltd",
+    "ticker": "JASH"
+  },
+  {
+    "name": "Jayant Agro Organics Ltd",
+    "ticker": "JAYAGROGN"
+  },
+  {
+    "name": "Jay Bharat Maruti Ltd",
+    "ticker": "JAYBARMARU"
+  },
+  {
+    "name": "Jaykay Enterprises Ltd",
+    "ticker": "JAYKAY"
+  },
+  {
+    "name": "Jayaswal Neco Industries Ltd",
+    "ticker": "JAYNECOIND"
+  },
+  {
+    "name": "Jayshree Tea & Industries Ltd",
+    "ticker": "JAYSREETEA"
+  },
+  {
+    "name": "Jbm Auto Ltd",
+    "ticker": "JBMA"
+  },
+  {
+    "name": "Jet Freight Logistics Ltd",
+    "ticker": "JETFREIGHT"
+  },
+  {
+    "name": "J.G.Chemicals Ltd",
+    "ticker": "JGCHEM"
+  },
+  {
+    "name": "Jhs Svendgaard Laboratories Ltd",
+    "ticker": "JHS"
+  },
+  {
+    "name": "Jindal Photo Ltd",
+    "ticker": "JINDALPHOT"
+  },
+  {
+    "name": "Jindal Poly Films Ltd",
+    "ticker": "JINDALPOLY"
+  },
+  {
+    "name": "Jindal Saw Ltd",
+    "ticker": "JINDALSAW"
+  },
+  {
+    "name": "Jindal Steel Ltd",
+    "ticker": "JINDALSTEL"
+  },
+  {
+    "name": "Jindal Drilling And Industries Ltd",
+    "ticker": "JINDRILL"
+  },
+  {
+    "name": "Jindal Worldwide Ltd",
+    "ticker": "JINDWORLD"
+  },
+  {
+    "name": "Jio Financial Services Ltd",
+    "ticker": "JIOFIN"
+  },
+  {
+    "name": "Jain Irrigation Systems Ltd",
+    "ticker": "JISLDVREQS"
+  },
+  {
+    "name": "Jain Irrigation Systems Ltd",
+    "ticker": "JISLJALEQS"
+  },
+  {
+    "name": "Jitf Infralogistics Ltd",
+    "ticker": "JITFINFRA"
+  },
+  {
+    "name": "Jk Cement Ltd",
+    "ticker": "JKCEMENT"
+  },
+  {
+    "name": "J.Kumar Infraprojects Ltd",
+    "ticker": "JKIL"
+  },
+  {
+    "name": "Jinkushal Industries Ltd",
+    "ticker": "JKIPL"
+  },
+  {
+    "name": "Jk Lakshmi Cement Ltd",
+    "ticker": "JKLAKSHMI"
+  },
+  {
+    "name": "Jk Paper Ltd",
+    "ticker": "JKPAPER"
+  },
+  {
+    "name": "Jk Tyre & Industries Ltd",
+    "ticker": "JKTYRE"
+  },
+  {
+    "name": "Jupiter Life Line Hospitals Ltd",
+    "ticker": "JLHL"
+  },
+  {
+    "name": "Jullundur Motor Agency (Delhi) Ltd",
+    "ticker": "JMA"
+  },
+  {
+    "name": "Jm Financial Ltd",
+    "ticker": "JMFINANCIL"
+  },
+  {
+    "name": "Jnk India Ltd",
+    "ticker": "JNKINDIA"
+  },
+  {
+    "name": "Jocil Ltd",
+    "ticker": "JOCIL"
+  },
+  {
+    "name": "Jindal Poly Investment And Finance Company Ltd",
+    "ticker": "JPOLYINVST"
+  },
+  {
+    "name": "Jaiprakash Power Ventures Ltd",
+    "ticker": "JPPOWER"
+  },
+  {
+    "name": "Jana Small Finance Bank Ltd",
+    "ticker": "JSFB"
+  },
+  {
+    "name": "Jindal Stainless Ltd",
+    "ticker": "JSL"
+  },
+  {
+    "name": "Jeena Sikho Lifecare Ltd",
+    "ticker": "JSLL"
+  },
+  {
+    "name": "Jsw Cement Ltd",
+    "ticker": "JSWCEMENT"
+  },
+  {
+    "name": "Jsw Dulux Ltd",
+    "ticker": "JSWDULUX"
+  },
+  {
+    "name": "Jsw Energy Ltd",
+    "ticker": "JSWENERGY"
+  },
+  {
+    "name": "Jsw Holdings Ltd",
+    "ticker": "JSWHL"
+  },
+  {
+    "name": "Jsw Infrastructure Ltd",
+    "ticker": "JSWINFRA"
+  },
+  {
+    "name": "Jsw Steel Ltd",
+    "ticker": "JSWSTEEL"
+  },
+  {
+    "name": "Jtekt India Ltd",
+    "ticker": "JTEKTINDIA"
+  },
+  {
+    "name": "Jtl Industries Ltd",
+    "ticker": "JTLIND"
+  },
+  {
+    "name": "Jubilant Agri And Consumer Products Ltd",
+    "ticker": "JUBLCPL"
+  },
+  {
+    "name": "Jubilant Foodworks Ltd",
+    "ticker": "JUBLFOOD"
+  },
+  {
+    "name": "Jubilant Ingrevia Ltd",
+    "ticker": "JUBLINGREA"
+  },
+  {
+    "name": "Jubilant Pharmova Ltd",
+    "ticker": "JUBLPHARMA"
+  },
+  {
+    "name": "Juniper Hotels Ltd",
+    "ticker": "JUNIPER"
+  },
+  {
+    "name": "Just Dial Ltd",
+    "ticker": "JUSTDIAL"
+  },
+  {
+    "name": "Jupiter Wagons Ltd",
+    "ticker": "JWL"
+  },
+  {
+    "name": "Jyothy Labs Ltd",
+    "ticker": "JYOTHYLAB"
+  },
+  {
+    "name": "Jyoti Cnc Automation Ltd",
+    "ticker": "JYOTICNC"
+  },
+  {
+    "name": "Jyoti Structures Ltd",
+    "ticker": "JYOTISTRUC"
+  },
+  {
+    "name": "Kabra Extrusion Technik Ltd",
+    "ticker": "KABRAEXTRU"
+  },
+  {
+    "name": "Kajaria Ceramics Ltd",
+    "ticker": "KAJARIACER"
+  },
+  {
+    "name": "Kakatiya Cement Sugar & Industries Ltd",
+    "ticker": "KAKATCEM"
+  },
+  {
+    "name": "Sai Silks (Kalamandir) Ltd",
+    "ticker": "KALAMANDIR"
+  },
+  {
+    "name": "Kalpataru Ltd",
+    "ticker": "KALPATARU"
+  },
+  {
+    "name": "Kalyani Commercials Ltd",
+    "ticker": "KALYANI"
+  },
+  {
+    "name": "Kalyani Forge Ltd",
+    "ticker": "KALYANIFRG"
+  },
+  {
+    "name": "Kalyan Jewellers India Ltd",
+    "ticker": "KALYANKJIL"
+  },
+  {
+    "name": "Kama Holdings Ltd",
+    "ticker": "KAMAHOLD"
+  },
+  {
+    "name": "Kamat Hotels (I) Ltd",
+    "ticker": "KAMATHOTEL"
+  },
+  {
+    "name": "Kamdhenu Ltd",
+    "ticker": "KAMDHENU"
+  },
+  {
+    "name": "Kamdhenu Ventures Ltd",
+    "ticker": "KAMOPAINTS"
+  },
+  {
+    "name": "Kanani Industries Ltd",
+    "ticker": "KANANIIND"
+  },
+  {
+    "name": "Kanchi Karpooram Ltd",
+    "ticker": "KANCHI"
+  },
+  {
+    "name": "Kanoria Chemicals & Industries Ltd",
+    "ticker": "KANORICHEM"
+  },
+  {
+    "name": "Kanpur Plastipack Ltd",
+    "ticker": "KANPRPLA"
+  },
+  {
+    "name": "Kansai Nerolac Paints Ltd",
+    "ticker": "KANSAINER"
+  },
+  {
+    "name": "Kapston Services Ltd",
+    "ticker": "KAPSTON"
+  },
+  {
+    "name": "Karma Energy Ltd",
+    "ticker": "KARMAENG"
+  },
+  {
+    "name": "Karur Vysya Bank Ltd",
+    "ticker": "KARURVYSYA"
+  },
+  {
+    "name": "Kaushalya Infrastructure Development Corporation Ltd",
+    "ticker": "KAUSHALYA"
+  },
+  {
+    "name": "Kavveri Defence & Wireless Technologies Ltd",
+    "ticker": "KAVDEFENCE"
+  },
+  {
+    "name": "Kaya Ltd",
+    "ticker": "KAYA"
+  },
+  {
+    "name": "Kaynes Technology India Ltd",
+    "ticker": "KAYNES"
+  },
+  {
+    "name": "Kcp Ltd",
+    "ticker": "KCP"
+  },
+  {
+    "name": "Kcp Sugar And Industries Corporation Ltd",
+    "ticker": "KCPSUGIND"
+  },
+  {
+    "name": "Kddl Ltd",
+    "ticker": "KDDL"
+  },
+  {
+    "name": "Kec International Ltd",
+    "ticker": "KEC"
+  },
+  {
+    "name": "Kirloskar Electric Company Ltd",
+    "ticker": "KECL"
+  },
+  {
+    "name": "Dsj Keep Learning Ltd",
+    "ticker": "KEEPLEARN"
+  },
+  {
+    "name": "Kei Industries Ltd",
+    "ticker": "KEI"
+  },
+  {
+    "name": "Kellton Tech Solutions Ltd",
+    "ticker": "KELLTONTEC"
+  },
+  {
+    "name": "Kennametal India Ltd",
+    "ticker": "KENNAMET"
+  },
+  {
+    "name": "Kernex Microsystems (India) Ltd",
+    "ticker": "KERNEX"
+  },
+  {
+    "name": "Kesoram Industries Ltd",
+    "ticker": "KESORAMIND"
+  },
+  {
+    "name": "Keynote Financial Services Ltd",
+    "ticker": "KEYFINSERV"
+  },
+  {
+    "name": "Kfin Technologies Ltd",
+    "ticker": "KFINTECH"
+  },
+  {
+    "name": "Khadim India Ltd",
+    "ticker": "KHADIM"
+  },
+  {
+    "name": "Khaitan Chemicals & Fertilizers Ltd",
+    "ticker": "KHAICHEM"
+  },
+  {
+    "name": "Khaitan (India) Ltd",
+    "ticker": "KHAITANLTD"
+  },
+  {
+    "name": "Khandwala Securities Ltd",
+    "ticker": "KHANDSE"
+  },
+  {
+    "name": "Kalyani Investment Company Ltd",
+    "ticker": "KICL"
+  },
+  {
+    "name": "Kilitch Drugs (India) Ltd",
+    "ticker": "KILITCH"
+  },
+  {
+    "name": "Krishna Institute Of Medical Sciences Ltd",
+    "ticker": "KIMS"
+  },
+  {
+    "name": "Kingfa Science & Technology (India) Ltd",
+    "ticker": "KINGFA"
+  },
+  {
+    "name": "Kiocl Ltd",
+    "ticker": "KIOCL"
+  },
+  {
+    "name": "Kiran Vyapar Ltd",
+    "ticker": "KIRANVYPAR"
+  },
+  {
+    "name": "Kiri Industries Ltd",
+    "ticker": "KIRIINDUS"
+  },
+  {
+    "name": "Kirloskar Ferrous Industries Ltd",
+    "ticker": "KIRLFER"
+  },
+  {
+    "name": "Kirloskar Brothers Ltd",
+    "ticker": "KIRLOSBROS"
+  },
+  {
+    "name": "Kirloskar Oil Engines Ltd",
+    "ticker": "KIRLOSENG"
+  },
+  {
+    "name": "Kirloskar Industries Ltd",
+    "ticker": "KIRLOSIND"
+  },
+  {
+    "name": "Kirloskar Pneumatic Company Ltd",
+    "ticker": "KIRLPNU"
+  },
+  {
+    "name": "Onemi Technology Solutions Ltd",
+    "ticker": "KISSHT"
+  },
+  {
+    "name": "Kitex Garments Ltd",
+    "ticker": "KITEX"
+  },
+  {
+    "name": "Kewal Kiran Clothing Ltd",
+    "ticker": "KKCL"
+  },
+  {
+    "name": "Kilburn Engineering Ltd",
+    "ticker": "KLBRENG-B"
+  },
+  {
+    "name": "Knowledge Marine & Engineering Works Ltd",
+    "ticker": "KMEW"
+  },
+  {
+    "name": "K.M.Sugar Mills Ltd",
+    "ticker": "KMSUGAR"
+  },
+  {
+    "name": "Knack Packaging Ltd",
+    "ticker": "KNACK"
+  },
+  {
+    "name": "Kn Agri Resources Ltd",
+    "ticker": "KNAGRI"
+  },
+  {
+    "name": "Knr Constructions Ltd",
+    "ticker": "KNRCON"
+  },
+  {
+    "name": "Kohinoor Foods Ltd",
+    "ticker": "KOHINOOR"
+  },
+  {
+    "name": "Kokuyo Camlin Ltd",
+    "ticker": "KOKUYOCMLN"
+  },
+  {
+    "name": "Kolte - Patil Developers Ltd",
+    "ticker": "KOLTEPATIL"
+  },
+  {
+    "name": "Kopran Ltd",
+    "ticker": "KOPRAN"
+  },
+  {
+    "name": "Kotak Mahindra Bank Ltd",
+    "ticker": "KOTAKBANK"
+  },
+  {
+    "name": "Kothari Sugars And Chemicals Ltd",
+    "ticker": "KOTARISUG"
+  },
+  {
+    "name": "Kothari Petrochemicals Ltd",
+    "ticker": "KOTHARIPET"
+  },
+  {
+    "name": "Kothari Products Ltd",
+    "ticker": "KOTHARIPRO"
+  },
+  {
+    "name": "Kothari Industrial Corporation Ltd",
+    "ticker": "KOTIC"
+  },
+  {
+    "name": "Kotyark Industries Ltd",
+    "ticker": "KOTYARK"
+  },
+  {
+    "name": "Kovai Medical Center & Hospital Ltd",
+    "ticker": "KOVAI"
+  },
+  {
+    "name": "K.P. Energy Ltd",
+    "ticker": "KPEL"
+  },
+  {
+    "name": "Kpi Green Energy Ltd",
+    "ticker": "KPIGREEN"
+  },
+  {
+    "name": "Kalpataru Projects International Ltd",
+    "ticker": "KPIL"
+  },
+  {
+    "name": "Kpit Technologies Ltd",
+    "ticker": "KPITTECH"
+  },
+  {
+    "name": "Kwality Pharmaceuticals Ltd",
+    "ticker": "KPL"
+  },
+  {
+    "name": "K.P.R. Mill Ltd",
+    "ticker": "KPRMILL"
+  },
+  {
+    "name": "Krbl Ltd",
+    "ticker": "KRBL"
+  },
+  {
+    "name": "Krebs Biochemicals And Industries Ltd",
+    "ticker": "KREBSBIO"
+  },
+  {
+    "name": "Kridhan Infra Ltd",
+    "ticker": "KRIDHANINF"
+  },
+  {
+    "name": "Krishana Phoschem Ltd",
+    "ticker": "KRISHANA"
+  },
+  {
+    "name": "Krishival Foods Ltd",
+    "ticker": "KRISHIVAL"
+  },
+  {
+    "name": "Krishna Defence And Allied Industries Ltd",
+    "ticker": "KRISHNADEF"
+  },
+  {
+    "name": "Kriti Industries (India) Ltd",
+    "ticker": "KRITI"
+  },
+  {
+    "name": "Kritika Wires Ltd",
+    "ticker": "KRITIKA"
+  },
+  {
+    "name": "Kriti Nutrients Ltd",
+    "ticker": "KRITINUT"
+  },
+  {
+    "name": "Krn Heat Exchanger And Refrigeration Ltd",
+    "ticker": "KRN"
+  },
+  {
+    "name": "Kronox Lab Sciences Ltd",
+    "ticker": "KRONOX"
+  },
+  {
+    "name": "Kross Ltd",
+    "ticker": "KROSS"
+  },
+  {
+    "name": "Krsnaa Diagnostics Ltd",
+    "ticker": "KRSNAA"
+  },
+  {
+    "name": "Krystal Integrated Services Ltd",
+    "ticker": "KRYSTAL"
+  },
+  {
+    "name": "Ksb Ltd",
+    "ticker": "KSB"
+  },
+  {
+    "name": "Kaveri Seed Company Ltd",
+    "ticker": "KSCL"
+  },
+  {
+    "name": "Ksh International Ltd",
+    "ticker": "KSHINTL"
+  },
+  {
+    "name": "Kshitij Polyline Ltd",
+    "ticker": "KSHITIJPOL"
+  },
+  {
+    "name": "Kalyani Steels Ltd",
+    "ticker": "KSL"
+  },
+  {
+    "name": "Ksolves India Ltd",
+    "ticker": "KSOLVES"
+  },
+  {
+    "name": "Ksr Footwear Ltd",
+    "ticker": "KSR"
+  },
+  {
+    "name": "The Karnataka Bank Ltd",
+    "ticker": "KTKBANK"
+  },
+  {
+    "name": "Kuantum Papers Ltd",
+    "ticker": "KUANTUM"
+  },
+  {
+    "name": "Kusumgar Ltd",
+    "ticker": "KUSUMGAR"
+  },
+  {
+    "name": "Kwality Wall'S (India) Ltd",
+    "ticker": "KWIL"
+  },
+  {
+    "name": "Lagnam Spintex Ltd",
+    "ticker": "LAGNAM"
+  },
+  {
+    "name": "Lahoti Overseas Ltd",
+    "ticker": "LAHOTIOV"
+  },
+  {
+    "name": "Lorenzini Apparels Ltd",
+    "ticker": "LAL"
+  },
+  {
+    "name": "Dr. Lal Path Labs Ltd",
+    "ticker": "LALPATHLAB"
+  },
+  {
+    "name": "Lambodhara Textiles Ltd",
+    "ticker": "LAMBODHARA"
+  },
+  {
+    "name": "Lancor Holdings Ltd",
+    "ticker": "LANCORHOL"
+  },
+  {
+    "name": "Landmark Cars Ltd",
+    "ticker": "LANDMARK"
+  },
+  {
+    "name": "Landsmill Green Ltd",
+    "ticker": "LANDSMILL"
+  },
+  {
+    "name": "La Opala Rg Ltd",
+    "ticker": "LAOPALA"
+  },
+  {
+    "name": "Lasa Supergenerics Ltd",
+    "ticker": "LASA"
+  },
+  {
+    "name": "Laser Power & Infra Ltd",
+    "ticker": "LASERPOWER"
+  },
+  {
+    "name": "Latent View Analytics Ltd",
+    "ticker": "LATENTVIEW"
+  },
+  {
+    "name": "Latteys Industries Ltd",
+    "ticker": "LATTEYS"
+  },
+  {
+    "name": "Laurus Labs Ltd",
+    "ticker": "LAURUSLABS"
+  },
+  {
+    "name": "Laxmi Cotspin Ltd",
+    "ticker": "LAXMICOT"
+  },
+  {
+    "name": "Laxmi Dental Ltd",
+    "ticker": "LAXMIDENTL"
+  },
+  {
+    "name": "Laxmi India Finance Ltd",
+    "ticker": "LAXMIINDIA"
+  },
+  {
+    "name": "Lcc Infotech Ltd",
+    "ticker": "LCCINFOTEC"
+  },
+  {
+    "name": "Le Merite Exports Ltd",
+    "ticker": "LEMERITE"
+  },
+  {
+    "name": "Lemon Tree Hotels Ltd",
+    "ticker": "LEMONTREE"
+  },
+  {
+    "name": "Lenskart Solutions Ltd",
+    "ticker": "LENSKART"
+  },
+  {
+    "name": "Lexus Granito (India) Ltd",
+    "ticker": "LEXUS"
+  },
+  {
+    "name": "Lakshmi Finance & Industrial Corporation Ltd",
+    "ticker": "LFIC"
+  },
+  {
+    "name": "Lg Balakrishnan & Bros Ltd",
+    "ticker": "LGBBROSLTD"
+  },
+  {
+    "name": "Lg Electronics India Ltd",
+    "ticker": "LGEINDIA"
+  },
+  {
+    "name": "Laxmi Goldorna House Ltd",
+    "ticker": "LGHL"
+  },
+  {
+    "name": "Libas Consumer Products Ltd",
+    "ticker": "LIBAS"
+  },
+  {
+    "name": "Liberty Shoes Ltd",
+    "ticker": "LIBERTSHOE"
+  },
+  {
+    "name": "Lic Housing Finance Ltd",
+    "ticker": "LICHSGFIN"
+  },
+  {
+    "name": "Life Insurance Corporation Of India",
+    "ticker": "LICI"
+  },
+  {
+    "name": "Likhitha Infrastructure Ltd",
+    "ticker": "LIKHITHA"
+  },
+  {
+    "name": "Linc Ltd",
+    "ticker": "LINC"
+  },
+  {
+    "name": "Lincoln Pharmaceuticals Ltd",
+    "ticker": "LINCOLN"
+  },
+  {
+    "name": "Linde India Ltd",
+    "ticker": "LINDEINDIA"
+  },
+  {
+    "name": "Lloyds Engineering Works Ltd",
+    "ticker": "LLOYDSENGG"
+  },
+  {
+    "name": "Lloyds Enterprises Ltd",
+    "ticker": "LLOYDSENT"
+  },
+  {
+    "name": "Lloyds Metals And Energy Ltd",
+    "ticker": "LLOYDSME"
+  },
+  {
+    "name": "Lmw Ltd",
+    "ticker": "LMW"
+  },
+  {
+    "name": "Lodha Developers Ltd",
+    "ticker": "LODHA"
+  },
+  {
+    "name": "Lokesh Machines Ltd",
+    "ticker": "LOKESHMACH"
+  },
+  {
+    "name": "Lords Chloro Alkali Ltd",
+    "ticker": "LORDSCHLO"
+  },
+  {
+    "name": "Sri Lotus Developers And Realty Ltd",
+    "ticker": "LOTUSDEV"
+  },
+  {
+    "name": "Lotus Eye Hospital And Institute Ltd",
+    "ticker": "LOTUSEYE"
+  },
+  {
+    "name": "Lovable Lingerie Ltd",
+    "ticker": "LOVABLE"
+  },
+  {
+    "name": "Loyal Textile Mills Ltd",
+    "ticker": "LOYALTEX"
+  },
+  {
+    "name": "Landmark Property Development Company Ltd",
+    "ticker": "LPDC"
+  },
+  {
+    "name": "Larsen & Toubro Ltd",
+    "ticker": "LT"
+  },
+  {
+    "name": "L&T Finance Ltd",
+    "ticker": "LTF"
+  },
+  {
+    "name": "Lt Foods Ltd",
+    "ticker": "LTFOODS"
+  },
+  {
+    "name": "Ltm Ltd",
+    "ticker": "LTM"
+  },
+  {
+    "name": "L&T Technology Services Ltd",
+    "ticker": "LTTS"
+  },
+  {
+    "name": "Lumax Industries Ltd",
+    "ticker": "LUMAXIND"
+  },
+  {
+    "name": "Lumax Auto Technologies Ltd",
+    "ticker": "LUMAXTECH"
+  },
+  {
+    "name": "Lupin Ltd",
+    "ticker": "LUPIN"
+  },
+  {
+    "name": "Lux Industries Ltd",
+    "ticker": "LUXIND"
+  },
+  {
+    "name": "Laxmi Organic Industries Ltd",
+    "ticker": "LXCHEM"
+  },
+  {
+    "name": "Lyka Labs Ltd",
+    "ticker": "LYKALABS"
+  },
+  {
+    "name": "Mahindra & Mahindra Ltd",
+    "ticker": "M&M"
+  },
+  {
+    "name": "Mahindra & Mahindra Financial Services Ltd",
+    "ticker": "M&MFIN"
+  },
+  {
+    "name": "Maan Aluminium Ltd",
+    "ticker": "MAANALU"
+  },
+  {
+    "name": "Macpower Cnc Machines Ltd",
+    "ticker": "MACPOWER"
+  },
+  {
+    "name": "Madhav Marbles And Granites Ltd",
+    "ticker": "MADHAV"
+  },
+  {
+    "name": "Madhav Infra Projects Ltd",
+    "ticker": "MADHAVIPL"
+  },
+  {
+    "name": "Madhucon Projects Ltd",
+    "ticker": "MADHUCON"
+  },
+  {
+    "name": "Madras Fertilizers Ltd",
+    "ticker": "MADRASFERT"
+  },
+  {
+    "name": "Mafatlal Industries Ltd",
+    "ticker": "MAFATIND"
+  },
+  {
+    "name": "Magadh Sugar & Energy Ltd",
+    "ticker": "MAGADSUGAR"
+  },
+  {
+    "name": "Magnum Ventures Ltd",
+    "ticker": "MAGNUM"
+  },
+  {
+    "name": "Bank Of Maharashtra",
+    "ticker": "MAHABANK"
+  },
+  {
+    "name": "Maha Rashtra Apex Corporation Ltd",
+    "ticker": "MAHAPEXLTD"
+  },
+  {
+    "name": "Mahamaya Steel Industries Ltd",
+    "ticker": "MAHASTEEL"
+  },
+  {
+    "name": "Mahindra Epc Irrigation Ltd",
+    "ticker": "MAHEPC"
+  },
+  {
+    "name": "Maheshwari Logistics Ltd",
+    "ticker": "MAHESHWARI"
+  },
+  {
+    "name": "Mahindra Lifespace Developers Ltd",
+    "ticker": "MAHLIFE"
+  },
+  {
+    "name": "Mahindra Logistics Ltd",
+    "ticker": "MAHLOG"
+  },
+  {
+    "name": "Maharashtra Scooters Ltd",
+    "ticker": "MAHSCOOTER"
+  },
+  {
+    "name": "Maharashtra Seamless Ltd",
+    "ticker": "MAHSEAMLES"
+  },
+  {
+    "name": "Maithan Alloys Ltd",
+    "ticker": "MAITHANALL"
+  },
+  {
+    "name": "Majestic Auto Ltd",
+    "ticker": "MAJESAUT"
+  },
+  {
+    "name": "Mallcom (India) Ltd",
+    "ticker": "MALLCOM"
+  },
+  {
+    "name": "Malu Paper Mills Ltd",
+    "ticker": "MALUPAPER"
+  },
+  {
+    "name": "Mamata Machinery Ltd",
+    "ticker": "MAMATA"
+  },
+  {
+    "name": "Manaksia Aluminium Company Ltd",
+    "ticker": "MANAKALUCO"
+  },
+  {
+    "name": "Manaksia Coated Metals & Industries Ltd",
+    "ticker": "MANAKCOAT"
+  },
+  {
+    "name": "Manaksia Ltd",
+    "ticker": "MANAKSIA"
+  },
+  {
+    "name": "Manaksia Steels Ltd",
+    "ticker": "MANAKSTEEL"
+  },
+  {
+    "name": "Manali Petrochemicals Ltd",
+    "ticker": "MANALIPETC"
+  },
+  {
+    "name": "Manappuram Finance Ltd",
+    "ticker": "MANAPPURAM"
+  },
+  {
+    "name": "Manba Finance Ltd",
+    "ticker": "MANBA"
+  },
+  {
+    "name": "Mangal Credit And Fincorp Ltd",
+    "ticker": "MANCREDIT"
+  },
+  {
+    "name": "Mangalam Drugs And Organics Ltd",
+    "ticker": "MANGALAM"
+  },
+  {
+    "name": "Mangalam Cement Ltd",
+    "ticker": "MANGLMCEM"
+  },
+  {
+    "name": "Man Industries (India) Ltd",
+    "ticker": "MANINDS"
+  },
+  {
+    "name": "Man Infraconstruction Ltd",
+    "ticker": "MANINFRA"
+  },
+  {
+    "name": "Mankind Pharma Ltd",
+    "ticker": "MANKIND"
+  },
+  {
+    "name": "Manomay Tex India Ltd",
+    "ticker": "MANOMAY"
+  },
+  {
+    "name": "Manorama Industries Ltd",
+    "ticker": "MANORAMA"
+  },
+  {
+    "name": "Mangalam Organics Ltd",
+    "ticker": "MANORG"
+  },
+  {
+    "name": "Manugraph India Ltd",
+    "ticker": "MANUGRAPH"
+  },
+  {
+    "name": "Vedant Fashions Ltd",
+    "ticker": "MANYAVAR"
+  },
+  {
+    "name": "C.E. Info Systems Ltd",
+    "ticker": "MAPMYINDIA"
+  },
+  {
+    "name": "Maral Overseas Ltd",
+    "ticker": "MARALOVER"
+  },
+  {
+    "name": "Marathon Nextgen Realty Ltd",
+    "ticker": "MARATHON"
+  },
+  {
+    "name": "Marico Ltd",
+    "ticker": "MARICO"
+  },
+  {
+    "name": "Marine Electricals (India) Ltd",
+    "ticker": "MARINE"
+  },
+  {
+    "name": "Markolines Pavement Technologies Ltd",
+    "ticker": "MARKOLINES"
+  },
+  {
+    "name": "Marksans Pharma Ltd",
+    "ticker": "MARKSANS"
+  },
+  {
+    "name": "Marsons Ltd",
+    "ticker": "MARSONS"
+  },
+  {
+    "name": "Maruti Suzuki India Ltd",
+    "ticker": "MARUTI"
+  },
+  {
+    "name": "Mas Financial Services Ltd",
+    "ticker": "MASFIN"
+  },
+  {
+    "name": "Mask Investments Ltd",
+    "ticker": "MASKINVEST"
+  },
+  {
+    "name": "Mastek Ltd",
+    "ticker": "MASTEK"
+  },
+  {
+    "name": "Master Trust Ltd",
+    "ticker": "MASTERTR"
+  },
+  {
+    "name": "Matrimony.Com Ltd",
+    "ticker": "MATRIMONY"
+  },
+  {
+    "name": "Mawana Sugars Ltd",
+    "ticker": "MAWANASUG"
+  },
+  {
+    "name": "Max Estates Ltd",
+    "ticker": "MAXESTATES"
+  },
+  {
+    "name": "Max Healthcare Institute Ltd",
+    "ticker": "MAXHEALTH"
+  },
+  {
+    "name": "Max India Ltd",
+    "ticker": "MAXIND"
+  },
+  {
+    "name": "Mayur Uniquoters Ltd",
+    "ticker": "MAYURUNIQ"
+  },
+  {
+    "name": "Mazda Ltd",
+    "ticker": "MAZDA"
+  },
+  {
+    "name": "Mazagon Dock Shipbuilders Ltd",
+    "ticker": "MAZDOCK"
+  },
+  {
+    "name": "Madhya Bharat Agro Products Ltd",
+    "ticker": "MBAPL"
+  },
+  {
+    "name": "M & B Engineering Ltd",
+    "ticker": "MBEL"
+  },
+  {
+    "name": "Mbl Infrastructure Ltd",
+    "ticker": "MBLINFRA"
+  },
+  {
+    "name": "Mac Charles India Ltd",
+    "ticker": "MCCHRLS-B"
+  },
+  {
+    "name": "M Tek Copper Ltd",
+    "ticker": "MCL"
+  },
+  {
+    "name": "Mcleod Russel India Ltd",
+    "ticker": "MCLEODRUSS"
+  },
+  {
+    "name": "Magellanic Cloud Ltd",
+    "ticker": "MCLOUD"
+  },
+  {
+    "name": "Multi Commodity Exchange Of India Ltd",
+    "ticker": "MCX"
+  },
+  {
+    "name": "Global Health Ltd",
+    "ticker": "MEDANTA"
+  },
+  {
+    "name": "Medi Assist Healthcare Services Ltd",
+    "ticker": "MEDIASSIST"
+  },
+  {
+    "name": "Medicamen Biotech Ltd",
+    "ticker": "MEDICAMEQ"
+  },
+  {
+    "name": "Medico Remedies Ltd",
+    "ticker": "MEDICO"
+  },
+  {
+    "name": "Medplus Health Services Ltd",
+    "ticker": "MEDPLUS"
+  },
+  {
+    "name": "Meesho Ltd",
+    "ticker": "MEESHO"
+  },
+  {
+    "name": "Megastar Foods Ltd",
+    "ticker": "MEGASTAR"
+  },
+  {
+    "name": "Mangal Electrical Industries Ltd",
+    "ticker": "MEIL"
+  },
+  {
+    "name": "Menon Pistons Ltd",
+    "ticker": "MENNPIS"
+  },
+  {
+    "name": "Menon Bearings Ltd",
+    "ticker": "MENONBE"
+  },
+  {
+    "name": "Mercantile Ventures Ltd",
+    "ticker": "MERCANTILE"
+  },
+  {
+    "name": "Mercury Ev-Tech Ltd",
+    "ticker": "MERCURYEV"
+  },
+  {
+    "name": "Metro Brands Ltd",
+    "ticker": "METROBRAND"
+  },
+  {
+    "name": "Metroglobal Ltd",
+    "ticker": "METROGLOBL"
+  },
+  {
+    "name": "Metropolis Healthcare Ltd",
+    "ticker": "METROPOLIS"
+  },
+  {
+    "name": "Mahalaxmi Fabric Mills Ltd",
+    "ticker": "MFML"
+  },
+  {
+    "name": "Max Financial Services Ltd",
+    "ticker": "MFSL"
+  },
+  {
+    "name": "Mangalam Global Enterprise Ltd",
+    "ticker": "MGEL"
+  },
+  {
+    "name": "Mahanagar Gas Ltd",
+    "ticker": "MGL"
+  },
+  {
+    "name": "Mahalaxmi Rubtech Ltd",
+    "ticker": "MHLXMIRU"
+  },
+  {
+    "name": "Mahindra Holidays & Resorts India Ltd",
+    "ticker": "MHRIL"
+  },
+  {
+    "name": "Mic Electronics Ltd",
+    "ticker": "MICEL"
+  },
+  {
+    "name": "Mishra Dhatu Nigam Ltd",
+    "ticker": "MIDHANI"
+  },
+  {
+    "name": "Midwest Ltd",
+    "ticker": "MIDWESTLTD"
+  },
+  {
+    "name": "Minda Corporation Ltd",
+    "ticker": "MINDACORP"
+  },
+  {
+    "name": "Mindteck (India) Ltd",
+    "ticker": "MINDTECK"
+  },
+  {
+    "name": "Mirza International Ltd",
+    "ticker": "MIRZAINT"
+  },
+  {
+    "name": "Mitcon Consultancy & Engineering Services Ltd",
+    "ticker": "MITCON"
+  },
+  {
+    "name": "Mittal Life Style Ltd",
+    "ticker": "MITTAL"
+  },
+  {
+    "name": "M K Proteins Ltd",
+    "ticker": "MKPL"
+  },
+  {
+    "name": "Mm Forgings Ltd",
+    "ticker": "MMFL"
+  },
+  {
+    "name": "Mmp Industries Ltd",
+    "ticker": "MMP"
+  },
+  {
+    "name": "Mmtc Ltd",
+    "ticker": "MMTC"
+  },
+  {
+    "name": "Media Matrix Worldwide Ltd",
+    "ticker": "MMWL"
+  },
+  {
+    "name": "One Mobikwik Systems Ltd",
+    "ticker": "MOBIKWIK"
+  },
+  {
+    "name": "Modi Naturals Ltd",
+    "ticker": "MODINATUR"
+  },
+  {
+    "name": "Modi Rubber Ltd",
+    "ticker": "MODIRUBBER"
+  },
+  {
+    "name": "Modis Navnirman Ltd",
+    "ticker": "MODIS"
+  },
+  {
+    "name": "Modison Ltd",
+    "ticker": "MODISONLTD"
+  },
+  {
+    "name": "Modern Threads (India) Ltd",
+    "ticker": "MODTHREAD"
+  },
+  {
+    "name": "Mohit Industries Ltd",
+    "ticker": "MOHITIND"
+  },
+  {
+    "name": "Moil Ltd",
+    "ticker": "MOIL"
+  },
+  {
+    "name": "Moksh Ornaments Ltd",
+    "ticker": "MOKSH"
+  },
+  {
+    "name": "Meghmani Organics Ltd",
+    "ticker": "MOL"
+  },
+  {
+    "name": "Mold-Tek Technologies Ltd",
+    "ticker": "MOLDTECH"
+  },
+  {
+    "name": "Mold-Tek Packaging Ltd",
+    "ticker": "MOLDTKPAC"
+  },
+  {
+    "name": "Monarch Networth Capital Ltd",
+    "ticker": "MONARCH"
+  },
+  {
+    "name": "Moneyboxx Finance Ltd",
+    "ticker": "MONEYBOXX"
+  },
+  {
+    "name": "Monte Carlo Fashions Ltd",
+    "ticker": "MONTECARLO"
+  },
+  {
+    "name": "Morepen Laboratories Ltd",
+    "ticker": "MOREPENLAB"
+  },
+  {
+    "name": "Moschip Technologies Ltd",
+    "ticker": "MOSCHIP"
+  },
+  {
+    "name": "Samvardhana Motherson International Ltd",
+    "ticker": "MOTHERSON"
+  },
+  {
+    "name": "Motilal Oswal Financial Services Ltd",
+    "ticker": "MOTILALOFS"
+  },
+  {
+    "name": "Motisons Jewellers Ltd",
+    "ticker": "MOTISONS"
+  },
+  {
+    "name": "The Motor & General Finance Ltd",
+    "ticker": "MOTOGENFIN"
+  },
+  {
+    "name": "Mphasis Ltd",
+    "ticker": "MPHASIS"
+  },
+  {
+    "name": "Mps Ltd",
+    "ticker": "MPSLTD"
+  },
+  {
+    "name": "Mrf Ltd",
+    "ticker": "MRF"
+  },
+  {
+    "name": "Mangalore Refinery And Petrochemicals Ltd",
+    "ticker": "MRPL"
+  },
+  {
+    "name": "Msp Steel & Power Ltd",
+    "ticker": "MSPL"
+  },
+  {
+    "name": "Mstc Ltd",
+    "ticker": "MSTCLTD"
+  },
+  {
+    "name": "Motherson Sumi Wiring India Ltd",
+    "ticker": "MSUMI"
+  },
+  {
+    "name": "Mtar Technologies Ltd",
+    "ticker": "MTARTECH"
+  },
+  {
+    "name": "Mt Educare Ltd",
+    "ticker": "MTEDUCARE"
+  },
+  {
+    "name": "Mahanagar Telephone Nigam Ltd",
+    "ticker": "MTNL"
+  },
+  {
+    "name": "Mufin Green Finance Ltd",
+    "ticker": "MUFIN"
+  },
+  {
+    "name": "Credo Brands Marketing Ltd",
+    "ticker": "MUFTI"
+  },
+  {
+    "name": "Mukand Ltd",
+    "ticker": "MUKANDLTD"
+  },
+  {
+    "name": "Mukka Proteins Ltd",
+    "ticker": "MUKKA"
+  },
+  {
+    "name": "Mukta Arts Ltd",
+    "ticker": "MUKTAARTS"
+  },
+  {
+    "name": "Munjal Auto Industries Ltd",
+    "ticker": "MUNJALAU"
+  },
+  {
+    "name": "Munjal Showa Ltd",
+    "ticker": "MUNJALSHOW"
+  },
+  {
+    "name": "Murudeshwar Ceramics Ltd",
+    "ticker": "MURUDCERA"
+  },
+  {
+    "name": "Muthoot Capital Services Ltd",
+    "ticker": "MUTHOOTCAP"
+  },
+  {
+    "name": "Muthoot Finance Ltd",
+    "ticker": "MUTHOOTFIN"
+  },
+  {
+    "name": "Muthoot Microfin Ltd",
+    "ticker": "MUTHOOTMF"
+  },
+  {
+    "name": "Manoj Vaibhav Gems N Jewellers Ltd",
+    "ticker": "MVGJL"
+  },
+  {
+    "name": "Mangalam Worldwide Ltd",
+    "ticker": "MWL"
+  },
+  {
+    "name": "Nacl Industries Ltd",
+    "ticker": "NACLIND"
+  },
+  {
+    "name": "Nagreeka Capital & Infrastructure Ltd",
+    "ticker": "NAGREEKCAP"
+  },
+  {
+    "name": "Nagreeka Exports Ltd",
+    "ticker": "NAGREEKEXP"
+  },
+  {
+    "name": "Nahar Capital And Financial Services Ltd",
+    "ticker": "NAHARCAP"
+  },
+  {
+    "name": "Nahar Industrial Enterprises Ltd",
+    "ticker": "NAHARINDUS"
+  },
+  {
+    "name": "Nahar Poly Films Ltd",
+    "ticker": "NAHARPOLY"
+  },
+  {
+    "name": "Nahar Spinning Mills Ltd",
+    "ticker": "NAHARSPING"
+  },
+  {
+    "name": "Nippon Life India Asset Management Ltd",
+    "ticker": "NAM-INDIA"
+  },
+  {
+    "name": "Narmada Agrobase Ltd",
+    "ticker": "NARMADA"
+  },
+  {
+    "name": "Natural Capsules Ltd",
+    "ticker": "NATCAPSUQ"
+  },
+  {
+    "name": "Natco Pharma Ltd",
+    "ticker": "NATCOPHARM"
+  },
+  {
+    "name": "Nath Bio-Genes (India) Ltd",
+    "ticker": "NATHBIOGEN"
+  },
+  {
+    "name": "National Aluminium Company Ltd",
+    "ticker": "NATIONALUM"
+  },
+  {
+    "name": "National Standard (India) Ltd",
+    "ticker": "NATIONSTD"
+  },
+  {
+    "name": "Info Edge (India) Ltd",
+    "ticker": "NAUKRI"
+  },
+  {
+    "name": "Nava Ltd",
+    "ticker": "NAVA"
+  },
+  {
+    "name": "Navin Fluorine International Ltd",
+    "ticker": "NAVINFLUOR"
+  },
+  {
+    "name": "Navkar Corporation Ltd",
+    "ticker": "NAVKARCORP"
+  },
+  {
+    "name": "Navkar Urbanstructure Ltd",
+    "ticker": "NAVKARURB"
+  },
+  {
+    "name": "Navneet Education Ltd",
+    "ticker": "NAVNETEDUL"
+  },
+  {
+    "name": "Nazara Technologies Ltd",
+    "ticker": "NAZARA"
+  },
+  {
+    "name": "Nbcc (India) Ltd",
+    "ticker": "NBCC"
+  },
+  {
+    "name": "N. B. I. Industrial Finance Company Ltd",
+    "ticker": "NBIFIN"
+  },
+  {
+    "name": "Ncc Ltd",
+    "ticker": "NCC"
+  },
+  {
+    "name": "Ncl Industries Ltd",
+    "ticker": "NCLIND"
+  },
+  {
+    "name": "Naga Dhunseri Group Ltd",
+    "ticker": "NDGL"
+  },
+  {
+    "name": "Nandan Denim Ltd",
+    "ticker": "NDL"
+  },
+  {
+    "name": "Ndl Ventures Ltd",
+    "ticker": "NDLVENTURE"
+  },
+  {
+    "name": "Ndr Auto Components Ltd",
+    "ticker": "NDRAUTO"
+  },
+  {
+    "name": "New Delhi Television Ltd",
+    "ticker": "NDTV"
+  },
+  {
+    "name": "Neelamalai Agro Industries Ltd",
+    "ticker": "NEAGI"
+  },
+  {
+    "name": "North Eastern Carrying Corporation Ltd",
+    "ticker": "NECCLTD"
+  },
+  {
+    "name": "Nectar Lifesciences Ltd",
+    "ticker": "NECLIFE"
+  },
+  {
+    "name": "Nelcast Ltd",
+    "ticker": "NELCAST"
+  },
+  {
+    "name": "Nelco Ltd",
+    "ticker": "NELCO"
+  },
+  {
+    "name": "Neogen Chemicals Ltd",
+    "ticker": "NEOGEN"
+  },
+  {
+    "name": "Nephrocare Health Services Ltd",
+    "ticker": "NEPHROPLUS"
+  },
+  {
+    "name": "Nesco Ltd",
+    "ticker": "NESCO"
+  },
+  {
+    "name": "Nestle India Ltd",
+    "ticker": "NESTLEIND"
+  },
+  {
+    "name": "Netweb Technologies India Ltd",
+    "ticker": "NETWEB"
+  },
+  {
+    "name": "Network18 Media & Investments Ltd",
+    "ticker": "NETWORK18"
+  },
+  {
+    "name": "Neuland Laboratories Ltd",
+    "ticker": "NEULANDLAB"
+  },
+  {
+    "name": "Newgen Software Technologies Ltd",
+    "ticker": "NEWGEN"
+  },
+  {
+    "name": "Next Mediaworks Ltd",
+    "ticker": "NEXTMEDIA"
+  },
+  {
+    "name": "National Fertilizers Ltd",
+    "ticker": "NFL"
+  },
+  {
+    "name": "Nakoda Group Of Industries Ltd",
+    "ticker": "NGIL"
+  },
+  {
+    "name": "Ngl Fine-Chem Ltd",
+    "ticker": "NGLFINE"
+  },
+  {
+    "name": "Narayana Hrudayalaya Ltd",
+    "ticker": "NH"
+  },
+  {
+    "name": "Nhpc Ltd",
+    "ticker": "NHPC"
+  },
+  {
+    "name": "The New India Assurance Company Ltd",
+    "ticker": "NIACL"
+  },
+  {
+    "name": "Nibe Ltd",
+    "ticker": "NIBE"
+  },
+  {
+    "name": "Nrb Industrial Bearings Ltd",
+    "ticker": "NIBL"
+  },
+  {
+    "name": "Niit Ltd",
+    "ticker": "NIITLTD"
+  },
+  {
+    "name": "Niit Learning Systems Ltd",
+    "ticker": "NIITMTS"
+  },
+  {
+    "name": "Nila Infrastructures Ltd",
+    "ticker": "NILAINFRA"
+  },
+  {
+    "name": "Nila Spaces Ltd",
+    "ticker": "NILASPACES"
+  },
+  {
+    "name": "Nile Ltd",
+    "ticker": "NILE"
+  },
+  {
+    "name": "Nilkamal Ltd",
+    "ticker": "NILKAMAL"
+  },
+  {
+    "name": "Nimbus Projects Ltd",
+    "ticker": "NIMBSPROJ"
+  },
+  {
+    "name": "Nintec Systems Ltd",
+    "ticker": "NINSYS"
+  },
+  {
+    "name": "Indo-National Ltd",
+    "ticker": "NIPPOBATRY"
+  },
+  {
+    "name": "Niraj Cement Structurals Ltd",
+    "ticker": "NIRAJ"
+  },
+  {
+    "name": "Niraj Ispat Industries Ltd",
+    "ticker": "NIRAJISPAT"
+  },
+  {
+    "name": "Nirlon Ltd",
+    "ticker": "NIRLON"
+  },
+  {
+    "name": "Nitco Ltd",
+    "ticker": "NITCO"
+  },
+  {
+    "name": "Nitin Spinners Ltd",
+    "ticker": "NITINSPIN"
+  },
+  {
+    "name": "Nitiraj Engineers Ltd",
+    "ticker": "NITIRAJ"
+  },
+  {
+    "name": "Nitta Gelatin India Ltd",
+    "ticker": "NITTAGELA"
+  },
+  {
+    "name": "Niva Bupa Health Insurance Company Ltd",
+    "ticker": "NIVABUPA"
+  },
+  {
+    "name": "Nk Industries Ltd",
+    "ticker": "NKIND"
+  },
+  {
+    "name": "Nlc India Ltd",
+    "ticker": "NLCINDIA"
+  },
+  {
+    "name": "Nmdc Ltd",
+    "ticker": "NMDC"
+  },
+  {
+    "name": "Nocil Ltd",
+    "ticker": "NOCIL"
+  },
+  {
+    "name": "Noida Toll Bridge Company Ltd",
+    "ticker": "NOIDATOLL"
+  },
+  {
+    "name": "Norben Tea & Exports Ltd",
+    "ticker": "NORBTEAEXP"
+  },
+  {
+    "name": "Northern Arc Capital Ltd",
+    "ticker": "NORTHARC"
+  },
+  {
+    "name": "Nova Agritech Ltd",
+    "ticker": "NOVAAGRI"
+  },
+  {
+    "name": "Novartis India Ltd",
+    "ticker": "NOVARTIND"
+  },
+  {
+    "name": "Network People Services Technologies Ltd",
+    "ticker": "NPST"
+  },
+  {
+    "name": "N R Agarwal Industries Ltd",
+    "ticker": "NRAIL"
+  },
+  {
+    "name": "Nrb Bearing Ltd",
+    "ticker": "NRBBEARING"
+  },
+  {
+    "name": "Nupur Recyclers Ltd",
+    "ticker": "NRL"
+  },
+  {
+    "name": "Nalwa Sons Investments Ltd",
+    "ticker": "NSIL"
+  },
+  {
+    "name": "Nmdc Steel Ltd",
+    "ticker": "NSLNISP"
+  },
+  {
+    "name": "Ntpc Ltd",
+    "ticker": "NTPC"
+  },
+  {
+    "name": "Ntpc Green Energy Ltd",
+    "ticker": "NTPCGREEN"
+  },
+  {
+    "name": "Nucleus Software Exports Ltd",
+    "ticker": "NUCLEUS"
+  },
+  {
+    "name": "Nureca Ltd",
+    "ticker": "NURECA"
+  },
+  {
+    "name": "Nuvama Wealth Management Ltd",
+    "ticker": "NUVAMA"
+  },
+  {
+    "name": "Nuvoco Vistas Corporation Ltd",
+    "ticker": "NUVOCO"
+  },
+  {
+    "name": "Fsn E-Commerce Ventures Ltd",
+    "ticker": "NYKAA"
+  },
+  {
+    "name": "Oriental Aromatics Ltd",
+    "ticker": "OAL"
+  },
+  {
+    "name": "Obcl Ltd",
+    "ticker": "OBCL"
+  },
+  {
+    "name": "Oberoi Realty Ltd",
+    "ticker": "OBEROIRLTY"
+  },
+  {
+    "name": "Occl Ltd",
+    "ticker": "OCCLLTD"
+  },
+  {
+    "name": "Odigma Consultancy Solutions Ltd",
+    "ticker": "ODIGMA"
+  },
+  {
+    "name": "Oracle Financial Services Software Ltd",
+    "ticker": "OFSS"
+  },
+  {
+    "name": "Oil India Ltd",
+    "ticker": "OIL"
+  },
+  {
+    "name": "Oil Country Tubular Ltd",
+    "ticker": "OILCOUNTUB"
+  },
+  {
+    "name": "Ola Electric Mobility Ltd",
+    "ticker": "OLAELEC"
+  },
+  {
+    "name": "Olectra Greentech Ltd",
+    "ticker": "OLECTRA"
+  },
+  {
+    "name": "Omax Autos Ltd",
+    "ticker": "OMAXAUTO"
+  },
+  {
+    "name": "Omaxe Ltd",
+    "ticker": "OMAXE"
+  },
+  {
+    "name": "Om Freight Forwarders Ltd",
+    "ticker": "OMFREIGHT"
+  },
+  {
+    "name": "Om Infra Ltd",
+    "ticker": "OMINFRAL"
+  },
+  {
+    "name": "Omnitech Engineering Ltd",
+    "ticker": "OMNI"
+  },
+  {
+    "name": "Om Power Transmission Ltd",
+    "ticker": "OMPOWER"
+  },
+  {
+    "name": "Onelife Capital Advisors Ltd",
+    "ticker": "ONELIFECAP"
+  },
+  {
+    "name": "One Point One Solutions Ltd",
+    "ticker": "ONEPOINT"
+  },
+  {
+    "name": "Onesource Specialty Pharma Ltd",
+    "ticker": "ONESOURCE"
+  },
+  {
+    "name": "Oil & Natural Gas Corporation Ltd",
+    "ticker": "ONGC"
+  },
+  {
+    "name": "Onida Electronics Ltd",
+    "ticker": "ONIDA"
+  },
+  {
+    "name": "Onmobile Global Ltd",
+    "ticker": "ONMOBILE"
+  },
+  {
+    "name": "Onward Technologies Ltd",
+    "ticker": "ONWARDTEC"
+  },
+  {
+    "name": "Optiemus Infracom Ltd",
+    "ticker": "OPTIEMUS"
+  },
+  {
+    "name": "Orbit Exports Ltd",
+    "ticker": "ORBTEXP"
+  },
+  {
+    "name": "Orchasp Ltd",
+    "ticker": "ORCHASP"
+  },
+  {
+    "name": "Orchid Pharma Ltd",
+    "ticker": "ORCHPHARMA"
+  },
+  {
+    "name": "Oricon Enterprises Ltd",
+    "ticker": "ORICONENT"
+  },
+  {
+    "name": "Oriental Trimex Ltd",
+    "ticker": "ORIENTALTL"
+  },
+  {
+    "name": "Orient Bell Ltd",
+    "ticker": "ORIENTBELL"
+  },
+  {
+    "name": "Orient Cement Ltd",
+    "ticker": "ORIENTCEM"
+  },
+  {
+    "name": "Orient Ceratech Ltd",
+    "ticker": "ORIENTCER"
+  },
+  {
+    "name": "Orient Electric Ltd",
+    "ticker": "ORIENTELEC"
+  },
+  {
+    "name": "Oriental Hotels Ltd",
+    "ticker": "ORIENTHOT"
+  },
+  {
+    "name": "Orient Press Ltd",
+    "ticker": "ORIENTLTD"
+  },
+  {
+    "name": "Orient Paper & Industries Ltd",
+    "ticker": "ORIENTPPR"
+  },
+  {
+    "name": "Orient Technologies Ltd",
+    "ticker": "ORIENTTECH"
+  },
+  {
+    "name": "The Orissa Minerals Development Company Ltd",
+    "ticker": "ORISSAMINE"
+  },
+  {
+    "name": "Orkla India Ltd",
+    "ticker": "ORKLAINDIA"
+  },
+  {
+    "name": "Ortin Global Ltd",
+    "ticker": "ORTINGLOBE"
+  },
+  {
+    "name": "Osia Hyper Retail Ltd",
+    "ticker": "OSIAHYPER"
+  },
+  {
+    "name": "Oswal Agro Mills Ltd",
+    "ticker": "OSWALAGRO"
+  },
+  {
+    "name": "Oswal Greentech Ltd",
+    "ticker": "OSWALGREEN"
+  },
+  {
+    "name": "Oswal Pumps Ltd",
+    "ticker": "OSWALPUMPS"
+  },
+  {
+    "name": "Shreeoswal Seeds And Chemicals Ltd",
+    "ticker": "OSWALSEEDS"
+  },
+  {
+    "name": "Pace Digitek Ltd",
+    "ticker": "PACEDIGITK"
+  },
+  {
+    "name": "Page Industries Ltd",
+    "ticker": "PAGEIND"
+  },
+  {
+    "name": "Paisalo Digital Ltd",
+    "ticker": "PAISALO"
+  },
+  {
+    "name": "Pakka Ltd",
+    "ticker": "PAKKA"
+  },
+  {
+    "name": "Palash Securities Ltd",
+    "ticker": "PALASHSECU"
+  },
+  {
+    "name": "Palred Technologies Ltd",
+    "ticker": "PALREDTEC"
+  },
+  {
+    "name": "Panacea Biotec Ltd",
+    "ticker": "PANACEABIO"
+  },
+  {
+    "name": "Panache Digilife Ltd",
+    "ticker": "PANACHE"
+  },
+  {
+    "name": "Panama Petrochem Ltd",
+    "ticker": "PANAMAPET"
+  },
+  {
+    "name": "Pansari Developers Ltd",
+    "ticker": "PANSARI"
+  },
+  {
+    "name": "Par Drugs And Chemicals Ltd",
+    "ticker": "PAR"
+  },
+  {
+    "name": "Paramount Communications Ltd",
+    "ticker": "PARACABLES"
+  },
+  {
+    "name": "Paradeep Phosphates Ltd",
+    "ticker": "PARADEEP"
+  },
+  {
+    "name": "Parag Milk Foods Ltd",
+    "ticker": "PARAGMILK"
+  },
+  {
+    "name": "Paras Defence And Space Technologies Ltd",
+    "ticker": "PARAS"
+  },
+  {
+    "name": "Paras Petrofils Ltd",
+    "ticker": "PARASPETRO"
+  },
+  {
+    "name": "Park Medi World Ltd",
+    "ticker": "PARKHOSPS"
+  },
+  {
+    "name": "Apeejay Surrendra Park Hotels Ltd",
+    "ticker": "PARKHOTELS"
+  },
+  {
+    "name": "Parsvnath Developers Ltd",
+    "ticker": "PARSVNATH"
+  },
+  {
+    "name": "Pashupati Cotspin Ltd",
+    "ticker": "PASHUPATI"
+  },
+  {
+    "name": "Pasupati Acrylon Ltd",
+    "ticker": "PASUPTAC"
+  },
+  {
+    "name": "Patanjali Foods Ltd",
+    "ticker": "PATANJALI"
+  },
+  {
+    "name": "Patel Engineering Ltd",
+    "ticker": "PATELENG"
+  },
+  {
+    "name": "Patel Retail Ltd",
+    "ticker": "PATELRMART"
+  },
+  {
+    "name": "Patel Integrated Logistics Ltd",
+    "ticker": "PATINTLOG"
+  },
+  {
+    "name": "Paushak Ltd",
+    "ticker": "PAUSHAKLTD"
+  },
+  {
+    "name": "Pavna Industries Ltd",
+    "ticker": "PAVNAIND"
+  },
+  {
+    "name": "One 97 Communications Ltd",
+    "ticker": "PAYTM"
+  },
+  {
+    "name": "Pcbl Chemical Ltd",
+    "ticker": "PCBL"
+  },
+  {
+    "name": "Pc Jeweller Ltd",
+    "ticker": "PCJEWELLER"
+  },
+  {
+    "name": "Pudumjee Paper Products Ltd",
+    "ticker": "PDMJEPAPER"
+  },
+  {
+    "name": "Pds Ltd",
+    "ticker": "PDSL"
+  },
+  {
+    "name": "Pearl Polymers Ltd",
+    "ticker": "PEARLPOLY"
+  },
+  {
+    "name": "Pennar Industries Ltd",
+    "ticker": "PENIND"
+  },
+  {
+    "name": "Peninsula Land Ltd",
+    "ticker": "PENINLAND"
+  },
+  {
+    "name": "Persistent Systems Ltd",
+    "ticker": "PERSISTENT"
+  },
+  {
+    "name": "Petronet Lng Ltd",
+    "ticker": "PETRONET"
+  },
+  {
+    "name": "Power Finance Corporation Ltd",
+    "ticker": "PFC"
+  },
+  {
+    "name": "Pfizer Ltd",
+    "ticker": "PFIZER"
+  },
+  {
+    "name": "Prime Focus Ltd",
+    "ticker": "PFOCUS"
+  },
+  {
+    "name": "Ptc India Financial Services Ltd",
+    "ticker": "PFS"
+  },
+  {
+    "name": "Pg Electroplast Ltd",
+    "ticker": "PGEL"
+  },
+  {
+    "name": "Procter & Gamble Hygiene And Health Care Ltd",
+    "ticker": "PGHH"
+  },
+  {
+    "name": "Procter & Gamble Health Ltd",
+    "ticker": "PGHL"
+  },
+  {
+    "name": "Pearl Global Industries Ltd",
+    "ticker": "PGIL"
+  },
+  {
+    "name": "The Phoenix Mills Ltd",
+    "ticker": "PHOENIXLTD"
+  },
+  {
+    "name": "Piccadily Agro Industries Ltd",
+    "ticker": "PICCADIL"
+  },
+  {
+    "name": "Pidilite Industries Ltd",
+    "ticker": "PIDILITIND"
+  },
+  {
+    "name": "Power & Instrumentation (Gujarat) Ltd",
+    "ticker": "PIGL"
+  },
+  {
+    "name": "Pi Industries Ltd",
+    "ticker": "PIIND"
+  },
+  {
+    "name": "Pilani Investment And Industries Corporation Ltd",
+    "ticker": "PILANIINVS"
+  },
+  {
+    "name": "Pil Italica Lifestyle Ltd",
+    "ticker": "PILITA"
+  },
+  {
+    "name": "Pine Labs Ltd",
+    "ticker": "PINELABS"
+  },
+  {
+    "name": "Pioneer Embroideries Ltd",
+    "ticker": "PIONEEREMB"
+  },
+  {
+    "name": "Pioneer Investcorp Ltd",
+    "ticker": "PIONRINV"
+  },
+  {
+    "name": "Piramal Finance Ltd",
+    "ticker": "PIRAMALFIN"
+  },
+  {
+    "name": "Pitti Engineering Ltd",
+    "ticker": "PITTIENG"
+  },
+  {
+    "name": "Pix Transmissions Ltd",
+    "ticker": "PIXTRANS"
+  },
+  {
+    "name": "The Peria Karamalai Tea & Produce Company Ltd",
+    "ticker": "PKTEA"
+  },
+  {
+    "name": "Plastiblends India Ltd",
+    "ticker": "PLASTIBLEN"
+  },
+  {
+    "name": "Platinum Industries Ltd",
+    "ticker": "PLATIND"
+  },
+  {
+    "name": "Plaza Wires Ltd",
+    "ticker": "PLAZACABLE"
+  },
+  {
+    "name": "Paul Merchants Ltd",
+    "ticker": "PML"
+  },
+  {
+    "name": "Punjab National Bank",
+    "ticker": "PNB"
+  },
+  {
+    "name": "Pnb Gilts Ltd",
+    "ticker": "PNBGILTS"
+  },
+  {
+    "name": "Pnb Housing Finance Ltd",
+    "ticker": "PNBHOUSING"
+  },
+  {
+    "name": "Pritish Nandy Communications Ltd",
+    "ticker": "PNC"
+  },
+  {
+    "name": "Pnc Infratech Ltd",
+    "ticker": "PNCINFRA"
+  },
+  {
+    "name": "P N Gadgil Jewellers Ltd",
+    "ticker": "PNGJL"
+  },
+  {
+    "name": "Pngs Reva Diamond Jewellery Ltd",
+    "ticker": "PNGSREVA"
+  },
+  {
+    "name": "Pondy Oxides & Chemicals Ltd",
+    "ticker": "POCL"
+  },
+  {
+    "name": "Poddar Pigments Ltd",
+    "ticker": "PODDARMENT"
+  },
+  {
+    "name": "Pokarna Ltd",
+    "ticker": "POKARNA"
+  },
+  {
+    "name": "Pb Fintech Ltd",
+    "ticker": "POLICYBZR"
+  },
+  {
+    "name": "Polycab India Ltd",
+    "ticker": "POLYCAB"
+  },
+  {
+    "name": "Poly Medicure Ltd",
+    "ticker": "POLYMED"
+  },
+  {
+    "name": "Polyplex Corporation Ltd",
+    "ticker": "POLYPLEX"
+  },
+  {
+    "name": "Ponni Sugars (Erode) Ltd",
+    "ticker": "PONNIERODE"
+  },
+  {
+    "name": "Poonawalla Fincorp Ltd",
+    "ticker": "POONAWALLA"
+  },
+  {
+    "name": "Power Grid Corporation Of India Ltd",
+    "ticker": "POWERGRID"
+  },
+  {
+    "name": "Powerica Ltd",
+    "ticker": "POWERICA"
+  },
+  {
+    "name": "Hitachi Energy India Ltd",
+    "ticker": "POWERINDIA"
+  },
+  {
+    "name": "Power Mech Projects Ltd",
+    "ticker": "POWERMECH"
+  },
+  {
+    "name": "Ppap Automotive Ltd",
+    "ticker": "PPAP"
+  },
+  {
+    "name": "Prakash Pipes Ltd",
+    "ticker": "PPL"
+  },
+  {
+    "name": "Piramal Pharma Ltd",
+    "ticker": "PPLPHARMA"
+  },
+  {
+    "name": "Prabha Energy Ltd",
+    "ticker": "PRABHA"
+  },
+  {
+    "name": "Pradeep Metals Ltd",
+    "ticker": "PRADPME"
+  },
+  {
+    "name": "Prajay Engineers Syndicate Ltd",
+    "ticker": "PRAENG"
+  },
+  {
+    "name": "Praj Industries Ltd",
+    "ticker": "PRAJIND"
+  },
+  {
+    "name": "Prakash Industries Ltd",
+    "ticker": "PRAKASH"
+  },
+  {
+    "name": "Prakash Steelage Ltd",
+    "ticker": "PRAKASHSTL"
+  },
+  {
+    "name": "Praveg Ltd",
+    "ticker": "PRAVEG"
+  },
+  {
+    "name": "Praxis Home Retail Ltd",
+    "ticker": "PRAXIS"
+  },
+  {
+    "name": "Precision Camshafts Ltd",
+    "ticker": "PRECAM"
+  },
+  {
+    "name": "Precot Ltd",
+    "ticker": "PRECOT"
+  },
+  {
+    "name": "Precision Wires India Ltd",
+    "ticker": "PRECWIRE"
+  },
+  {
+    "name": "Premco Global Ltd",
+    "ticker": "PREMCO"
+  },
+  {
+    "name": "Premier Explosives Ltd",
+    "ticker": "PREMEXPLN"
+  },
+  {
+    "name": "Premier Ltd",
+    "ticker": "PREMIER"
+  },
+  {
+    "name": "Premier Energies Ltd",
+    "ticker": "PREMIERENE"
+  },
+  {
+    "name": "Premier Polyfilm Ltd",
+    "ticker": "PREMIERPOL"
+  },
+  {
+    "name": "Prestige Estates Projects Ltd",
+    "ticker": "PRESTIGE"
+  },
+  {
+    "name": "Pricol Ltd",
+    "ticker": "PRICOLLTD"
+  },
+  {
+    "name": "Prime Securities Ltd",
+    "ticker": "PRIMESECU"
+  },
+  {
+    "name": "Primo Chemicals Ltd",
+    "ticker": "PRIMO"
+  },
+  {
+    "name": "Prince Pipes And Fittings Ltd",
+    "ticker": "PRINCEPIPE"
+  },
+  {
+    "name": "Priti International Ltd",
+    "ticker": "PRITI"
+  },
+  {
+    "name": "Pritika Auto Industries Ltd",
+    "ticker": "PRITIKAUTO"
+  },
+  {
+    "name": "Privi Speciality Chemicals Ltd",
+    "ticker": "PRIVISCL"
+  },
+  {
+    "name": "Prostarm Info Systems Ltd",
+    "ticker": "PROSTARM"
+  },
+  {
+    "name": "Protean Egov Technologies Ltd",
+    "ticker": "PROTEAN"
+  },
+  {
+    "name": "Prozone Realty Ltd",
+    "ticker": "PROZONER"
+  },
+  {
+    "name": "Prism Johnson Ltd",
+    "ticker": "PRSMJOHNSN"
+  },
+  {
+    "name": "Prudent Corporate Advisory Services Ltd",
+    "ticker": "PRUDENT"
+  },
+  {
+    "name": "Prudential Sugar Corporation Ltd",
+    "ticker": "PRUDMOULI"
+  },
+  {
+    "name": "Punjab & Sind Bank",
+    "ticker": "PSB"
+  },
+  {
+    "name": "Psp Projects Ltd",
+    "ticker": "PSPPROJECT"
+  },
+  {
+    "name": "Ptc India Ltd",
+    "ticker": "PTC"
+  },
+  {
+    "name": "Ptc Industries Ltd",
+    "ticker": "PTCIL"
+  },
+  {
+    "name": "Ptl Enterprises Ltd",
+    "ticker": "PTL"
+  },
+  {
+    "name": "Punjab Chemicals & Crop Protection Ltd",
+    "ticker": "PUNJABCHEM"
+  },
+  {
+    "name": "Puravankara Ltd",
+    "ticker": "PURVA"
+  },
+  {
+    "name": "Pvp Ventures Ltd",
+    "ticker": "PVP"
+  },
+  {
+    "name": "Pvr Inox Ltd",
+    "ticker": "PVRINOX"
+  },
+  {
+    "name": "Popular Vehicles And Services Ltd",
+    "ticker": "PVSL"
+  },
+  {
+    "name": "Physicswallah Ltd",
+    "ticker": "PWL"
+  },
+  {
+    "name": "Pyramid Technoplast Ltd",
+    "ticker": "PYRAMID"
+  },
+  {
+    "name": "Qms Medical Allied Services Ltd",
+    "ticker": "QMSMEDI"
+  },
+  {
+    "name": "Quality Power Electrical Equipments Ltd",
+    "ticker": "QPOWER"
+  },
+  {
+    "name": "Quadrant Future Tek Ltd",
+    "ticker": "QUADFUTURE"
+  },
+  {
+    "name": "Quess Corp Ltd",
+    "ticker": "QUESS"
+  },
+  {
+    "name": "Quick Heal Technologies Ltd",
+    "ticker": "QUICKHEAL"
+  },
+  {
+    "name": "Quint Digital Ltd",
+    "ticker": "QUINT"
+  },
+  {
+    "name": "Race Eco Chain Ltd",
+    "ticker": "RACE"
+  },
+  {
+    "name": "Racl Geartech Ltd",
+    "ticker": "RACLGEAR"
+  },
+  {
+    "name": "Radaan Mediaworks India Ltd",
+    "ticker": "RADAAN"
+  },
+  {
+    "name": "Radhika Jeweltech Ltd",
+    "ticker": "RADHIKAJWE"
+  },
+  {
+    "name": "Radiant Cash Management Services Ltd",
+    "ticker": "RADIANTCMS"
+  },
+  {
+    "name": "Radico Khaitan Ltd",
+    "ticker": "RADICO"
+  },
+  {
+    "name": "Music Broadcast Ltd",
+    "ticker": "RADIOCITY"
+  },
+  {
+    "name": "Railtel Corporation Of India Ltd",
+    "ticker": "RAILTEL"
+  },
+  {
+    "name": "Rain Industries Ltd",
+    "ticker": "RAIN"
+  },
+  {
+    "name": "Rainbow Childrens Medicare Ltd",
+    "ticker": "RAINBOW"
+  },
+  {
+    "name": "Rajnandini Metal Ltd",
+    "ticker": "RAJMET"
+  },
+  {
+    "name": "Rajoo Engineers Ltd",
+    "ticker": "RAJOOENG"
+  },
+  {
+    "name": "Rajapalayam Mills Ltd",
+    "ticker": "RAJPALAYAM"
+  },
+  {
+    "name": "Rajratan Global Wire Ltd",
+    "ticker": "RAJRATAN"
+  },
+  {
+    "name": "Raj Rayon Industries Ltd",
+    "ticker": "RAJRILTD"
+  },
+  {
+    "name": "Rajshree Sugars & Chemicals Ltd",
+    "ticker": "RAJSREESUG"
+  },
+  {
+    "name": "Raj Television Network Ltd",
+    "ticker": "RAJTV"
+  },
+  {
+    "name": "Rallis India Ltd",
+    "ticker": "RALLIS"
+  },
+  {
+    "name": "Shree Rama Newsprint Ltd",
+    "ticker": "RAMANEWS"
+  },
+  {
+    "name": "Rama Phosphates Ltd",
+    "ticker": "RAMAPHO"
+  },
+  {
+    "name": "Rama Steel Tubes Ltd",
+    "ticker": "RAMASTEEL"
+  },
+  {
+    "name": "Advit Jewels Ltd",
+    "ticker": "RAMBHAJO"
+  },
+  {
+    "name": "The Ramco Cements Ltd",
+    "ticker": "RAMCOCEM"
+  },
+  {
+    "name": "Ramco Industries Ltd",
+    "ticker": "RAMCOIND"
+  },
+  {
+    "name": "Ramco Systems Ltd",
+    "ticker": "RAMCOSYS"
+  },
+  {
+    "name": "Ramky Infrastructure Ltd",
+    "ticker": "RAMKY"
+  },
+  {
+    "name": "Ram Ratna Wires Ltd",
+    "ticker": "RAMRAT"
+  },
+  {
+    "name": "Rana Sugars Ltd",
+    "ticker": "RANASUG"
+  },
+  {
+    "name": "Rane Holdings Ltd",
+    "ticker": "RANEHOLDIN"
+  },
+  {
+    "name": "Rategain Travel Technologies Ltd",
+    "ticker": "RATEGAIN"
+  },
+  {
+    "name": "Ratnamani Metals & Tubes Ltd",
+    "ticker": "RATNAMANI"
+  },
+  {
+    "name": "Ratnaveer Precision Engineering Ltd",
+    "ticker": "RATNAVEER"
+  },
+  {
+    "name": "Raymond Ltd",
+    "ticker": "RAYMOND"
+  },
+  {
+    "name": "Raymond Lifestyle Ltd",
+    "ticker": "RAYMONDLSL"
+  },
+  {
+    "name": "Raymond Realty Ltd",
+    "ticker": "RAYMONDREL"
+  },
+  {
+    "name": "Restaurant Brands Asia Ltd",
+    "ticker": "RBA"
+  },
+  {
+    "name": "Rbl Bank Ltd",
+    "ticker": "RBLBANK"
+  },
+  {
+    "name": "Rbz Jewellers Ltd",
+    "ticker": "RBZJEWEL"
+  },
+  {
+    "name": "Rashtriya Chemicals And Fertilizers Ltd",
+    "ticker": "RCF"
+  },
+  {
+    "name": "Reliance Communications Ltd",
+    "ticker": "RCOM"
+  },
+  {
+    "name": "Rec Ltd",
+    "ticker": "RECLTD"
+  },
+  {
+    "name": "Redington Ltd",
+    "ticker": "REDINGTON"
+  },
+  {
+    "name": "Redtape Ltd",
+    "ticker": "REDTAPE"
+  },
+  {
+    "name": "Refex Industries Ltd",
+    "ticker": "REFEX"
+  },
+  {
+    "name": "Regaal Resources Ltd",
+    "ticker": "REGAAL"
+  },
+  {
+    "name": "Regency Ceramics Ltd",
+    "ticker": "REGENCERAM"
+  },
+  {
+    "name": "Relaxo Footwears Ltd",
+    "ticker": "RELAXO"
+  },
+  {
+    "name": "Reliance Chemotex Industries Ltd",
+    "ticker": "RELCHEMQ"
+  },
+  {
+    "name": "Reliable Data Services Ltd",
+    "ticker": "RELIABLE"
+  },
+  {
+    "name": "Reliance Industries Ltd",
+    "ticker": "RELIANCE"
+  },
+  {
+    "name": "Religare Enterprises Ltd",
+    "ticker": "RELIGARE"
+  },
+  {
+    "name": "Ravindra Energy Ltd",
+    "ticker": "RELTD"
+  },
+  {
+    "name": "Remsons Industries Ltd",
+    "ticker": "REMSONSIND"
+  },
+  {
+    "name": "Shree Renuka Sugars Ltd",
+    "ticker": "RENUKA"
+  },
+  {
+    "name": "Repco Home Finance Ltd",
+    "ticker": "REPCOHOME"
+  },
+  {
+    "name": "Rudrabhishek Enterprises Ltd",
+    "ticker": "REPL"
+  },
+  {
+    "name": "Repro India Ltd",
+    "ticker": "REPRO"
+  },
+  {
+    "name": "Responsive Industries Ltd",
+    "ticker": "RESPONIND"
+  },
+  {
+    "name": "Jhs Svendgaard Retail Ventures Ltd",
+    "ticker": "RETAIL"
+  },
+  {
+    "name": "Renaissance Global Ltd",
+    "ticker": "RGL"
+  },
+  {
+    "name": "Rhetan Tmt Ltd",
+    "ticker": "RHETAN"
+  },
+  {
+    "name": "Rhi Magnesita India Ltd",
+    "ticker": "RHIM"
+  },
+  {
+    "name": "Robust Hotels Ltd",
+    "ticker": "RHL"
+  },
+  {
+    "name": "Rico Auto Industries Ltd",
+    "ticker": "RICOAUTO"
+  },
+  {
+    "name": "Reliance Industrial Infrastructure Ltd",
+    "ticker": "RIIL"
+  },
+  {
+    "name": "Rir Power Electronics Ltd",
+    "ticker": "RIR"
+  },
+  {
+    "name": "Rishabh Instruments Ltd",
+    "ticker": "RISHABH"
+  },
+  {
+    "name": "Ritco Logistics Ltd",
+    "ticker": "RITCO"
+  },
+  {
+    "name": "Rites Ltd",
+    "ticker": "RITES"
+  },
+  {
+    "name": "Ravi Kumar Distilleries Ltd",
+    "ticker": "RKDL"
+  },
+  {
+    "name": "Rkec Projects Ltd",
+    "ticker": "RKEC"
+  },
+  {
+    "name": "Ramkrishna Forgings Ltd",
+    "ticker": "RKFORGE"
+  },
+  {
+    "name": "R K Swamy Ltd",
+    "ticker": "RKSWAMY"
+  },
+  {
+    "name": "Rmc Switchgears Ltd",
+    "ticker": "RMC"
+  },
+  {
+    "name": "R M Drip And Sprinklers Systems Ltd",
+    "ticker": "RMDRIP"
+  },
+  {
+    "name": "Rane (Madras) Ltd",
+    "ticker": "RML"
+  },
+  {
+    "name": "R&B Denims Ltd",
+    "ticker": "RNBDENIMS"
+  },
+  {
+    "name": "Royal Orchid Hotels Ltd",
+    "ticker": "ROHLTD"
+  },
+  {
+    "name": "Rolex Rings Ltd",
+    "ticker": "ROLEXRINGS"
+  },
+  {
+    "name": "Rollatainers Ltd",
+    "ticker": "ROLLT"
+  },
+  {
+    "name": "Raj Oil Mills Ltd",
+    "ticker": "ROML"
+  },
+  {
+    "name": "Rossari Biotech Ltd",
+    "ticker": "ROSSARI"
+  },
+  {
+    "name": "Rossell India Ltd",
+    "ticker": "ROSSELLIND"
+  },
+  {
+    "name": "Rossell Techsys Ltd",
+    "ticker": "ROSSTECH"
+  },
+  {
+    "name": "Roto Pumps Ltd",
+    "ticker": "ROTO"
+  },
+  {
+    "name": "Route Mobile Ltd",
+    "ticker": "ROUTE"
+  },
+  {
+    "name": "Raghav Productivity Enhancers Ltd",
+    "ticker": "RPEL"
+  },
+  {
+    "name": "Rpg Life Sciences Ltd",
+    "ticker": "RPGLIFE"
+  },
+  {
+    "name": "Reliance Power Ltd",
+    "ticker": "RPOWER"
+  },
+  {
+    "name": "R.P.P. Infra Projects Ltd",
+    "ticker": "RPPINFRA"
+  },
+  {
+    "name": "Rajshree Polypack Ltd",
+    "ticker": "RPPL"
+  },
+  {
+    "name": "Rpsg Ventures Ltd",
+    "ticker": "RPSGVENT"
+  },
+  {
+    "name": "Rashi Peripherals Ltd",
+    "ticker": "RPTECH"
+  },
+  {
+    "name": "Rril Ltd",
+    "ticker": "RRIL"
+  },
+  {
+    "name": "R R Kabel Ltd",
+    "ticker": "RRKABEL"
+  },
+  {
+    "name": "Rsd Finance Ltd",
+    "ticker": "RSDFIN"
+  },
+  {
+    "name": "Rajputana Stainless Ltd",
+    "ticker": "RSL"
+  },
+  {
+    "name": "R. S. Software (India) Ltd",
+    "ticker": "RSSOFTWARE"
+  },
+  {
+    "name": "Rswm Ltd",
+    "ticker": "RSWM"
+  },
+  {
+    "name": "R Systems International Ltd",
+    "ticker": "RSYSTEMS"
+  },
+  {
+    "name": "Rattanindia Enterprises Ltd",
+    "ticker": "RTNINDIA"
+  },
+  {
+    "name": "Rattanindia Power Ltd",
+    "ticker": "RTNPOWER"
+  },
+  {
+    "name": "Rubfila International Ltd",
+    "ticker": "RUBFILA"
+  },
+  {
+    "name": "Rubicon Research Ltd",
+    "ticker": "RUBICON"
+  },
+  {
+    "name": "The Ruby Mills Ltd",
+    "ticker": "RUBYMILLS"
+  },
+  {
+    "name": "Ruchi Infrastructure Ltd",
+    "ticker": "RUCHINFRA"
+  },
+  {
+    "name": "Ruchira Papers Ltd",
+    "ticker": "RUCHIRA"
+  },
+  {
+    "name": "Rudra Global Infra Products Ltd",
+    "ticker": "RUDRA"
+  },
+  {
+    "name": "Rupa & Company Ltd",
+    "ticker": "RUPA"
+  },
+  {
+    "name": "Rushil Decor Ltd",
+    "ticker": "RUSHIL"
+  },
+  {
+    "name": "Keystone Realtors Ltd",
+    "ticker": "RUSTOMJEE"
+  },
+  {
+    "name": "Ravinder Heights Ltd",
+    "ticker": "RVHL"
+  },
+  {
+    "name": "Rail Vikas Nigam Ltd",
+    "ticker": "RVNL"
+  },
+  {
+    "name": "Revathi Equipment India Ltd",
+    "ticker": "RVTH"
+  },
+  {
+    "name": "S&S Power Switchgears Ltd",
+    "ticker": "S&SPOWER"
+  },
+  {
+    "name": "Saatvik Green Energy Ltd",
+    "ticker": "SAATVIKGL"
+  },
+  {
+    "name": "Sab Events & Governance Now Media Ltd",
+    "ticker": "SABEVENTS"
+  },
+  {
+    "name": "Sadbhav Engineering Ltd",
+    "ticker": "SADBHAV"
+  },
+  {
+    "name": "Sadbhav Infrastructure Project Ltd",
+    "ticker": "SADBHIN"
+  },
+  {
+    "name": "Sadhana Nitrochem Ltd",
+    "ticker": "SADHNANIQ"
+  },
+  {
+    "name": "Safari Industries (India) Ltd",
+    "ticker": "SAFARI"
+  },
+  {
+    "name": "Sagardeep Alloys Ltd",
+    "ticker": "SAGARDEEP"
+  },
+  {
+    "name": "Sagar Cements Ltd",
+    "ticker": "SAGCEM"
+  },
+  {
+    "name": "Sagility Ltd",
+    "ticker": "SAGILITY"
+  },
+  {
+    "name": "Shalibhadra Finance Ltd",
+    "ticker": "SAHLIBHFI"
+  },
+  {
+    "name": "Sahyadri Industries Ltd",
+    "ticker": "SAHYADRI"
+  },
+  {
+    "name": "Steel Authority Of India Ltd",
+    "ticker": "SAIL"
+  },
+  {
+    "name": "Sai Life Sciences Ltd",
+    "ticker": "SAILIFE"
+  },
+  {
+    "name": "Sai Parenterals Ltd",
+    "ticker": "SAIPARENT"
+  },
+  {
+    "name": "Sakar Healthcare Ltd",
+    "ticker": "SAKAR"
+  },
+  {
+    "name": "Sakthi Sugars Ltd",
+    "ticker": "SAKHTISUG"
+  },
+  {
+    "name": "Saksoft Ltd",
+    "ticker": "SAKSOFT"
+  },
+  {
+    "name": "Sakuma Exports Ltd",
+    "ticker": "SAKUMA"
+  },
+  {
+    "name": "Salasar Techno Engineering Ltd",
+    "ticker": "SALASAR"
+  },
+  {
+    "name": "Salona Cotspin Ltd",
+    "ticker": "SALONA"
+  },
+  {
+    "name": "S.A.L. Steel Ltd",
+    "ticker": "SALSTEEL"
+  },
+  {
+    "name": "Salzer Electronics Ltd",
+    "ticker": "SALZERELEC"
+  },
+  {
+    "name": "Sambhaav Media Ltd",
+    "ticker": "SAMBHAAV"
+  },
+  {
+    "name": "Sambhv Steel Tubes Ltd",
+    "ticker": "SAMBHV"
+  },
+  {
+    "name": "Samhi Hotels Ltd",
+    "ticker": "SAMHI"
+  },
+  {
+    "name": "Sammaan Capital Ltd",
+    "ticker": "SAMMAANCAP"
+  },
+  {
+    "name": "Sampann Utpadan India Ltd",
+    "ticker": "SAMPANN"
+  },
+  {
+    "name": "Sanathan Textiles Ltd",
+    "ticker": "SANATHAN"
+  },
+  {
+    "name": "The Sandesh Ltd",
+    "ticker": "SANDESH"
+  },
+  {
+    "name": "Sandhar Technologies Ltd",
+    "ticker": "SANDHAR"
+  },
+  {
+    "name": "Sandur Manganese & Iron Ores Ltd",
+    "ticker": "SANDUMA"
+  },
+  {
+    "name": "Sangam (India) Ltd",
+    "ticker": "SANGAMIND"
+  },
+  {
+    "name": "Sanghvi Movers Ltd",
+    "ticker": "SANGHVIMOV"
+  },
+  {
+    "name": "Sanginita Chemicals Ltd",
+    "ticker": "SANGINITA"
+  },
+  {
+    "name": "Sanofi India Ltd",
+    "ticker": "SANOFI"
+  },
+  {
+    "name": "Sanofi Consumer Healthcare India Ltd",
+    "ticker": "SANOFICONR"
+  },
+  {
+    "name": "Sansera Engineering Ltd",
+    "ticker": "SANSERA"
+  },
+  {
+    "name": "Sanstar Ltd",
+    "ticker": "SANSTAR"
+  },
+  {
+    "name": "Sapphire Foods India Ltd",
+    "ticker": "SAPPHIRE"
+  },
+  {
+    "name": "Shree Ajit Pulp & Paper Ltd",
+    "ticker": "SAPPL"
+  },
+  {
+    "name": "Sarda Energy & Minerals Ltd",
+    "ticker": "SARDAEN"
+  },
+  {
+    "name": "Saregama India Ltd",
+    "ticker": "SAREGAMA"
+  },
+  {
+    "name": "Sarla Performance Fibers Ltd",
+    "ticker": "SARLAPOLY"
+  },
+  {
+    "name": "Sarveshwar Foods Ltd",
+    "ticker": "SARVESHWAR"
+  },
+  {
+    "name": "Sasken Technologies Ltd",
+    "ticker": "SASKEN"
+  },
+  {
+    "name": "Satia Industries Ltd",
+    "ticker": "SATIA"
+  },
+  {
+    "name": "Satin Creditcare Network Ltd",
+    "ticker": "SATIN"
+  },
+  {
+    "name": "Saurashtra Cement Ltd",
+    "ticker": "SAURASHCEM"
+  },
+  {
+    "name": "Sayaji Hotels Ltd",
+    "ticker": "SAYAJIHOTL"
+  },
+  {
+    "name": "Sbc Exports Ltd",
+    "ticker": "SBC"
+  },
+  {
+    "name": "Shivalik Bimetal Controls Ltd",
+    "ticker": "SBCL"
+  },
+  {
+    "name": "Sbfc Finance Ltd",
+    "ticker": "SBFC"
+  },
+  {
+    "name": "Suratwwala Business Group Ltd",
+    "ticker": "SBGLP"
+  },
+  {
+    "name": "Sbi Cards And Payment Services Ltd",
+    "ticker": "SBICARD"
+  },
+  {
+    "name": "Sbi Funds Management Ltd",
+    "ticker": "SBIFUNDS"
+  },
+  {
+    "name": "Sbi Life Insurance Company Ltd",
+    "ticker": "SBILIFE"
+  },
+  {
+    "name": "State Bank Of India",
+    "ticker": "SBIN"
+  },
+  {
+    "name": "Scan Steels Ltd",
+    "ticker": "SCANSTL"
+  },
+  {
+    "name": "Schaeffler India Ltd",
+    "ticker": "SCHAEFFLER"
+  },
+  {
+    "name": "S Chand And Company Ltd",
+    "ticker": "SCHAND"
+  },
+  {
+    "name": "Schneider Electric Infrastructure Ltd",
+    "ticker": "SCHNEIDER"
+  },
+  {
+    "name": "Shipping Corporation Of India Ltd",
+    "ticker": "SCI"
+  },
+  {
+    "name": "Shipping Corporation Of India Land And Assets Ltd",
+    "ticker": "SCILAL"
+  },
+  {
+    "name": "Scoda Tubes Ltd",
+    "ticker": "SCODATUBES"
+  },
+  {
+    "name": "Sheetal Cool Products Ltd",
+    "ticker": "SCPL"
+  },
+  {
+    "name": "Som Distilleries & Breweries Ltd",
+    "ticker": "SDBL"
+  },
+  {
+    "name": "Seamec Ltd",
+    "ticker": "SEAMECLTD"
+  },
+  {
+    "name": "Secmark Consultancy Ltd",
+    "ticker": "SECMARK"
+  },
+  {
+    "name": "Securekloud Technologies Ltd",
+    "ticker": "SECURKLOUD"
+  },
+  {
+    "name": "Sedemac Mechatronics Ltd",
+    "ticker": "SEDEMAC"
+  },
+  {
+    "name": "Shanti Educational Initiatives Ltd",
+    "ticker": "SEIL"
+  },
+  {
+    "name": "Sejal Glass Ltd",
+    "ticker": "SEJALLTD"
+  },
+  {
+    "name": "Sel Manufacturing Company Ltd",
+    "ticker": "SELMC"
+  },
+  {
+    "name": "Semac Construction Ltd",
+    "ticker": "SEMAC"
+  },
+  {
+    "name": "Senco Gold Ltd",
+    "ticker": "SENCO"
+  },
+  {
+    "name": "Senores Pharmaceuticals Ltd",
+    "ticker": "SENORES"
+  },
+  {
+    "name": "Sepc Ltd",
+    "ticker": "SEPC"
+  },
+  {
+    "name": "Servotech Renewable Power System Ltd",
+    "ticker": "SERVOTECH"
+  },
+  {
+    "name": "Seshasayee Paper And Boards Ltd",
+    "ticker": "SESHAPAPER"
+  },
+  {
+    "name": "Setco Automotive Ltd",
+    "ticker": "SETCO"
+  },
+  {
+    "name": "Standard Engineering Technology Ltd",
+    "ticker": "SETL"
+  },
+  {
+    "name": "Seya Industries Ltd",
+    "ticker": "SEYAIND"
+  },
+  {
+    "name": "Sheela Foam Ltd",
+    "ticker": "SFL"
+  },
+  {
+    "name": "Sg Finserve Ltd",
+    "ticker": "SGFIN"
+  },
+  {
+    "name": "Synergy Green Industries Ltd",
+    "ticker": "SGIL"
+  },
+  {
+    "name": "Stl Global Ltd",
+    "ticker": "SGL"
+  },
+  {
+    "name": "Sg Mart Ltd",
+    "ticker": "SGMART"
+  },
+  {
+    "name": "Shadowfax Technologies Ltd",
+    "ticker": "SHADOWFAX"
+  },
+  {
+    "name": "Shah Metacorp Ltd",
+    "ticker": "SHAH"
+  },
+  {
+    "name": "Shah Alloys Ltd",
+    "ticker": "SHAHALLOYS"
+  },
+  {
+    "name": "Shaily Engineering Plastics Ltd",
+    "ticker": "SHAILY"
+  },
+  {
+    "name": "Shakti Pumps (India) Ltd",
+    "ticker": "SHAKTIPUMP"
+  },
+  {
+    "name": "Shalby Ltd",
+    "ticker": "SHALBY"
+  },
+  {
+    "name": "Shalimar Paints Ltd",
+    "ticker": "SHALPAINTS"
+  },
+  {
+    "name": "Shankara Building Products Ltd",
+    "ticker": "SHANKARA"
+  },
+  {
+    "name": "Shanti Overseas (India) Ltd",
+    "ticker": "SHANTI"
+  },
+  {
+    "name": "Shanthi Gears Ltd",
+    "ticker": "SHANTIGEAR"
+  },
+  {
+    "name": "Shanti Gold International Ltd",
+    "ticker": "SHANTIGOLD"
+  },
+  {
+    "name": "Sharda Cropchem Ltd",
+    "ticker": "SHARDACROP"
+  },
+  {
+    "name": "Sharda Motor Industries Ltd",
+    "ticker": "SHARDAMOTR"
+  },
+  {
+    "name": "Shardul Securities Ltd",
+    "ticker": "SHARDUL"
+  },
+  {
+    "name": "Share India Securities Ltd",
+    "ticker": "SHAREINDIA"
+  },
+  {
+    "name": "Shri Bajrang Alliance Ltd",
+    "ticker": "SHBAJRG"
+  },
+  {
+    "name": "Shekhawati Industries Ltd",
+    "ticker": "SHEKHAWATI"
+  },
+  {
+    "name": "Shemaroo Entertainment Ltd",
+    "ticker": "SHEMAROO"
+  },
+  {
+    "name": "Shilchar Technologies Ltd",
+    "ticker": "SHILCTECH"
+  },
+  {
+    "name": "Shilpa Medicare Ltd",
+    "ticker": "SHILPAMED"
+  },
+  {
+    "name": "Sharat Industries Ltd",
+    "ticker": "SHINDL"
+  },
+  {
+    "name": "Shivalik Rasayan Ltd",
+    "ticker": "SHIVALIK"
+  },
+  {
+    "name": "Shivam Autotech Ltd",
+    "ticker": "SHIVAMAUTO"
+  },
+  {
+    "name": "Shiva Mills Ltd",
+    "ticker": "SHIVAMILLS"
+  },
+  {
+    "name": "Shiva Texyarn Ltd",
+    "ticker": "SHIVATEX"
+  },
+  {
+    "name": "Shiv Aum Steels Ltd",
+    "ticker": "SHIVAUM"
+  },
+  {
+    "name": "S H Kelkar And Company Ltd",
+    "ticker": "SHK"
+  },
+  {
+    "name": "Shoppers Stop Ltd",
+    "ticker": "SHOPERSTOP"
+  },
+  {
+    "name": "Shradha Realty Ltd",
+    "ticker": "SHRADHA"
+  },
+  {
+    "name": "Shree Digvijay Cement Co.Ltd",
+    "ticker": "SHREDIGCEM"
+  },
+  {
+    "name": "Shree Cement Ltd",
+    "ticker": "SHREECEM"
+  },
+  {
+    "name": "Shreeji Shipping Global Ltd",
+    "ticker": "SHREEJISPG"
+  },
+  {
+    "name": "Shree Pushkar Chemicals & Fertilisers Ltd",
+    "ticker": "SHREEPUSHK"
+  },
+  {
+    "name": "Shree Rama Multi-Tech Ltd",
+    "ticker": "SHREERAMA"
+  },
+  {
+    "name": "Shreyans Industries Ltd",
+    "ticker": "SHREYANIND"
+  },
+  {
+    "name": "Shri Krishna Devcon Ltd",
+    "ticker": "SHRIKRISH"
+  },
+  {
+    "name": "Shringar House Of Mangalsutra Ltd",
+    "ticker": "SHRINGARMS"
+  },
+  {
+    "name": "Spr Auto Technologies Ltd",
+    "ticker": "SHRIPISTON"
+  },
+  {
+    "name": "Shriram Finance Ltd",
+    "ticker": "SHRIRAMFIN"
+  },
+  {
+    "name": "Shriram Properties Ltd",
+    "ticker": "SHRIRAMPPS"
+  },
+  {
+    "name": "Shyam Century Ferrous Ltd",
+    "ticker": "SHYAMCENT"
+  },
+  {
+    "name": "Shyam Metalics And Energy Ltd",
+    "ticker": "SHYAMMETL"
+  },
+  {
+    "name": "Shyam Telecom Ltd",
+    "ticker": "SHYAMTEL"
+  },
+  {
+    "name": "Sicagen India Ltd",
+    "ticker": "SICAGEN"
+  },
+  {
+    "name": "Sical Logistics Ltd",
+    "ticker": "SICALLOG"
+  },
+  {
+    "name": "Siemens Ltd",
+    "ticker": "SIEMENS"
+  },
+  {
+    "name": "Sigachi Industries Ltd",
+    "ticker": "SIGACHI"
+  },
+  {
+    "name": "Signet Industries Ltd",
+    "ticker": "SIGIND"
+  },
+  {
+    "name": "Sigma Solve Ltd",
+    "ticker": "SIGMA"
+  },
+  {
+    "name": "Sigma Advanced Systems Ltd",
+    "ticker": "SIGMAADV"
+  },
+  {
+    "name": "Signatureglobal (India) Ltd",
+    "ticker": "SIGNATURE"
+  },
+  {
+    "name": "Signpost India Ltd",
+    "ticker": "SIGNPOST"
+  },
+  {
+    "name": "Sika Interplant Systems Ltd",
+    "ticker": "SIKA"
+  },
+  {
+    "name": "Sikko Industries Ltd",
+    "ticker": "SIKKO"
+  },
+  {
+    "name": "Standard Industries Ltd",
+    "ticker": "SIL"
+  },
+  {
+    "name": "Silgo Retail Ltd",
+    "ticker": "SILGO"
+  },
+  {
+    "name": "Sil Investments Ltd",
+    "ticker": "SILINV"
+  },
+  {
+    "name": "Silly Monks Entertainment Ltd",
+    "ticker": "SILLYMONKS"
+  },
+  {
+    "name": "Silver Touch Technologies Ltd",
+    "ticker": "SILVERTUC"
+  },
+  {
+    "name": "Simplex Infrastructures Ltd",
+    "ticker": "SIMPLEXINF"
+  },
+  {
+    "name": "Sinclairs Hotels Ltd",
+    "ticker": "SINCLAIR"
+  },
+  {
+    "name": "Sindhu Trade Links Ltd",
+    "ticker": "SINDHUTRAD"
+  },
+  {
+    "name": "Singer India Ltd",
+    "ticker": "SINGERIND"
+  },
+  {
+    "name": "Sintercom India Ltd",
+    "ticker": "SINTERCOM"
+  },
+  {
+    "name": "Sirca Paints India Ltd",
+    "ticker": "SIRCA"
+  },
+  {
+    "name": "Sis Ltd",
+    "ticker": "SIS"
+  },
+  {
+    "name": "Siyaram Silk Mills Ltd",
+    "ticker": "SIYSIL"
+  },
+  {
+    "name": "S.J.S. Enterprises Ltd",
+    "ticker": "SJS"
+  },
+  {
+    "name": "Sjvn Ltd",
+    "ticker": "SJVN"
+  },
+  {
+    "name": "Skf India Ltd",
+    "ticker": "SKFINDIA"
+  },
+  {
+    "name": "Skf India (Industrial) Ltd",
+    "ticker": "SKFINDUS"
+  },
+  {
+    "name": "Skipper Ltd",
+    "ticker": "SKIPPER"
+  },
+  {
+    "name": "Skm Egg Products Export (India) Ltd",
+    "ticker": "SKMEGGPROD"
+  },
+  {
+    "name": "Sky Gold And Diamonds Ltd",
+    "ticker": "SKYGOLD"
+  },
+  {
+    "name": "Smartlink Holdings Ltd",
+    "ticker": "SMARTLINK"
+  },
+  {
+    "name": "Smartworks Coworking Spaces Ltd",
+    "ticker": "SMARTWORKS"
+  },
+  {
+    "name": "Smc Global Securities Ltd",
+    "ticker": "SMCGLOBAL"
+  },
+  {
+    "name": "Sml Mahindra Ltd",
+    "ticker": "SMLMAH"
+  },
+  {
+    "name": "Sarthak Metals Ltd",
+    "ticker": "SMLT"
+  },
+  {
+    "name": "Sms Pharmaceuticals Ltd",
+    "ticker": "SMSPHARMA"
+  },
+  {
+    "name": "Snowman Logistics Ltd",
+    "ticker": "SNOWMAN"
+  },
+  {
+    "name": "Sobha Ltd",
+    "ticker": "SOBHA"
+  },
+  {
+    "name": "Softtech Engineers Ltd",
+    "ticker": "SOFTTECH"
+  },
+  {
+    "name": "Solara Active Pharma Sciences Ltd",
+    "ticker": "SOLARA"
+  },
+  {
+    "name": "Solar Industries India Ltd",
+    "ticker": "SOLARINDS"
+  },
+  {
+    "name": "Solarworld Energy Solutions Ltd",
+    "ticker": "SOLARWORLD"
+  },
+  {
+    "name": "Solex Energy Ltd",
+    "ticker": "SOLEX"
+  },
+  {
+    "name": "Somany Ceramics Ltd",
+    "ticker": "SOMANYCERA"
+  },
+  {
+    "name": "Soma Textiles & Industries Ltd",
+    "ticker": "SOMATEX"
+  },
+  {
+    "name": "Somi Conveyor Beltings Ltd",
+    "ticker": "SOMICONVEY"
+  },
+  {
+    "name": "Sona Blw Precision Forgings Ltd",
+    "ticker": "SONACOMS"
+  },
+  {
+    "name": "Sonal Mercantile Ltd",
+    "ticker": "SONAL"
+  },
+  {
+    "name": "Sonam Ltd",
+    "ticker": "SONAMLTD"
+  },
+  {
+    "name": "Sonata Software Ltd",
+    "ticker": "SONATSOFTW"
+  },
+  {
+    "name": "Savita Oil Technologies Ltd",
+    "ticker": "SOTL"
+  },
+  {
+    "name": "The South Indian Bank Ltd",
+    "ticker": "SOUTHBANK"
+  },
+  {
+    "name": "South West Pinnacle Exploration Ltd",
+    "ticker": "SOUTHWEST"
+  },
+  {
+    "name": "S. P. Apparels Ltd",
+    "ticker": "SPAL"
+  },
+  {
+    "name": "Spandana Sphoorty Financial Ltd",
+    "ticker": "SPANDANA"
+  },
+  {
+    "name": "Sun Pharma Advanced Research Company Ltd",
+    "ticker": "SPARC"
+  },
+  {
+    "name": "Spacenet Enterprises India Ltd",
+    "ticker": "SPCENET"
+  },
+  {
+    "name": "Speciality Restaurants Ltd",
+    "ticker": "SPECIALITY"
+  },
+  {
+    "name": "Spectrum Electrical Industries Ltd",
+    "ticker": "SPECTRUM"
+  },
+  {
+    "name": "Spencer'S Retail Ltd",
+    "ticker": "SPENCERS"
+  },
+  {
+    "name": "Southern Petrochemicals Industries Corporation  Ltd",
+    "ticker": "SPIC"
+  },
+  {
+    "name": "Spl Industries Ltd",
+    "ticker": "SPLIL"
+  },
+  {
+    "name": "Supreme Petrochem Ltd",
+    "ticker": "SPLPETRO"
+  },
+  {
+    "name": "Spml Infra Ltd",
+    "ticker": "SPMLINFRA"
+  },
+  {
+    "name": "Sportking India Ltd",
+    "ticker": "SPORTKING"
+  },
+  {
+    "name": "Shankar Lal Rampal Dye-Chem Ltd",
+    "ticker": "SRD"
+  },
+  {
+    "name": "Sreeleathers Ltd",
+    "ticker": "SREEL"
+  },
+  {
+    "name": "Srf Ltd",
+    "ticker": "SRF"
+  },
+  {
+    "name": "Srg Housing Finance Ltd",
+    "ticker": "SRGHFL"
+  },
+  {
+    "name": "Sree Rayalaseema Hi-Strength Hypo Ltd",
+    "ticker": "SRHHYPOLTD"
+  },
+  {
+    "name": "Srm Contractors Ltd",
+    "ticker": "SRM"
+  },
+  {
+    "name": "Shree Ram Twistex Ltd",
+    "ticker": "SRTL"
+  },
+  {
+    "name": "Saraswati Saree Depot Ltd",
+    "ticker": "SSDL"
+  },
+  {
+    "name": "Steel Strips Wheels Ltd",
+    "ticker": "SSWL"
+  },
+  {
+    "name": "Stallion India Fluorochemicals Ltd",
+    "ticker": "STALLION"
+  },
+  {
+    "name": "Stanley Lifestyles Ltd",
+    "ticker": "STANLEY"
+  },
+  {
+    "name": "Strides Pharma Science Ltd",
+    "ticker": "STAR"
+  },
+  {
+    "name": "Star Cement Ltd",
+    "ticker": "STARCEMENT"
+  },
+  {
+    "name": "Star Health And Allied Insurance Company Ltd",
+    "ticker": "STARHEALTH"
+  },
+  {
+    "name": "Star Paper Mills Ltd",
+    "ticker": "STARPAPER"
+  },
+  {
+    "name": "Starteck Finance Ltd",
+    "ticker": "STARTECK"
+  },
+  {
+    "name": "The State Trading Corporation Of India Ltd",
+    "ticker": "STCINDIA"
+  },
+  {
+    "name": "Steelcast Ltd",
+    "ticker": "STEELCAS"
+  },
+  {
+    "name": "Steel City Securities Ltd",
+    "ticker": "STEELCITY"
+  },
+  {
+    "name": "Steel Exchange India Ltd",
+    "ticker": "STEELXIND"
+  },
+  {
+    "name": "Stel Holdings Ltd",
+    "ticker": "STEL"
+  },
+  {
+    "name": "Sterling Tools Ltd",
+    "ticker": "STERTOOLS"
+  },
+  {
+    "name": "Stl Networks Ltd",
+    "ticker": "STLNETWORK"
+  },
+  {
+    "name": "Sterlite Technologies Ltd",
+    "ticker": "STLTECH"
+  },
+  {
+    "name": "Stove Kraft Ltd",
+    "ticker": "STOVEKRAFT"
+  },
+  {
+    "name": "Studds Accessories Ltd",
+    "ticker": "STUDDS"
+  },
+  {
+    "name": "Seshaasai Technologies Ltd",
+    "ticker": "STYL"
+  },
+  {
+    "name": "Stylam Industries Ltd",
+    "ticker": "STYLAMIND"
+  },
+  {
+    "name": "Baazar Style Retail Ltd",
+    "ticker": "STYLEBAAZA"
+  },
+  {
+    "name": "Styrenix Performance Materials Ltd",
+    "ticker": "STYRENIX"
+  },
+  {
+    "name": "Subex Ltd",
+    "ticker": "SUBEXLTD"
+  },
+  {
+    "name": "Subros Ltd",
+    "ticker": "SUBROS"
+  },
+  {
+    "name": "Sudarshan Colorants India Ltd",
+    "ticker": "SUDARCOLOR"
+  },
+  {
+    "name": "Sudarshan Chemical Industries Ltd",
+    "ticker": "SUDARSCHEM"
+  },
+  {
+    "name": "Sudeep Pharma Ltd",
+    "ticker": "SUDEEPPHRM"
+  },
+  {
+    "name": "Sukhjit Starch & Chemicals Ltd",
+    "ticker": "SUKHJITS"
+  },
+  {
+    "name": "Sula Vineyards Ltd",
+    "ticker": "SULA"
+  },
+  {
+    "name": "Sumeet Industries Ltd",
+    "ticker": "SUMEETINDS"
+  },
+  {
+    "name": "Sumitomo Chemical India Ltd",
+    "ticker": "SUMICHEM"
+  },
+  {
+    "name": "Sumit Woods Ltd",
+    "ticker": "SUMIT"
+  },
+  {
+    "name": "Summit Securities Ltd",
+    "ticker": "SUMMITSEC"
+  },
+  {
+    "name": "Sundaram Clayton Ltd",
+    "ticker": "SUNCLAY"
+  },
+  {
+    "name": "Sundaram Multi Pap Ltd",
+    "ticker": "SUNDARAM"
+  },
+  {
+    "name": "Sundaram Finance Ltd",
+    "ticker": "SUNDARMFIN"
+  },
+  {
+    "name": "Sundaram Brake Linings Ltd",
+    "ticker": "SUNDRMBRAK"
+  },
+  {
+    "name": "Sundram Fasteners Ltd",
+    "ticker": "SUNDRMFAST"
+  },
+  {
+    "name": "Sundrop Brands Ltd",
+    "ticker": "SUNDROP"
+  },
+  {
+    "name": "Sunflag Iron And Steel Company Ltd",
+    "ticker": "SUNFLAG"
+  },
+  {
+    "name": "Sun Pharmaceutical Industries Ltd",
+    "ticker": "SUNPHARMA"
+  },
+  {
+    "name": "Sunteck Realty Ltd",
+    "ticker": "SUNTECK"
+  },
+  {
+    "name": "Sun Tv Network Ltd",
+    "ticker": "SUNTV"
+  },
+  {
+    "name": "Superhouse Ltd",
+    "ticker": "SUPERHOUSE"
+  },
+  {
+    "name": "Super Spinning Mills Ltd",
+    "ticker": "SUPERSPIN"
+  },
+  {
+    "name": "Suprajit Engineering Ltd",
+    "ticker": "SUPRAJIT"
+  },
+  {
+    "name": "Supreme Holdings & Hospitality (India) Ltd",
+    "ticker": "SUPREME"
+  },
+  {
+    "name": "Supreme Industries Ltd",
+    "ticker": "SUPREMEIND"
+  },
+  {
+    "name": "Supreme Infrastructure India Ltd",
+    "ticker": "SUPREMEINF"
+  },
+  {
+    "name": "Supriya Lifescience Ltd",
+    "ticker": "SUPRIYA"
+  },
+  {
+    "name": "Suraj Estate Developers Ltd",
+    "ticker": "SURAJEST"
+  },
+  {
+    "name": "Suraj Ltd",
+    "ticker": "SURAJLTD"
+  },
+  {
+    "name": "Suraksha Diagnostic Ltd",
+    "ticker": "SURAKSHA"
+  },
+  {
+    "name": "Surana Solar Ltd",
+    "ticker": "SURANASOL"
+  },
+  {
+    "name": "Surana Telecom And Power Ltd",
+    "ticker": "SURANAT&P"
+  },
+  {
+    "name": "Suryalata Spinning Mills Ltd",
+    "ticker": "SURYALA"
+  },
+  {
+    "name": "Suryalakshmi Cotton Mills Ltd",
+    "ticker": "SURYALAXMI"
+  },
+  {
+    "name": "Surya Roshni Ltd",
+    "ticker": "SURYAROSNI"
+  },
+  {
+    "name": "Suryoday Small Finance Bank Ltd",
+    "ticker": "SURYODAY"
+  },
+  {
+    "name": "Sutlej Textiles And Industries Ltd",
+    "ticker": "SUTLEJTEX"
+  },
+  {
+    "name": "Suven Life Sciences Ltd",
+    "ticker": "SUVEN"
+  },
+  {
+    "name": "Suvidhaa Infoserve Ltd",
+    "ticker": "SUVIDHAA"
+  },
+  {
+    "name": "Suyog Telematics Ltd",
+    "ticker": "SUYOG"
+  },
+  {
+    "name": "Suzlon Energy Ltd",
+    "ticker": "SUZLON"
+  },
+  {
+    "name": "Shree Vasu Logistics Ltd",
+    "ticker": "SVLL"
+  },
+  {
+    "name": "Svp Global Textiles Ltd",
+    "ticker": "SVPGLOB"
+  },
+  {
+    "name": "Swan Corp Ltd",
+    "ticker": "SWANCORP"
+  },
+  {
+    "name": "Swan Defence And Heavy Industries Ltd",
+    "ticker": "SWANDEF"
+  },
+  {
+    "name": "Swaraj Engines Ltd",
+    "ticker": "SWARAJENG"
+  },
+  {
+    "name": "Swelect Energy Systems Ltd",
+    "ticker": "SWELECTES"
+  },
+  {
+    "name": "Swiggy Ltd",
+    "ticker": "SWIGGY"
+  },
+  {
+    "name": "Sterling And Wilson Renewable Energy Ltd",
+    "ticker": "SWSOLAR"
+  },
+  {
+    "name": "Symphony Ltd",
+    "ticker": "SYMPHONY"
+  },
+  {
+    "name": "Syncom Formulations (India) Ltd",
+    "ticker": "SYNCOMF"
+  },
+  {
+    "name": "Syngene International Ltd",
+    "ticker": "SYNGENE"
+  },
+  {
+    "name": "Syrma Sgs Technology Ltd",
+    "ticker": "SYRMA"
+  },
+  {
+    "name": "Systematix Corporate Services Ltd",
+    "ticker": "SYSTMTXC"
+  },
+  {
+    "name": "Taal Tech Ltd",
+    "ticker": "TAALTECH"
+  },
+  {
+    "name": "Tainwala Chemical And Plastic (I) Ltd",
+    "ticker": "TAINWALCHM"
+  },
+  {
+    "name": "Taj Gvk Hotels & Resorts Ltd",
+    "ticker": "TAJGVK"
+  },
+  {
+    "name": "Take Solutions Ltd",
+    "ticker": "TAKE"
+  },
+  {
+    "name": "Talbros Automotive Components Ltd",
+    "ticker": "TALBROAUTO"
+  },
+  {
+    "name": "Tamboli Industries Ltd",
+    "ticker": "TAMBOLIIN"
+  },
+  {
+    "name": "Tanla Platforms Ltd",
+    "ticker": "TANLA"
+  },
+  {
+    "name": "Tara Chand Infralogistic Solutions Ltd",
+    "ticker": "TARACHAND"
+  },
+  {
+    "name": "Tarapur Transformers Ltd",
+    "ticker": "TARAPUR"
+  },
+  {
+    "name": "Tarc Ltd",
+    "ticker": "TARC"
+  },
+  {
+    "name": "Transformers And Rectifiers (India) Ltd",
+    "ticker": "TARIL"
+  },
+  {
+    "name": "Tarmat Ltd",
+    "ticker": "TARMAT"
+  },
+  {
+    "name": "Tarsons Products Ltd",
+    "ticker": "TARSONS"
+  },
+  {
+    "name": "Tasty Bite Eatables Ltd",
+    "ticker": "TASTYBITE"
+  },
+  {
+    "name": "Tata Capital Ltd",
+    "ticker": "TATACAP"
+  },
+  {
+    "name": "Tata Chemicals Ltd",
+    "ticker": "TATACHEM"
+  },
+  {
+    "name": "Tata Communications Ltd",
+    "ticker": "TATACOMM"
+  },
+  {
+    "name": "Tata Consumer Products Ltd",
+    "ticker": "TATACONSUM"
+  },
+  {
+    "name": "Tata Elxsi Ltd",
+    "ticker": "TATAELXSI"
+  },
+  {
+    "name": "Tata Investment Corporation Ltd",
+    "ticker": "TATAINVEST"
+  },
+  {
+    "name": "Tata Power Company Ltd",
+    "ticker": "TATAPOWER"
+  },
+  {
+    "name": "Tata Steel Ltd",
+    "ticker": "TATASTEEL"
+  },
+  {
+    "name": "Tata Technologies Ltd",
+    "ticker": "TATATECH"
+  },
+  {
+    "name": "Tatva Chintan Pharma Chem Ltd",
+    "ticker": "TATVA"
+  },
+  {
+    "name": "Tbo Tek Ltd",
+    "ticker": "TBOTEK"
+  },
+  {
+    "name": "Tribhovandas Bhimji Zaveri Ltd",
+    "ticker": "TBZ"
+  },
+  {
+    "name": "Tcc Concept Ltd",
+    "ticker": "TCC"
+  },
+  {
+    "name": "Transport Corporation Of India Ltd",
+    "ticker": "TCI"
+  },
+  {
+    "name": "Tci Express Ltd",
+    "ticker": "TCIEXP"
+  },
+  {
+    "name": "Tci Finance Ltd",
+    "ticker": "TCIFINANCE"
+  },
+  {
+    "name": "Tcpl Packaging Ltd",
+    "ticker": "TCPLPACK"
+  },
+  {
+    "name": "Tata Consultancy Services Ltd",
+    "ticker": "TCS"
+  },
+  {
+    "name": "Td Power Systems Ltd",
+    "ticker": "TDPOWERSYS"
+  },
+  {
+    "name": "Team India Guaranty Ltd",
+    "ticker": "TEAMGTY"
+  },
+  {
+    "name": "Teamlease Services Ltd",
+    "ticker": "TEAMLEASE"
+  },
+  {
+    "name": "Tech Mahindra Ltd",
+    "ticker": "TECHM"
+  },
+  {
+    "name": "Techno Electric & Engineering Company Ltd",
+    "ticker": "TECHNOE"
+  },
+  {
+    "name": "Technvision Ventures Ltd",
+    "ticker": "TECHNVISN"
+  },
+  {
+    "name": "Tecil Chemicals And Hydro Power Ltd",
+    "ticker": "TECILCHEM"
+  },
+  {
+    "name": "Tega Industries Ltd",
+    "ticker": "TEGA"
+  },
+  {
+    "name": "Tejas Networks Ltd",
+    "ticker": "TEJASNET"
+  },
+  {
+    "name": "Tembo Global Industries Ltd",
+    "ticker": "TEMBO"
+  },
+  {
+    "name": "Tenneco Clean Air India Ltd",
+    "ticker": "TENNIND"
+  },
+  {
+    "name": "Tera Software Ltd",
+    "ticker": "TERASOFT"
+  },
+  {
+    "name": "Texmaco Infrastructure & Holdings Ltd",
+    "ticker": "TEXINFRA"
+  },
+  {
+    "name": "Texmo Pipes And Products Ltd",
+    "ticker": "TEXMOPIPES"
+  },
+  {
+    "name": "Texmaco Rail & Engineering Ltd",
+    "ticker": "TEXRAIL"
+  },
+  {
+    "name": "Tourism Finance Corporation Of India Ltd",
+    "ticker": "TFCILTD"
+  },
+  {
+    "name": "Transwarranty Finance Ltd",
+    "ticker": "TFL"
+  },
+  {
+    "name": "Tgb Banquets And Hotels Ltd",
+    "ticker": "TGBHOTELS"
+  },
+  {
+    "name": "Thacker & Company Ltd",
+    "ticker": "THACKER"
+  },
+  {
+    "name": "Thakkers Developers Ltd",
+    "ticker": "THAKDEV"
+  },
+  {
+    "name": "Thangamayil Jewellery Ltd",
+    "ticker": "THANGAMAYL"
+  },
+  {
+    "name": "The Investment Trust Of India Ltd",
+    "ticker": "THEINVEST"
+  },
+  {
+    "name": "Thejo Engineering Ltd",
+    "ticker": "THEJO"
+  },
+  {
+    "name": "Leela Palaces Hotels & Resorts Ltd",
+    "ticker": "THELEELA"
+  },
+  {
+    "name": "Themis Medicare Ltd",
+    "ticker": "THEMISMED"
+  },
+  {
+    "name": "Thermax Ltd",
+    "ticker": "THERMAX"
+  },
+  {
+    "name": "Thomas Cook  (India)  Ltd",
+    "ticker": "THOMASCOOK"
+  },
+  {
+    "name": "Thomas Scott (India) Ltd",
+    "ticker": "THOMASCOTT"
+  },
+  {
+    "name": "Thyrocare Technologies Ltd",
+    "ticker": "THYROCARE"
+  },
+  {
+    "name": "Tilaknagar Industries Ltd",
+    "ticker": "TI"
+  },
+  {
+    "name": "Twamev Construction And Infrastructure Ltd",
+    "ticker": "TICL"
+  },
+  {
+    "name": "Tiger Logistics (India) Ltd",
+    "ticker": "TIGERLOGS"
+  },
+  {
+    "name": "Technocraft Industries (India) Ltd",
+    "ticker": "TIIL"
+  },
+  {
+    "name": "Tube Investments Of India Ltd",
+    "ticker": "TIINDIA"
+  },
+  {
+    "name": "Tijaria Polypipes Ltd",
+    "ticker": "TIJARIA"
+  },
+  {
+    "name": "Til Ltd",
+    "ticker": "TIL"
+  },
+  {
+    "name": "Time Technoplast Ltd",
+    "ticker": "TIMETECHNO"
+  },
+  {
+    "name": "Timex Group India Ltd",
+    "ticker": "TIMEX"
+  },
+  {
+    "name": "Timken India Ltd",
+    "ticker": "TIMKEN"
+  },
+  {
+    "name": "Tinna Rubber And Infrastructure Ltd",
+    "ticker": "TINNARUBR"
+  },
+  {
+    "name": "Tips Films Ltd",
+    "ticker": "TIPSFILMS"
+  },
+  {
+    "name": "Tips Music Ltd",
+    "ticker": "TIPSMUSIC"
+  },
+  {
+    "name": "Thirumalai Chemicals Ltd",
+    "ticker": "TIRUMALCHM"
+  },
+  {
+    "name": "Tirupati Forge Ltd",
+    "ticker": "TIRUPATIFL"
+  },
+  {
+    "name": "Titagarh Rail Systems Ltd",
+    "ticker": "TITAGARH"
+  },
+  {
+    "name": "Titan Company Ltd",
+    "ticker": "TITAN"
+  },
+  {
+    "name": "Tamilnad Mercantile Bank Ltd",
+    "ticker": "TMB"
+  },
+  {
+    "name": "Tata Motors Ltd",
+    "ticker": "TMCV"
+  },
+  {
+    "name": "Tata Motors Passenger Vehicles Ltd",
+    "ticker": "TMPV"
+  },
+  {
+    "name": "Tamilnadu Petroproducts Ltd",
+    "ticker": "TNPETRO"
+  },
+  {
+    "name": "Tamil Nadu Newsprint & Papers Ltd",
+    "ticker": "TNPL"
+  },
+  {
+    "name": "Tamilnadu Telecommunication Ltd",
+    "ticker": "TNTELE"
+  },
+  {
+    "name": "Tokyo Plast International Ltd",
+    "ticker": "TOKYOPLAST"
+  },
+  {
+    "name": "Tolins Tyres Ltd",
+    "ticker": "TOLINS"
+  },
+  {
+    "name": "Torrent Pharmaceuticals Ltd",
+    "ticker": "TORNTPHARM"
+  },
+  {
+    "name": "Torrent Power Ltd",
+    "ticker": "TORNTPOWER"
+  },
+  {
+    "name": "Total Transport Systems Ltd",
+    "ticker": "TOTAL"
+  },
+  {
+    "name": "Touchwood Entertainment Ltd",
+    "ticker": "TOUCHWOOD"
+  },
+  {
+    "name": "Teamo Productions Hq Ltd",
+    "ticker": "TPHQ"
+  },
+  {
+    "name": "Tpl Plastech Ltd",
+    "ticker": "TPLPLASTEH"
+  },
+  {
+    "name": "Tracxn Technologies Ltd",
+    "ticker": "TRACXN"
+  },
+  {
+    "name": "Transpek Industry Ltd",
+    "ticker": "TRANSPEK"
+  },
+  {
+    "name": "Transrail Lighting Ltd",
+    "ticker": "TRANSRAILL"
+  },
+  {
+    "name": "Transworld Shipping Lines Ltd",
+    "ticker": "TRANSWORLD"
+  },
+  {
+    "name": "Travel Food Services Ltd",
+    "ticker": "TRAVELFOOD"
+  },
+  {
+    "name": "Tree House Education & Accessories Ltd",
+    "ticker": "TREEHOUSE"
+  },
+  {
+    "name": "Trejhara Solutions Ltd",
+    "ticker": "TREJHARA"
+  },
+  {
+    "name": "Transindia Real Estate Ltd",
+    "ticker": "TREL"
+  },
+  {
+    "name": "Trent Ltd",
+    "ticker": "TRENT"
+  },
+  {
+    "name": "Trf Ltd",
+    "ticker": "TRF"
+  },
+  {
+    "name": "Trident Ltd",
+    "ticker": "TRIDENT"
+  },
+  {
+    "name": "Trigyn Technologies Ltd",
+    "ticker": "TRIGYN"
+  },
+  {
+    "name": "Triveni Turbine Ltd",
+    "ticker": "TRITURBINE"
+  },
+  {
+    "name": "Triveni Engineering & Industries Ltd",
+    "ticker": "TRIVENI"
+  },
+  {
+    "name": "Trucap Finance Ltd",
+    "ticker": "TRU"
+  },
+  {
+    "name": "Trualt Bioenergy Ltd",
+    "ticker": "TRUALT"
+  },
+  {
+    "name": "Tsf Investments Ltd",
+    "ticker": "TSFINV"
+  },
+  {
+    "name": "Ttk Healthcare Ltd",
+    "ticker": "TTKHLTCARE"
+  },
+  {
+    "name": "Ttk Prestige Ltd",
+    "ticker": "TTKPRESTIG"
+  },
+  {
+    "name": "T T Ltd",
+    "ticker": "TTL"
+  },
+  {
+    "name": "Tata Teleservices (Maharashtra) Ltd",
+    "ticker": "TTML"
+  },
+  {
+    "name": "Turtlemint Fintech Solutions Ltd",
+    "ticker": "TURTLEMINT"
+  },
+  {
+    "name": "Tvs Electronics Ltd",
+    "ticker": "TVSELECT"
+  },
+  {
+    "name": "Tvs Holdings Ltd",
+    "ticker": "TVSHLTD"
+  },
+  {
+    "name": "Tvs Motor Company Ltd",
+    "ticker": "TVSMOTOR"
+  },
+  {
+    "name": "Tvs Supply Chain Solutions Ltd",
+    "ticker": "TVSSCS"
+  },
+  {
+    "name": "Tvs Srichakra Ltd",
+    "ticker": "TVSSRICHAK"
+  },
+  {
+    "name": "Tv Today Network Ltd",
+    "ticker": "TVTODAY"
+  },
+  {
+    "name": "Tv Vision Ltd",
+    "ticker": "TVVISION"
+  },
+  {
+    "name": "United Breweries Ltd",
+    "ticker": "UBL"
+  },
+  {
+    "name": "Ucal Ltd",
+    "ticker": "UCAL"
+  },
+  {
+    "name": "Uco Bank",
+    "ticker": "UCOBANK"
+  },
+  {
+    "name": "Updater Services Ltd",
+    "ticker": "UDS"
+  },
+  {
+    "name": "Ujaas Energy Ltd",
+    "ticker": "UEL"
+  },
+  {
+    "name": "United Foodbrands Ltd",
+    "ticker": "UFBL"
+  },
+  {
+    "name": "Uflex Ltd",
+    "ticker": "UFLEX"
+  },
+  {
+    "name": "Ufo Moviez India Ltd",
+    "ticker": "UFO"
+  },
+  {
+    "name": "The Ugar Sugar Works Ltd",
+    "ticker": "UGARSUGAR"
+  },
+  {
+    "name": "Ugro Capital Ltd",
+    "ticker": "UGROCAP"
+  },
+  {
+    "name": "Ujjivan Small Finance Bank Ltd",
+    "ticker": "UJJIVANSFB"
+  },
+  {
+    "name": "Ultratech Cement Ltd",
+    "ticker": "ULTRACEMCO"
+  },
+  {
+    "name": "Ultramarine & Pigments Ltd",
+    "ticker": "ULTRAMAR"
+  },
+  {
+    "name": "Uma Exports Ltd",
+    "ticker": "UMAEXPORTS"
+  },
+  {
+    "name": "Usha Martin Education & Solutions Ltd",
+    "ticker": "UMESLTD"
+  },
+  {
+    "name": "Umiya Buildcon Ltd",
+    "ticker": "UMIYA-MRO"
+  },
+  {
+    "name": "Unichem Laboratories Ltd",
+    "ticker": "UNICHEMLAB"
+  },
+  {
+    "name": "United Drilling Tools Ltd",
+    "ticker": "UNIDT"
+  },
+  {
+    "name": "Unicommerce Esolutions Ltd",
+    "ticker": "UNIECOM"
+  },
+  {
+    "name": "Uniphos Enterprises Ltd",
+    "ticker": "UNIENTER"
+  },
+  {
+    "name": "Uniinfo Telecom Services Ltd",
+    "ticker": "UNIINFO"
+  },
+  {
+    "name": "Unimech Aerospace And Manufacturing Ltd",
+    "ticker": "UNIMECH"
+  },
+  {
+    "name": "Union Bank Of India",
+    "ticker": "UNIONBANK"
+  },
+  {
+    "name": "Uniparts India Ltd",
+    "ticker": "UNIPARTS"
+  },
+  {
+    "name": "United Spirits Ltd",
+    "ticker": "UNITDSPR"
+  },
+  {
+    "name": "Unitech Ltd",
+    "ticker": "UNITECH"
+  },
+  {
+    "name": "United Polyfab Gujarat Ltd",
+    "ticker": "UNITEDPOLY"
+  },
+  {
+    "name": "The United Nilgiri Tea Estates Company Ltd",
+    "ticker": "UNITEDTEA"
+  },
+  {
+    "name": "Univastu India Ltd",
+    "ticker": "UNIVASTU"
+  },
+  {
+    "name": "Universal Cables Ltd",
+    "ticker": "UNIVCABLES"
+  },
+  {
+    "name": "Universus Photo Imagings Ltd",
+    "ticker": "UNIVPHOTO"
+  },
+  {
+    "name": "Uno Minda Ltd",
+    "ticker": "UNOMINDA"
+  },
+  {
+    "name": "Upl Ltd",
+    "ticker": "UPL"
+  },
+  {
+    "name": "Uravi Defence And Technology Ltd",
+    "ticker": "URAVIDEF"
+  },
+  {
+    "name": "Urban Company Ltd",
+    "ticker": "URBANCO"
+  },
+  {
+    "name": "Urja Global Ltd",
+    "ticker": "URJA"
+  },
+  {
+    "name": "Usha Martin Ltd",
+    "ticker": "USHAMART"
+  },
+  {
+    "name": "Udayshivakumar Infra Ltd",
+    "ticker": "USK"
+  },
+  {
+    "name": "Uti Asset Management Company Ltd",
+    "ticker": "UTIAMC"
+  },
+  {
+    "name": "Utkarsh Small Finance Bank Ltd",
+    "ticker": "UTKARSHBNK"
+  },
+  {
+    "name": "Fujiyama Power Systems Ltd",
+    "ticker": "UTLSOLAR"
+  },
+  {
+    "name": "Uttam Sugar Mills Ltd",
+    "ticker": "UTTAMSUGAR"
+  },
+  {
+    "name": "U. Y. Fincorp Ltd",
+    "ticker": "UYFINCORP"
+  },
+  {
+    "name": "V2 Retail Ltd",
+    "ticker": "V2RETAIL"
+  },
+  {
+    "name": "Vadilal Industries Ltd",
+    "ticker": "VADILALIND"
+  },
+  {
+    "name": "Vaibhav Global Ltd",
+    "ticker": "VAIBHAVGBL"
+  },
+  {
+    "name": "Vaishali Pharma Ltd",
+    "ticker": "VAISHALI"
+  },
+  {
+    "name": "Vakrangee Ltd",
+    "ticker": "VAKRANGEE"
+  },
+  {
+    "name": "Valiant Laboratories Ltd",
+    "ticker": "VALIANTLAB"
+  },
+  {
+    "name": "Valiant Organics Ltd",
+    "ticker": "VALIANTORG"
+  },
+  {
+    "name": "Vedanta Aluminium Metal Ltd",
+    "ticker": "VAML"
+  },
+  {
+    "name": "Vardhman Acrylics Ltd",
+    "ticker": "VARDHACRLC"
+  },
+  {
+    "name": "Vardhman Polytex Ltd",
+    "ticker": "VARDMNPOLY"
+  },
+  {
+    "name": "Varroc Engineering Ltd",
+    "ticker": "VARROC"
+  },
+  {
+    "name": "Vascon Engineers Ltd",
+    "ticker": "VASCONEQ"
+  },
+  {
+    "name": "Vaswani Industries Ltd",
+    "ticker": "VASWANI"
+  },
+  {
+    "name": "Varun Beverages Ltd",
+    "ticker": "VBL"
+  },
+  {
+    "name": "Vaxtex Cotfab Ltd",
+    "ticker": "VCL"
+  },
+  {
+    "name": "Vedanta Ltd",
+    "ticker": "VEDL"
+  },
+  {
+    "name": "Vedanta Power Ltd",
+    "ticker": "VEDPOWER"
+  },
+  {
+    "name": "Veedol Corporation Ltd",
+    "ticker": "VEEDOL"
+  },
+  {
+    "name": "Veljan Denison Ltd",
+    "ticker": "VELJAN"
+  },
+  {
+    "name": "Venky'S (India) Ltd",
+    "ticker": "VENKEYS"
+  },
+  {
+    "name": "Ventive Hospitality Ltd",
+    "ticker": "VENTIVE"
+  },
+  {
+    "name": "Venus Pipes & Tubes Ltd",
+    "ticker": "VENUSPIPES"
+  },
+  {
+    "name": "Venus Remedies Ltd",
+    "ticker": "VENUSREM"
+  },
+  {
+    "name": "Veranda Learning Solutions Ltd",
+    "ticker": "VERANDA"
+  },
+  {
+    "name": "Vertoz Ltd",
+    "ticker": "VERTOZ"
+  },
+  {
+    "name": "Vesuvius India Ltd",
+    "ticker": "VESUVIUS"
+  },
+  {
+    "name": "Veto Switchgears And Cables Ltd",
+    "ticker": "VETO"
+  },
+  {
+    "name": "Varvee Global Ltd",
+    "ticker": "VGL"
+  },
+  {
+    "name": "V-Guard Industries Ltd",
+    "ticker": "VGUARD"
+  },
+  {
+    "name": "Vardhman Holdings Ltd",
+    "ticker": "VHL"
+  },
+  {
+    "name": "Viceroy Hotels Ltd",
+    "ticker": "VHLTD"
+  },
+  {
+    "name": "Vidhi Specialty Food Ingredients Ltd",
+    "ticker": "VIDHIING"
+  },
+  {
+    "name": "Vidya Wires Ltd",
+    "ticker": "VIDYAWIRES"
+  },
+  {
+    "name": "Vijaya Diagnostic Centre Ltd",
+    "ticker": "VIJAYA"
+  },
+  {
+    "name": "Viji Finance Ltd",
+    "ticker": "VIJIFIN"
+  },
+  {
+    "name": "Vikas Ecotech Ltd",
+    "ticker": "VIKASECO"
+  },
+  {
+    "name": "Vikas Lifecare Ltd",
+    "ticker": "VIKASLIFE"
+  },
+  {
+    "name": "Vikram Solar Ltd",
+    "ticker": "VIKRAMSOLR"
+  },
+  {
+    "name": "Vikran Engineering Ltd",
+    "ticker": "VIKRAN"
+  },
+  {
+    "name": "Vimta Labs Ltd",
+    "ticker": "VIMTALABS"
+  },
+  {
+    "name": "Vinati Organics Ltd",
+    "ticker": "VINATIORGA"
+  },
+  {
+    "name": "Vintage Coffee And Beverages Ltd",
+    "ticker": "VINCOFE"
+  },
+  {
+    "name": "Vindhya Telelinks Ltd",
+    "ticker": "VINDHYATEL"
+  },
+  {
+    "name": "Vineet Laboratories Ltd",
+    "ticker": "VINEETLAB"
+  },
+  {
+    "name": "Vinny Overseas Ltd",
+    "ticker": "VINNY"
+  },
+  {
+    "name": "Vinyl Chemicals (India) Ltd",
+    "ticker": "VINYLINDIA"
+  },
+  {
+    "name": "Vip Clothing Ltd",
+    "ticker": "VIPCLOTHNG"
+  },
+  {
+    "name": "Vip Industries Ltd",
+    "ticker": "VIPIND"
+  },
+  {
+    "name": "Vipul Ltd",
+    "ticker": "VIPULLTD"
+  },
+  {
+    "name": "Virinchi Ltd",
+    "ticker": "VIRINCHI"
+  },
+  {
+    "name": "Visa Chrome Ltd",
+    "ticker": "VISACHROME"
+  },
+  {
+    "name": "Visaka Industries Ltd",
+    "ticker": "VISAKAIND"
+  },
+  {
+    "name": "Vishnu Chemicals Ltd",
+    "ticker": "VISHNU"
+  },
+  {
+    "name": "Vishwaraj Sugar Industries Ltd",
+    "ticker": "VISHWARAJ"
+  },
+  {
+    "name": "Vedanta Iron And Steel Ltd",
+    "ticker": "VISL"
+  },
+  {
+    "name": "Vital Chemtech Ltd",
+    "ticker": "VITAL"
+  },
+  {
+    "name": "Viviana Power Tech Ltd",
+    "ticker": "VIVIANA"
+  },
+  {
+    "name": "Visagar Polytex Ltd",
+    "ticker": "VIVIDHA"
+  },
+  {
+    "name": "Vivimed Labs Ltd",
+    "ticker": "VIVIMEDLAB"
+  },
+  {
+    "name": "Viyash Scientific Ltd",
+    "ticker": "VIYASH"
+  },
+  {
+    "name": "Vl E-Governance & It Solutions Ltd",
+    "ticker": "VLEGOV"
+  },
+  {
+    "name": "Vls Finance Ltd",
+    "ticker": "VLSFINANCE"
+  },
+  {
+    "name": "V-Mart Retail Ltd",
+    "ticker": "VMART"
+  },
+  {
+    "name": "Vishal Mega Mart Ltd",
+    "ticker": "VMM"
+  },
+  {
+    "name": "Vms Tmt Ltd",
+    "ticker": "VMSTMT"
+  },
+  {
+    "name": "Virtuoso Optoelectronics Ltd",
+    "ticker": "VOEPL"
+  },
+  {
+    "name": "Vedanta Oil And Gas Ltd",
+    "ticker": "VOGL"
+  },
+  {
+    "name": "Voltamp Transformers Ltd",
+    "ticker": "VOLTAMP"
+  },
+  {
+    "name": "Voltas Ltd",
+    "ticker": "VOLTAS"
+  },
+  {
+    "name": "Vishnu Prakash R Punglia Ltd",
+    "ticker": "VPRPL"
+  },
+  {
+    "name": "Vraj Iron And Steel Ltd",
+    "ticker": "VRAJ"
+  },
+  {
+    "name": "Vrl Logistics Ltd",
+    "ticker": "VRLLOG"
+  },
+  {
+    "name": "Vardhman Special Steels Ltd",
+    "ticker": "VSSL"
+  },
+  {
+    "name": "Vst Industries Ltd",
+    "ticker": "VSTIND"
+  },
+  {
+    "name": "Vibhor Steel Tubes Ltd",
+    "ticker": "VSTL"
+  },
+  {
+    "name": "V.S.T Tillers Tractors Ltd",
+    "ticker": "VSTTILLERS"
+  },
+  {
+    "name": "Vardhman Textiles Ltd",
+    "ticker": "VTL"
+  },
+  {
+    "name": "Waaree Energies Ltd",
+    "ticker": "WAAREEENER"
+  },
+  {
+    "name": "Indosolar Ltd",
+    "ticker": "WAAREEINDO"
+  },
+  {
+    "name": "Waaree Renewable Technologies Ltd",
+    "ticker": "WAAREERTL"
+  },
+  {
+    "name": "Va Tech Wabag Ltd",
+    "ticker": "WABAG"
+  },
+  {
+    "name": "Wakefit Innovations Ltd",
+    "ticker": "WAKEFIT"
+  },
+  {
+    "name": "Walchandnagar Industries Ltd",
+    "ticker": "WALCHANNAG"
+  },
+  {
+    "name": "Wanbury Ltd",
+    "ticker": "WANBURY"
+  },
+  {
+    "name": "Western Carriers (India) Ltd",
+    "ticker": "WCIL"
+  },
+  {
+    "name": "Wealth First Portfolio Managers Ltd",
+    "ticker": "WEALTH"
+  },
+  {
+    "name": "Websol Energy System Ltd",
+    "ticker": "WEBELSOLAR"
+  },
+  {
+    "name": "Weizmann Ltd",
+    "ticker": "WEIZMANIND"
+  },
+  {
+    "name": "Wonder Electricals Ltd",
+    "ticker": "WEL"
+  },
+  {
+    "name": "Welspun Corp Ltd",
+    "ticker": "WELCORP"
+  },
+  {
+    "name": "Welspun Enterprises Ltd",
+    "ticker": "WELENT"
+  },
+  {
+    "name": "Welspun Investments And Commercials Ltd",
+    "ticker": "WELINV"
+  },
+  {
+    "name": "Welspun Specialty Solutions Ltd",
+    "ticker": "WELSPLSOL"
+  },
+  {
+    "name": "Welspun Living Ltd",
+    "ticker": "WELSPUNLIV"
+  },
+  {
+    "name": "Wendt (India) Ltd",
+    "ticker": "WENDT"
+  },
+  {
+    "name": "Westlife Foodworld Ltd",
+    "ticker": "WESTLIFE"
+  },
+  {
+    "name": "We Win Ltd",
+    "ticker": "WEWIN"
+  },
+  {
+    "name": "Wework India Management Ltd",
+    "ticker": "WEWORK"
+  },
+  {
+    "name": "Wheels India Ltd",
+    "ticker": "WHEELS"
+  },
+  {
+    "name": "Whirlpool Of India Ltd",
+    "ticker": "WHIRLPOOL"
+  },
+  {
+    "name": "Williamson Magor & Company Ltd",
+    "ticker": "WILLAMAGOR"
+  },
+  {
+    "name": "Windlas Biotech Ltd",
+    "ticker": "WINDLAS"
+  },
+  {
+    "name": "Windsor Machines Ltd",
+    "ticker": "WINDMACHIN"
+  },
+  {
+    "name": "The Western India Plywoods Ltd",
+    "ticker": "WIPL"
+  },
+  {
+    "name": "Wipro Ltd",
+    "ticker": "WIPRO"
+  },
+  {
+    "name": "Wockhardt Ltd",
+    "ticker": "WOCKPHARMA"
+  },
+  {
+    "name": "Wonderla Holidays Ltd",
+    "ticker": "WONDERLA"
+  },
+  {
+    "name": "Worth Peripherals Ltd",
+    "ticker": "WORTHPERI"
+  },
+  {
+    "name": "Wpil Ltd",
+    "ticker": "WPIL"
+  },
+  {
+    "name": "W S Industries (I) Ltd",
+    "ticker": "WSI"
+  },
+  {
+    "name": "West Coast Paper Mills Ltd",
+    "ticker": "WSTCSTPAPR"
+  },
+  {
+    "name": "Xchanging Solutions Ltd",
+    "ticker": "XCHANGING"
+  },
+  {
+    "name": "Xelpmoc Design And Tech Ltd",
+    "ticker": "XELPMOC"
+  },
+  {
+    "name": "Xpro India Ltd",
+    "ticker": "XPROINDIA"
+  },
+  {
+    "name": "Xtglobal Infotech Ltd",
+    "ticker": "XTGLOBAL"
+  },
+  {
+    "name": "Yasho Industries Ltd",
+    "ticker": "YASHO"
+  },
+  {
+    "name": "Yatharth Hospital & Trauma Care Services Ltd",
+    "ticker": "YATHARTH"
+  },
+  {
+    "name": "Yatra Online Ltd",
+    "ticker": "YATRA"
+  },
+  {
+    "name": "Yes Bank Ltd",
+    "ticker": "YESBANK"
+  },
+  {
+    "name": "Yuken India Ltd",
+    "ticker": "YUKEN"
+  },
+  {
+    "name": "Zaggle Prepaid Ocean Services Ltd",
+    "ticker": "ZAGGLE"
+  },
+  {
+    "name": "Zee Entertainment Enterprises Ltd",
+    "ticker": "ZEEL"
+  },
+  {
+    "name": "Zee Learn Ltd",
+    "ticker": "ZEELEARN"
+  },
+  {
+    "name": "Zee Media Corporation Ltd",
+    "ticker": "ZEEMEDIA"
+  },
+  {
+    "name": "Zenith Exports Ltd",
+    "ticker": "ZENITHEXPO"
+  },
+  {
+    "name": "Zenith Steel Pipes & Industries Ltd",
+    "ticker": "ZENITHSTL"
+  },
+  {
+    "name": "Zensar Technologies Ltd",
+    "ticker": "ZENSARTECH"
+  },
+  {
+    "name": "Zen Technologies Ltd",
+    "ticker": "ZENTEC"
+  },
+  {
+    "name": "Zf Commercial Vehicle Control Systems India Ltd",
+    "ticker": "ZFCVINDIA"
+  },
+  {
+    "name": "Zf Steering Gear (India) Ltd",
+    "ticker": "ZFSTEERING"
+  },
+  {
+    "name": "Zim Laboratories Ltd",
+    "ticker": "ZIMLAB"
+  },
+  {
+    "name": "Zodiac Energy Ltd",
+    "ticker": "ZODIAC"
+  },
+  {
+    "name": "Zodiac Clothing Company Ltd",
+    "ticker": "ZODIACLOTH"
+  },
+  {
+    "name": "Zota Health Care Ltd",
+    "ticker": "ZOTA"
+  },
+  {
+    "name": "Saraswati Commercial India Ltd",
+    "ticker": "ZSARACOM"
+  },
+  {
+    "name": "Zuari Agro Chemicals Ltd",
+    "ticker": "ZUARI"
+  },
+  {
+    "name": "Zuari Industries Ltd",
+    "ticker": "ZUARIIND"
+  },
+  {
+    "name": "Zydus Lifesciences Ltd",
+    "ticker": "ZYDUSLIFE"
+  },
+  {
+    "name": "Zydus Wellness Ltd",
+    "ticker": "ZYDUSWELL"
+  }
+]
