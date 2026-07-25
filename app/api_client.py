@@ -343,12 +343,25 @@ def get_stock(name):
         try:
             with open(companies_file, "r", encoding="utf-8") as f:
                 companies = json.load(f)
+            
+            # Pass 1: Check for exact ticker or exact company name match
             for c in companies:
                 c_ticker = c.get("ticker", "").strip().lower()
                 c_name = c.get("name", "").strip().lower()
-                if name_clean == c_ticker or name_clean == c_name or c_name in name_clean or name_clean in c_name:
+                if name_clean == c_ticker or name_clean == c_name:
                     ticker = c.get("ticker", "").strip().upper()
                     break
+            
+            # Pass 2: Fuzzy/substring name matches (with word boundary / length checks to prevent sub-word collisions)
+            if not ticker:
+                for c in companies:
+                    c_ticker = c.get("ticker", "").strip().lower()
+                    c_name = c.get("name", "").strip().lower()
+                    if name_clean in c_name:
+                        words = c_name.split()
+                        if name_clean in words or len(name_clean) >= 4:
+                            ticker = c.get("ticker", "").strip().upper()
+                            break
         except Exception as e:
             print(f"[!] Error loading nse_companies.json in get_stock: {e}")
 
