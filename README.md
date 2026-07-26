@@ -154,5 +154,5 @@ StockSence_India/
 </div>
 
 <div align="center">
-  Made with 💙 by <strong>Shabber Hussain</strong>
+  Made with 💙 by <strong>Shabber (Team Lead), Surendra, Dheeraj</strong>
 </div>
